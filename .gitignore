@@ -1,7 +1,12 @@
 #Ignorar el entorno virtual
 __venv__/
+venv/
 
 #Ignorar cache de python
 __pycache__/
 *.pyc
 *.pyo
+
+# Logs
+logs/
+*.log
