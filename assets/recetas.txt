@@ -1,0 +1,4384 @@
+RECETA_INICIO
+ID: ESP_001
+TITULO: Paella Valenciana
+CATEGORIA: Arroces
+INGREDIENTES: [400g arroz bomba, 800g pollo troceado, 400g conejo, 200g bajoqueta, 150g garrofÃ³, Tomate triturado, AzafrÃ¡n, Aceite de oliva, Sal, Caldo de pollo]
+PASOS:
+1. SofreÃ­r el pollo y el conejo en la paella con aceite hasta dorar.
+2. AÃ±adir las judÃ­as verdes y el garrofÃ³; rehogar unos minutos.
+3. Incorporar el tomate y el azafrÃ¡n, luego verter el caldo caliente.
+4. Cuando hierva, aÃ±adir el arroz repartiÃ©ndolo uniformemente.
+5. Cocinar 10 min a fuego fuerte y 8 min a fuego suave. Dejar reposar.
+RECETA_FIN
+
+RECETA_INICIO
+ID: ESP_002
+TITULO: Gazpacho Andaluz
+CATEGORIA: Sopas FrÃ­as
+INGREDIENTES: [1kg tomates maduros, 1 pimiento verde, 1 pepino, 1 diente ajo, 50ml aceite de oliva, 30ml vinagre de jerez, Sal, Pan duro opcional]
+PASOS:
+1. Lavar y trocear todas las verduras.
+2. Triturar en batidora de alta potencia hasta que quede fino.
+3. AÃ±adir el aceite, vinagre y sal mientras se sigue batiendo para emulsionar.
+4. Pasar por un colador chino para eliminar pieles y semillas.
+5. Enfriar en la nevera al menos 2 horas antes de servir.
+RECETA_FIN
+
+RECETA_INICIO
+ID: ESP_003
+TITULO: Gambas al Ajillo
+CATEGORIA: Tapas
+INGREDIENTES: [400g gambas peladas, 4 dientes ajo, 1 guindilla, Aceite de oliva virgen extra, Perejil fresco, Sal]
+PASOS:
+1. Laminar los ajos y picar la guindilla.
+2. Calentar abundante aceite en una cazuela de barro.
+3. Dorar el ajo y la guindilla sin que se quemen.
+4. AÃ±adir las gambas y cocinar 2 minutos hasta que cambien de color.
+5. Espolvorear perejil y servir burbujeando.
+RECETA_FIN
+
+RECETA_INICIO
+ID: ESP_004
+TITULO: Pulpo a la Gallega (Polbo Ã¡ feira)
+CATEGORIA: Mariscos
+INGREDIENTES: [1 pulpo de 2kg, Patatas (cachelos), PimentÃ³n dulce, PimentÃ³n picante, Aceite de oliva virgen extra, Sal gorda]
+PASOS:
+1. Cocer el pulpo en agua hirviendo (asustÃ¡ndolo 3 veces) durante 30-40 min.
+2. En la misma agua, cocer las patatas cortadas en rodajas.
+3. Cortar el pulpo con tijeras sobre las patatas.
+4. Aderezar con abundante aceite, los dos tipos de pimentÃ³n y sal gorda.
+RECETA_FIN
+
+RECETA_INICIO
+ID: ESP_005
+TITULO: Croquetas de JamÃ³n IbÃ©rico
+CATEGORIA: Entrantes
+INGREDIENTES: [150g jamÃ³n ibÃ©rico picado, 1L leche entera, 100g mantequilla, 100g harina, Huevo, Pan rallado, Nuez moscada]
+PASOS:
+1. Derretir mantequilla, aÃ±adir harina y cocinar 2 min (roux).
+2. Verter la leche poco a poco removiendo con varillas para evitar grumos.
+3. AÃ±adir el jamÃ³n y nuez moscada; cocinar hasta que la masa espese.
+4. Dejar enfriar la masa, formar bolas, pasar por huevo y pan rallado.
+5. FreÃ­r en aceite muy caliente.
+RECETA_FIN
+
+RECETA_INICIO
+ID: ESP_006
+TITULO: Fabada Asturiana
+CATEGORIA: Legumbres
+INGREDIENTES: [500g fabes, 2 chorizos, 2 morcillas, 150g lacÃ³n, 100g tocino, AzafrÃ¡n, Sal]
+PASOS:
+1. Remojar las fabes 12 horas antes.
+2. Poner en una olla las fabes con el compango (embutidos).
+3. Cubrir con agua frÃ­a y llevar a ebulliciÃ³n; espumar la superficie.
+4. Cocinar a fuego muy lento 2-3 horas, "asustÃ¡ndolas" con agua frÃ­a dos veces.
+RECETA_FIN
+
+RECETA_INICIO
+ID: ESP_007
+TITULO: Bacalao al Pil Pil
+CATEGORIA: Pescados
+INGREDIENTES: [4 lomos de bacalao desalado, 250ml aceite de oliva, 4 dientes ajo, 1 guindilla]
+PASOS:
+1. Dorar ajos y guindilla en aceite y reservar.
+2. Cocinar el bacalao a fuego muy bajo con la piel hacia arriba.
+3. Retirar el bacalao y ligar el aceite con el suero del pescado moviendo la cazuela en cÃ­rculos.
+4. Cuando la salsa espese (emulsiÃ³n), reincorporar el bacalao.
+RECETA_FIN
+
+RECETA_INICIO
+ID: ESP_008
+TITULO: Callos a la MadrileÃ±a
+CATEGORIA: Guisos
+INGREDIENTES: [1kg callos de ternera, 1 pata de ternera, 150g jamÃ³n, 1 chorizo, 1 morcilla, Laurel, PimentÃ³n, Ajo, Cebolla]
+PASOS:
+1. Limpiar y cocer los callos con la pata, laurel y cebolla hasta que estÃ©n tiernos.
+2. En una sartÃ©n, hacer un sofrito de ajo, cebolla, jamÃ³n y pimentÃ³n.
+3. AÃ±adir el sofrito a la olla de los callos junto con el chorizo y morcilla en rodajas.
+4. Cocinar todo junto 20 minutos hasta que la salsa trabe.
+RECETA_FIN
+
+RECETA_INICIO
+ID: ESP_009
+TITULO: Salmorejo CordobÃ©s
+CATEGORIA: Sopas FrÃ­as
+INGREDIENTES: [1kg tomates, 200g pan de hogaza, 100ml aceite de oliva, 1 diente ajo, Sal, Huevo duro, JamÃ³n picado]
+PASOS:
+1. Triturar los tomates y colar.
+2. AÃ±adir el pan al zumo de tomate para que se hidrate.
+3. Incorporar el ajo y triturar de nuevo.
+4. AÃ±adir aceite poco a poco para crear una crema espesa.
+5. Servir con huevo duro y jamÃ³n por encima.
+RECETA_FIN
+
+RECETA_INICIO
+ID: ESP_010
+TITULO: Pimientos del PadrÃ³n
+CATEGORIA: Tapas
+INGREDIENTES: [250g pimientos del PadrÃ³n, Aceite de oliva, Sal gorda]
+PASOS:
+1. Lavar y secar muy bien los pimientos.
+2. FreÃ­r en aceite de oliva bien caliente hasta que la piel se ampolle.
+3. Escurrir el exceso de aceite.
+4. Espolvorear con abundante sal gorda antes de servir.
+RECETA_FIN
+
+RECETA_INICIO
+ID: ESP_011
+TITULO: Merluza a la Vasca
+CATEGORIA: Pescados
+INGREDIENTES: [4 rodajas merluza, 2 dientes ajo, 100ml vino blanco, 200ml caldo pescado, Guisantes, EspÃ¡rragos blancos, Huevo duro, Perejil]
+PASOS:
+1. Enharinar la merluza y dorar levemente con ajo picado.
+2. AÃ±adir vino blanco y dejar evaporar el alcohol.
+3. Verter caldo y cocinar a fuego medio meneando la sartÃ©n.
+4. AÃ±adir guisantes, espÃ¡rragos y huevo duro al final con mucho perejil.
+RECETA_FIN
+
+RECETA_INICIO
+ID: ESP_012
+TITULO: Torrijas de Leche
+CATEGORIA: Postres
+INGREDIENTES: [1 barra pan del dÃ­a anterior, 1L leche, 200g azÃºcar, Canela en rama, Piel de limÃ³n, 3 huevos, Aceite para freÃ­r]
+PASOS:
+1. Infusionar la leche con canela, limÃ³n y azÃºcar.
+2. Empapar las rebanadas de pan en la leche tibia.
+3. Pasar las rebanadas por huevo batido.
+4. FreÃ­r en aceite caliente hasta dorar por ambos lados.
+5. Rebozar en una mezcla de azÃºcar y canela en polvo.
+RECETA_FIN
+
+RECETA_INICIO
+ID: ESP_013
+TITULO: Pisto Manchego
+CATEGORIA: Verduras
+INGREDIENTES: [2 calabacines, 1 pimiento rojo, 2 pimientos verdes, 1 cebolla, 500g tomate triturado, Aceite, Sal]
+PASOS:
+1. Picar todas las verduras en dados pequeÃ±os (brunoise).
+2. SofreÃ­r la cebolla y los pimientos durante 15 minutos.
+3. AÃ±adir el calabacÃ­n y cocinar otros 10 minutos.
+4. Verter el tomate y cocinar a fuego lento hasta que reduzca y espese.
+RECETA_FIN
+
+RECETA_INICIO
+ID: ESP_014
+TITULO: Carrilleras al Vino Tinto
+CATEGORIA: Carnes
+INGREDIENTES: [1kg carrilleras de cerdo, 1 cebolla, 2 zanahorias, 1 puerro, 500ml vino tinto, Caldo de carne, Harina]
+PASOS:
+1. Salpimentar y enharinar las carrilleras; sellar en una olla rÃ¡pida.
+2. Retirar la carne y sofreÃ­r las verduras picadas.
+3. AÃ±adir el vino y dejar reducir a la mitad.
+4. Incorporar la carne y el caldo; cerrar la olla y cocer 45 minutos.
+5. Triturar la salsa y servir con purÃ© de patata.
+RECETA_FIN
+
+RECETA_INICIO
+ID: ESP_015
+TITULO: Arroz a Banda
+CATEGORIA: Arroces
+INGREDIENTES: [400g arroz, 1.2L fumet de pescado, Salmorreta (sofrito de Ã±ora y ajo), Sepia, Gambas, Alioli]
+PASOS:
+1. SofreÃ­r la sepia y las gambas en la paella; retirar.
+2. AÃ±adir la salmorreta y el arroz, nÃ¡carar el grano 2 min.
+3. AÃ±adir el fumet caliente y cocinar 18 minutos.
+4. Servir el arroz seco acompaÃ±ado de una buena salsa alioli aparte.
+RECETA_FIN
+
+RECETA_INICIO
+ID: ESP_016
+TITULO: Tarta de Santiago
+CATEGORIA: Postres
+INGREDIENTES: [250g almendra molida, 250g azÃºcar, 5 huevos, Ralladura de limÃ³n, Canela, AzÃºcar glass]
+PASOS:
+1. Mezclar la almendra con el azÃºcar, canela y ralladura.
+2. AÃ±adir los huevos uno a uno batiendo suavemente (sin espumar).
+3. Verter en un molde engrasado y hornear a 180Â°C por 30 min.
+4. Dejar enfriar y decorar con azÃºcar glass usando la silueta de la cruz de Santiago.
+RECETA_FIN
+
+RECETA_INICIO
+ID: ESP_017
+TITULO: Cocido MadrileÃ±o
+CATEGORIA: Legumbres
+INGREDIENTES: [300g garbanzos, Morcillo de ternera, Tocino, Gallina, Chorizo, Morcilla, Repollo, Patata, Fideos]
+PASOS:
+1. Cocer las carnes y garbanzos (remojados) durante 3 horas.
+2. Cocer el repollo y las patatas aparte.
+3. Colar el caldo para hacer una sopa con fideos finos.
+4. Servir en tres vuelcos: sopa, luego legumbres con verdura, y finalmente carnes.
+RECETA_FIN
+
+RECETA_INICIO
+ID: ESP_018
+TITULO: Escalivada
+CATEGORIA: Verduras
+INGREDIENTES: [2 berenjenas, 2 pimientos rojos, 2 cebollas, Aceite de oliva, Sal, Ajo picado]
+PASOS:
+1. Hornear las verduras enteras a 200Â°C hasta que la piel estÃ© negra.
+2. Tapar con papel film para que suden y sea fÃ¡cil pelarlas.
+3. Pelar, quitar semillas y cortar en tiras largas.
+4. AliÃ±ar con aceite, sal y ajo picado.
+RECETA_FIN
+
+RECETA_INICIO
+ID: ESP_019
+TITULO: Churros Caseros
+CATEGORIA: Desayunos
+INGREDIENTES: [250g harina, 250ml agua, 1 cdta sal, Aceite para freÃ­r, AzÃºcar]
+PASOS:
+1. Hervir el agua con la sal.
+2. Verter la harina de golpe y remover enÃ©rgicamente hasta formar una masa compacta.
+3. Introducir en una churrera para eliminar el aire (evita explosiones).
+4. Formar los churros y freÃ­r en aceite muy caliente hasta dorar.
+RECETA_FIN
+
+RECETA_INICIO
+ID: ESP_020
+TITULO: Crema Catalana
+CATEGORIA: Postres
+INGREDIENTES: [1L leche, 6 yemas de huevo, 200g azÃºcar, 40g almidÃ³n de maÃ­z, Piel de naranja, Canela]
+PASOS:
+1. Infusionar leche con canela y naranja.
+2. Mezclar yemas con azÃºcar y almidÃ³n.
+3. Unir todo y cocinar a fuego lento sin dejar de remover hasta que espese.
+4. Verter en cazuelitas y quemar azÃºcar por encima con un soplete antes de servir.
+RECETA_FIN
+
+RECETA_INICIO
+ID: ESP_021
+TITULO: Marmitako de AtÃºn
+CATEGORIA: Guisos
+INGREDIENTES: [500g atÃºn fresco, 4 patatas, 1 cebolla, 1 pimiento verde, 2 pimientos choriceros, Caldo de pescado]
+PASOS:
+1. SofreÃ­r cebolla y pimiento picado.
+2. AÃ±adir las patatas "chascadas" (rotas) y la carne del pimiento choricero.
+3. Cubrir con caldo y cocer hasta que la patata estÃ© blanda.
+4. Apagar el fuego, aÃ±adir el atÃºn en dados y dejar que se cocine con el calor residual.
+RECETA_FIN
+
+RECETA_INICIO
+ID: ESP_022
+TITULO: Cordero Asado (Lechazo)
+CATEGORIA: Carnes
+INGREDIENTES: [1 cuarto de lechazo, Agua, Sal, Manteca de cerdo]
+PASOS:
+1. Untar el cordero con sal y un poco de manteca.
+2. Poner en una fuente de barro con un dedo de agua en el fondo.
+3. Hornear a 160Â°C durante 2 horas, dÃ¡ndole la vuelta a la mitad.
+4. Subir a 200Â°C los Ãºltimos 15 min para que la piel quede crujiente.
+RECETA_FIN
+
+RECETA_INICIO
+ID: ESP_023
+TITULO: Solomillo al Whisky
+CATEGORIA: Carnes
+INGREDIENTES: [500g solomillo de cerdo, 100ml whisky, 5 dientes ajo, Zumo de limÃ³n, Comino, Aceite]
+PASOS:
+1. Cortar el solomillo en medallones y sellar en la sartÃ©n.
+2. AÃ±adir ajos enteros machacados y el whisky.
+3. Flambear con cuidado o dejar reducir el alcohol.
+4. AÃ±adir zumo de limÃ³n y comino; cocinar hasta que la salsa espese.
+RECETA_FIN
+
+RECETA_INICIO
+ID: ESP_024
+TITULO: Migas del Pastor
+CATEGORIA: Tradicional
+INGREDIENTES: [500g pan duro picado, 200g panceta, 1 chorizo, 4 dientes ajo, PimentÃ³n, Agua con sal]
+PASOS:
+1. Humedecer ligeramente el pan con agua salada y tapar con un paÃ±o.
+2. FreÃ­r los ajos, la panceta y el chorizo; reservar.
+3. En ese mismo aceite, aÃ±adir pimentÃ³n y el pan.
+4. Remover constantemente a fuego medio hasta que las migas estÃ©n sueltas y doradas.
+RECETA_FIN
+
+RECETA_INICIO
+ID: ESP_025
+TITULO: Empanada Gallega de AtÃºn
+CATEGORIA: Masas
+INGREDIENTES: [500g harina, 200ml agua, 100ml aceite del sofrito, Levadura, 3 cebollas, 2 pimientos, 3 latas de atÃºn]
+PASOS:
+1. Hacer un sofrito largo con mucha cebolla y pimiento; aÃ±adir el atÃºn.
+2. Preparar la masa mezclando harina, agua, levadura y el aceite del sofrito.
+3. Estirar dos lÃ¡minas de masa; rellenar con el sofrito frÃ­o.
+4. Cerrar los bordes (reulgue) y hornear a 190Â°C por 45 minutos.
+RECETA_FIN
+
+RECETA_INICIO
+ID: ESP_026
+TITULO: Patatas Bravas
+CATEGORIA: Tapas
+INGREDIENTES: [3 patatas, Aceite de oliva, Harina, PimentÃ³n dulce y picante, Caldo de carne]
+PASOS:
+1. Cortar patatas en trozos irregulares y freÃ­r a fuego lento, luego fuerte para dorar.
+2. Para la salsa: sofreÃ­r pimentÃ³n en aceite, aÃ±adir harina y luego caldo.
+3. Cocinar hasta que la salsa espese (la autÃ©ntica brava no lleva tomate).
+4. Verter salsa caliente sobre las patatas reciÃ©n hechas.
+RECETA_FIN
+
+RECETA_INICIO
+ID: ESP_027
+TITULO: Ajoarriero
+CATEGORIA: Pescados
+INGREDIENTES: [500g bacalao desmigado, 2 pimientos rojos, 2 verdes, 3 dientes ajo, Tomate natural, Guindilla]
+PASOS:
+1. SofreÃ­r los ajos y los pimientos picados.
+2. AÃ±adir el tomate y dejar reducir.
+3. Incorporar el bacalao desalado y remover para que suelte la gelatina.
+4. Cocinar todo junto 10 minutos para que se integren los sabores.
+RECETA_FIN
+
+RECETA_INICIO
+ID: ESP_028
+TITULO: Arroz con Leche
+CATEGORIA: Postres
+INGREDIENTES: [1L leche entera, 100g arroz, 100g azÃºcar, Canela, Piel de limÃ³n, Mantequilla]
+PASOS:
+1. Cocer el arroz con la leche, canela y limÃ³n a fuego muy bajo.
+2. Remover cada 5 minutos para que el arroz suelte el almidÃ³n.
+3. Tras 45 min, aÃ±adir el azÃºcar y la mantequilla.
+4. Cocinar 10 min mÃ¡s y dejar enfriar. Decorar con canela en polvo.
+RECETA_FIN
+
+RECETA_INICIO
+ID: ESP_029
+TITULO: Lentejas con Chorizo
+CATEGORIA: Legumbres
+INGREDIENTES: [300g lentejas pardinas, 1 chorizo, 1 zanahoria, 1 patata, 1 cebolla, PimentÃ³n, Laurel]
+PASOS:
+1. Poner todos los ingredientes en frÃ­o en una olla.
+2. Cubrir con agua (dos dedos por encima).
+3. Llevar a ebulliciÃ³n y luego cocinar a fuego lento 40-50 minutos.
+4. Triturar un poco de patata y zanahoria para espesar el caldo si es necesario.
+RECETA_FIN
+
+RECETA_INICIO
+ID: ESP_030
+TITULO: Boquerones en Vinagre
+CATEGORIA: Tapas
+INGREDIENTES: [500g boquerones frescos, 200ml vinagre blanca, Agua, Sal, Ajo, Perejil, Aceite de oliva]
+PASOS:
+1. Limpiar los boquerones quitando cabeza y espina.
+2. Congelar 48h (prevenciÃ³n Anisakis).
+3. Sumergir en mezcla de vinagre y agua (80/20) con sal por 3 horas hasta que blanqueen.
+4. Escurrir y cubrir con aceite de oliva, ajo picado y perejil.
+RECETA_FIN
+
+
+RECETA_INICIO
+ID: MEX_031
+TITULO: Tacos al Pastor
+CATEGORIA: Tacos
+INGREDIENTES: [1kg carne de cerdo (lomo o pierna), 3 chiles guajillo, 2 chiles anchos, 1/4 taza vinagre de manzana, 1/2 taza jugo de piÃ±a, Achiote, Cebolla, Cilantro, PiÃ±a fresca]
+PASOS:
+1. Hidratar los chiles en agua caliente y licuar con el vinagre, jugo de piÃ±a, achiote y especias.
+2. Marinar la carne en lÃ¡minas finas con este adobo durante al menos 4 horas.
+3. Cocinar la carne a la plancha o en asador hasta que estÃ© dorada y ligeramente crujiente.
+4. Servir en tortillas de maÃ­z con cebolla, cilantro, salsa y trozos de piÃ±a asada.
+RECETA_FIN
+
+RECETA_INICIO
+ID: MEX_032
+TITULO: Mole Poblano Tradicional
+CATEGORIA: Guisos Especiales
+INGREDIENTES: [500g varios chiles (mulato, ancho, pasilla), 100g chocolate de mesa, Almendras, AjonjolÃ­, Pasas, Canela, Clavo, Tortilla dura, Pan, Caldo de pollo]
+PASOS:
+1. Tostar y desvenar los chiles; remojar en agua caliente.
+2. FreÃ­r individualmente las semillas, frutos secos, pan y especias.
+3. Licuar todo junto con los chiles y un poco de caldo hasta obtener una pasta fina.
+4. FreÃ­r la pasta en manteca, aÃ±adir el chocolate y caldo. Cocinar a fuego lento por horas.
+5. Servir sobre piezas de pollo cocido y espolvorear ajonjolÃ­ tostado.
+RECETA_FIN
+
+RECETA_INICIO
+ID: MEX_033
+TITULO: Chiles en Nogada
+CATEGORIA: Plato de Temporada
+INGREDIENTES: [6 chiles poblanos, 500g carne molida mixta, Fruta picada (manzana, pera, durazno), 200g nuez de castilla, 100g queso crema, Crema Ã¡cida, Granada, Perejil]
+PASOS:
+1. Tostar, pelar y desvenar los chiles poblanos.
+2. Preparar el relleno (picadillo) con la carne y las frutas hasta que estÃ© sazonado.
+3. Licuar la nuez de castilla limpia con el queso, la crema y un toque de jerez para la nogada.
+4. Rellenar los chiles, cubrir con la salsa de nogada frÃ­a.
+5. Decorar con granos de granada y hojas de perejil (colores de la bandera).
+RECETA_FIN
+
+RECETA_INICIO
+ID: MEX_034
+TITULO: Chilaquiles Verdes
+CATEGORIA: Desayunos
+INGREDIENTES: [12 tortillas de maÃ­z, 500g tomate verde, 2 chiles serranos, Cilantro, Cebolla, Crema, Queso fresco, Pollo deshebrado]
+PASOS:
+1. Cortar las tortillas en triÃ¡ngulos y freÃ­r hasta que estÃ©n muy crujientes (totopos).
+2. Cocer los tomates y chiles; licuar con cilantro, cebolla y un poco de ajo.
+3. SofreÃ­r la salsa verde y dejar espesar ligeramente.
+4. BaÃ±ar los totopos con la salsa caliente sin que pierdan toda su firmeza.
+5. Servir con crema, queso, cebolla picada y pollo por encima.
+RECETA_FIN
+
+RECETA_INICIO
+ID: MEX_035
+TITULO: Pozole Rojo
+CATEGORIA: Sopas
+INGREDIENTES: [1kg maÃ­z cacahuazintle precocido, 1kg carne de cerdo, 4 chiles guajillo, 2 chiles anchos, Ajo, Cebolla, OrÃ©gano, Lechuga, RÃ¡banos, LimÃ³n]
+PASOS:
+1. Cocer el maÃ­z en abundante agua hasta que "florezca".
+2. AÃ±adir la carne de cerdo y cocinar hasta que estÃ© suave.
+3. Licuar los chiles hidratados con ajo y cebolla; colar y aÃ±adir al caldo.
+4. Cocinar todo junto para que los sabores se integren.
+5. Servir en platos hondos con lechuga, rÃ¡bano, cebolla, orÃ©gano y limÃ³n al gusto.
+RECETA_FIN
+
+RECETA_INICIO
+ID: MEX_036
+TITULO: Cochinita Pibil
+CATEGORIA: Cocina Regional (YucatÃ¡n)
+INGREDIENTES: [1kg carne de cerdo, 100g achiote, 1 taza jugo de naranja agria, Hojas de plÃ¡tano, Cebolla morada, Chiles habaneros]
+PASOS:
+1. Disolver el achiote en el jugo de naranja agria con un poco de sal.
+2. Marinar la carne durante 12 horas.
+3. Envolver la carne en hojas de plÃ¡tano y hornear a 160Â°C hasta que se deshebre sola.
+4. Deshebrar la carne y baÃ±ar con sus jugos.
+5. AcompaÃ±ar con cebolla morada curtida en limÃ³n y habanero.
+RECETA_FIN
+
+RECETA_INICIO
+ID: MEX_037
+TITULO: Aguachile de CamarÃ³n
+CATEGORIA: Mariscos
+INGREDIENTES: [500g camarÃ³n limpio, 1/2 taza jugo de limÃ³n, 2 chiles serranos, Cilantro, Pepino, Cebolla morada, Sal]
+PASOS:
+1. Abrir los camarones en corte mariposa y colocar en un plato plano.
+2. Licuar el jugo de limÃ³n con los chiles y el cilantro.
+3. Verter la mezcla sobre los camarones y dejar marinar solo 10-15 minutos.
+4. AÃ±adir rodajas de pepino y cebolla morada en juliana.
+5. Servir muy frÃ­o con tostadas de maÃ­z.
+RECETA_FIN
+
+RECETA_INICIO
+ID: MEX_038
+TITULO: Sopa de Lima
+CATEGORIA: Sopas
+INGREDIENTES: [1 pechuga de pollo, 2 limas yucatecas, 1 pimiento, Cebolla, Tomate, Tortillas fritas, Clavo]
+PASOS:
+1. Cocer el pollo con cebolla y clavo; deshebrar.
+2. SofreÃ­r tomate, pimiento y cebolla picados; aÃ±adir al caldo.
+3. Incorporar rodajas de lima al caldo (sin dejar mucho tiempo para que no amargue).
+4. Servir el caldo caliente con el pollo deshebrado.
+5. AÃ±adir tiras de tortilla frita justo antes de comer.
+RECETA_FIN
+
+RECETA_INICIO
+ID: MEX_039
+TITULO: Enchiladas Suizas
+CATEGORIA: Antojitos
+INGREDIENTES: [12 tortillas de maÃ­z, Pechuga de pollo cocida, 500g tomate verde, 250ml crema, 200g queso manchego rallado, Chile serrano]
+PASOS:
+1. Preparar una salsa verde cociendo tomate y chile, licuando con la crema.
+2. Pasar las tortillas por aceite caliente rÃ¡pidamente (sin endurecer).
+3. Rellenar las tortillas con pollo y enrollar.
+4. BaÃ±ar las enchiladas con la salsa verde cremosa.
+5. Cubrir con queso y hornear hasta que gratine.
+RECETA_FIN
+
+RECETA_INICIO
+ID: MEX_040
+TITULO: Esquites
+CATEGORIA: Snack / Calle
+INGREDIENTES: [4 tazas granos de elote tierno, Epazote, Mantequilla, Cebolla, Chile de Ã¡rbol, Mayonesa, Queso cotija, LimÃ³n]
+PASOS:
+1. SofreÃ­r cebolla picada y chile de Ã¡rbol en mantequilla.
+2. AÃ±adir los granos de elote y dorar ligeramente.
+3. Cubrir con agua, aÃ±adir las ramas de epazote y sal; cocer hasta que el elote estÃ© suave.
+4. Servir en vaso con un poco de su caldo.
+5. Aderezar con mayonesa, queso rallado, chile en polvo y limÃ³n.
+RECETA_FIN
+
+RECETA_INICIO
+ID: MEX_041
+TITULO: Pambazos
+CATEGORIA: Antojitos
+INGREDIENTES: [6 panes bazo o telera, 500g papas, 200g chorizo, Salsa de chile guajillo, Lechuga, Crema, Queso]
+PASOS:
+1. Cocer y machacar las papas; mezclar con el chorizo frito.
+2. Sumergir el pan en la salsa de guajillo hasta que se pinte bien.
+3. FreÃ­r el pan en una sartÃ©n con poco aceite por ambos lados.
+4. Rellenar con la mezcla de papa con chorizo.
+5. AÃ±adir lechuga, crema y queso dentro o encima del pan.
+RECETA_FIN
+
+RECETA_INICIO
+ID: MEX_042
+TITULO: Tostadas de Tinga de Pollo
+CATEGORIA: Antojitos
+INGREDIENTES: [2 pechugas deshebradas, 3 cebollas grandes, 2 chiles chipotles en adobo, Tomate licuado, Tostadas de maÃ­z]
+PASOS:
+1. Acitronar abundante cebolla en juliana hasta que estÃ© transparente.
+2. AÃ±adir el pollo deshebrado y el tomate licuado con los chipotles.
+3. Cocinar a fuego lento hasta que el lÃ­quido se evapore casi por completo.
+4. Untar frijoles refritos en una tostada.
+5. Colocar la tinga encima y decorar con crema y queso.
+RECETA_FIN
+
+RECETA_INICIO
+ID: MEX_043
+TITULO: Carnitas de Cerdo
+CATEGORIA: Carnes
+INGREDIENTES: [2kg carne de cerdo variada, 1L manteca de cerdo, Jugo de naranja, Leche condensada (secreto), Canela, Sal]
+PASOS:
+1. Calentar la manteca en un cazo grande de cobre o acero.
+2. AÃ±adir la carne y cocinar a fuego medio para confitarla.
+3. Agregar el jugo de naranja, sal y la leche condensada para caramelizar el exterior.
+4. Cocinar hasta que la carne estÃ© tierna por dentro y dorada por fuera.
+5. Picar y servir en tacos con salsa verde.
+RECETA_FIN
+
+RECETA_INICIO
+ID: MEX_044
+TITULO: Rajas con Crema
+CATEGORIA: GuarniciÃ³n
+INGREDIENTES: [4 chiles poblanos, 1 taza elote en grano, 1 cebolla, 200ml crema, Queso panela, Mantequilla]
+PASOS:
+1. Tatemar los chiles, pelar y cortar en tiras (rajas).
+2. SofreÃ­r la cebolla en mantequilla, aÃ±adir los elotes y luego las rajas.
+3. Verter la crema y dejar que suelte el hervor.
+4. AÃ±adir cubos de queso panela y apagar el fuego.
+RECETA_FIN
+
+RECETA_INICIO
+ID: MEX_045
+TITULO: Tamales de Dulce
+CATEGORIA: Tamales
+INGREDIENTES: [1kg masa de maÃ­z para tamal, 250g manteca de cerdo, 1 taza azÃºcar, Pasas, Colorante rosa (opcional), Hojas de maÃ­z]
+PASOS:
+1. Batir la manteca hasta que estÃ© acremada.
+2. Incorporar la masa, azÃºcar y el colorante; batir hasta que una gota flote en agua.
+3. Untar una porciÃ³n de masa en hojas de maÃ­z hidratadas y aÃ±adir pasas.
+4. Doblar y acomodar verticalmente en una vaporera.
+5. Cocer al vapor por 60-90 minutos.
+RECETA_FIN
+
+RECETA_INICIO
+ID: MEX_046
+TITULO: Caldo de CamarÃ³n Seco
+CATEGORIA: Sopas
+INGREDIENTES: [100g camarÃ³n seco, 2 patatas, 2 zanahorias, Chile guajillo, Chile pasilla, Masa de maÃ­z para espesar]
+PASOS:
+1. Tostar los chiles y licuar con ajo para hacer el caldo base.
+2. Hervir agua con los vegetales picados y el licuado de chiles.
+3. AÃ±adir los camarones secos (enteros o en polvo).
+4. Disolver un poco de masa de maÃ­z en agua y aÃ±adir para dar cuerpo.
+RECETA_FIN
+
+RECETA_INICIO
+ID: MEX_047
+TITULO: Arroz Rojo Mexicano
+CATEGORIA: GuarniciÃ³n
+INGREDIENTES: [1 taza arroz blanco, 2 tomates maduros, 1/4 cebolla, 1 diente ajo, 2 tazas caldo de pollo, Chicharos y zanahoria]
+PASOS:
+1. FreÃ­r el arroz en aceite hasta que suene como "arena".
+2. Licuar tomate, ajo y cebolla; verter sobre el arroz y dejar secar un poco.
+3. AÃ±adir el caldo caliente y las verduras picadas.
+4. Tapar y cocinar a fuego muy bajo por 20 minutos sin mover.
+RECETA_FIN
+
+RECETA_INICIO
+ID: MEX_048
+TITULO: Gorditas de ChicharrÃ³n Prensado
+CATEGORIA: Antojitos
+INGREDIENTES: [500g masa de maÃ­z, 200g chicharrÃ³n prensado, Salsa roja, Cilantro, Cebolla]
+PASOS:
+1. Hacer una bola de masa y rellenar con el chicharrÃ³n prensado picado.
+2. Formar un disco grueso con las manos (gordita).
+3. Cocinar en un comal caliente y terminar de freÃ­r con un poco de aceite.
+4. Abrir por la mitad con un cuchillo.
+5. Rellenar con salsa, cebolla y cilantro.
+RECETA_FIN
+
+RECETA_INICIO
+ID: MEX_049
+TITULO: AlbÃ³ndigas al Chipotle
+CATEGORIA: Carnes
+INGREDIENTES: [500g carne molida, 1 huevo, Arroz cocido, Tomate licuado, Chile chipotle, Hierbabuena]
+PASOS:
+1. Mezclar carne, huevo, arroz picado y hierbabuena; formar esferas.
+2. Cocer las albÃ³ndigas en una salsa de tomate licuado con chipotle.
+3. Cocinar a fuego medio hasta que la carne estÃ© firme y la salsa reducida.
+RECETA_FIN
+
+RECETA_INICIO
+ID: MEX_050
+TITULO: Dulce de Calabaza (Chacualole)
+CATEGORIA: Postres
+INGREDIENTES: [1 calabaza de castilla, 2 conos de piloncillo, Canela, Clavo de olor, Agua]
+PASOS:
+1. Cortar la calabaza en trozos grandes (con cÃ¡scara).
+2. En una olla grande, colocar agua, piloncillo y especias.
+3. Acomodar la calabaza y cocinar a fuego lento por 2 horas.
+4. La calabaza debe quedar suave y baÃ±ada en un jarabe espeso de miel.
+RECETA_FIN
+
+RECETA_INICIO
+ID: MEX_051
+TITULO: Sopa de Fideo Seco
+CATEGORIA: Sopas / GuarniciÃ³n
+INGREDIENTES: [200g fideo fino, 3 tomates, Chile chipotle, Queso, Crema, Aguacate]
+PASOS:
+1. FreÃ­r el fideo en aceite hasta que estÃ© dorado oscuro; retirar grasa.
+2. Verter purÃ© de tomate licuado con chipotle.
+3. Cocinar tapado a fuego mÃ­nimo hasta que el fideo absorba todo el lÃ­quido.
+4. Decorar con crema, queso y rebanadas de aguacate.
+RECETA_FIN
+
+RECETA_INICIO
+ID: MEX_052
+TITULO: Pan de Muerto
+CATEGORIA: PanaderÃ­a
+INGREDIENTES: [500g harina, 150g azÃºcar, 3 huevos, 100g mantequilla, Azahar, Levadura, Ralladura de naranja]
+PASOS:
+1. Formar un volcÃ¡n con harina y azÃºcar; aÃ±adir huevos y levadura activada.
+2. Amasar incorporando mantequilla y esencia de azahar hasta que sea elÃ¡stica.
+3. Formar bollos y colocar tiras encima simulando "huesitos".
+4. Hornear a 180Â°C por 25 min; barnizar con mantequilla y espolvorear azÃºcar.
+RECETA_FIN
+
+RECETA_INICIO
+ID: MEX_053
+TITULO: Birria de Res
+CATEGORIA: Guisos
+INGREDIENTES: [1kg carne de res para deshebrar, Chiles anchos y guajillos, Vinagre, Comino, Jengibre, Mejorana]
+PASOS:
+1. Licuar los chiles con vinagre y especias para hacer el adobo.
+2. Untar la carne y dejar reposar.
+3. Cocer en olla de presiÃ³n con poco agua hasta que estÃ© muy suave.
+4. Servir la carne picada con su propio caldo (consomÃ©).
+RECETA_FIN
+
+RECETA_INICIO
+ID: MEX_054
+TITULO: Enfrijoladas
+CATEGORIA: Antojitos
+INGREDIENTES: [12 tortillas, 2 tazas frijoles negros licuados, Chile de Ã¡rbol, Queso, Cebolla, Chorizo opcional]
+PASOS:
+1. Calentar los frijoles licuados hasta que tengan una consistencia de salsa ligera.
+2. Pasar las tortillas por aceite y luego sumergirlas en los frijoles calientes.
+3. Doblar en cuatro o enrollar.
+4. Decorar con mucho queso, crema y aros de cebolla.
+RECETA_FIN
+
+RECETA_INICIO
+ID: MEX_055
+TITULO: Manitas de Puerco en Escabeche
+CATEGORIA: Entrantes
+INGREDIENTES: [4 manitas de puerco cocidas, Vinagre, Cebolla, Zanahoria, JalapeÃ±os en vinagre, Tomillo, Laurel]
+PASOS:
+1. SofreÃ­r cebolla y zanahoria en rodajas.
+2. AÃ±adir las manitas de puerco ya cocidas y limpias.
+3. Verter vinagre, agua de la cocciÃ³n y las especias.
+4. Dejar reposar al menos 24 horas antes de comer frÃ­o.
+RECETA_FIN
+
+RECETA_INICIO
+ID: MEX_056
+TITULO: Menudo (Pancita)
+CATEGORIA: Sopas
+INGREDIENTES: [1kg panza de res limpia, Chile guajillo, Ajo, Cebolla, Pata de res, OrÃ©gano]
+PASOS:
+1. Cocer la panza y la pata con ajo y cebolla durante varias horas hasta suavizar.
+2. AÃ±adir salsa de chile guajillo colada.
+3. Hervir hasta que el caldo tome color y sabor.
+4. Servir con orÃ©gano, cebolla picada y mucho limÃ³n.
+RECETA_FIN
+
+RECETA_INICIO
+ID: MEX_057
+TITULO: Sopes de Chorizo
+CATEGORIA: Antojitos
+INGREDIENTES: [500g masa de maÃ­z, Frijoles refritos, Chorizo frito, Lechuga, Queso, Crema]
+PASOS:
+1. Formar tortillas gruesas y cocer en comal.
+2. "Pellizcar" las orillas para formar un borde.
+3. FreÃ­r ligeramente el sope en aceite.
+4. Rellenar con frijoles, chorizo, lechuga y lÃ¡cteos.
+RECETA_FIN
+
+RECETA_INICIO
+ID: MEX_058
+TITULO: Pollo en PipÃ­an Verde
+CATEGORIA: Guisos
+INGREDIENTES: [Piezas de pollo cocido, 200g pepitas de calabaza, Tomate verde, Chile serrano, Epazote, Lechuga]
+PASOS:
+1. Tostar las pepitas de calabaza sin quemar.
+2. Licuar las pepitas con tomate crudo, chile, hojas de lechuga y epazote.
+3. FreÃ­r la salsa verde en una cazuela hasta que espese y cambie de color.
+4. AÃ±adir el pollo y cocinar 10 minutos mÃ¡s.
+RECETA_FIN
+
+RECETA_INICIO
+ID: MEX_059
+TITULO: BuÃ±uelos de Viento
+CATEGORIA: Postres
+INGREDIENTES: [Harina, Huevo, Leche, Vainilla, Aceite, AzÃºcar y canela]
+PASOS:
+1. Hacer una masa lÃ­quida con harina, huevo y leche.
+2. Calentar el molde de hierro en aceite hirviendo.
+3. Sumergir el molde en la masa (sin cubrirlo todo) y luego llevar al aceite.
+4. Desprender el buÃ±uelo y freÃ­r hasta que estÃ© dorado.
+5. Escurrir y pasar por azÃºcar y canela.
+RECETA_FIN
+
+RECETA_INICIO
+ID: MEX_060
+TITULO: Agua de Horchata
+CATEGORIA: Bebidas
+INGREDIENTES: [1 taza arroz blanco, 1 rama canela, 1L agua, 1 lata leche evaporada, AzÃºcar, Vainilla]
+PASOS:
+1. Remojar el arroz y la canela en agua tibia por 2 horas.
+2. Licuar muy bien y colar con un paÃ±o fino o colador de malla.
+3. Mezclar con la leche evaporada, azÃºcar y vainilla.
+4. Servir con abundante hielo.
+RECETA_FIN
+
+RECETA_INICIO
+ID: VEN_061
+TITULO: Arepa de MaÃ­z ClÃ¡sica
+CATEGORIA: Masas / Panes
+INGREDIENTES: [2 tazas harina de maÃ­z precocida, 2.5 tazas agua, 1 cdta sal, Aceite]
+PASOS:
+1. Verter el agua y la sal en un bol; aÃ±adir la harina poco a poco.
+2. Amasar hasta obtener una mezcla suave y sin grumos. Dejar reposar 5 min.
+3. Formar bolas y aplanar para crear discos de unos 2cm de grosor.
+4. Cocinar en un budare o sartÃ©n caliente hasta que doren por ambos lados.
+5. Terminar la cocciÃ³n en el horno a 200Â°C hasta que suenen "huecas" al tocarlas.
+RECETA_FIN
+
+RECETA_INICIO
+ID: VEN_062
+TITULO: PabellÃ³n Criollo
+CATEGORIA: Platos Principales
+INGREDIENTES: [Caraotas negras (frijoles), Arroz blanco, Carne desmechada, PlÃ¡tano maduro, Cebolla, AjÃ­ dulce, Sal]
+PASOS:
+1. Preparar las caraotas negras con un sofrito de cebolla, ajo y ajÃ­ dulce.
+2. Cocinar el arroz blanco al estilo tradicional.
+3. Preparar la carne desmechada guisada con tomate y especias.
+4. FreÃ­r tajadas de plÃ¡tano maduro en aceite caliente.
+5. Servir los cuatro componentes juntos en el mismo plato de forma organizada.
+RECETA_FIN
+
+RECETA_INICIO
+ID: VEN_063
+TITULO: Reina Pepiada (Relleno de Arepa)
+CATEGORIA: Rellenos
+INGREDIENTES: [1 pechuga de pollo cocida y desmechada, 2 aguacates maduros, 2 cdas mayonesa, Cebolla picada, Cilantro, Sal]
+PASOS:
+1. Triturar un aguacate hasta hacerlo purÃ© y cortar el otro en cubos pequeÃ±os.
+2. Mezclar el purÃ© con la mayonesa, la cebolla, el cilantro y la sal.
+3. Incorporar el pollo desmechado y mezclar bien hasta formar una pasta.
+4. AÃ±adir los cubos de aguacate suavemente para no romperlos.
+5. Rellenar las arepas calientes con esta mezcla frÃ­a.
+RECETA_FIN
+
+RECETA_INICIO
+ID: VEN_064
+TITULO: Cachapa de MaÃ­z Tierno
+CATEGORIA: Masas
+INGREDIENTES: [4 tazas granos de maÃ­z tierno, 1/4 taza azÃºcar, 1 cdta sal, Queso de mano o telita]
+PASOS:
+1. Moler los granos de maÃ­z hasta obtener una masa lÃ­quida pero con textura.
+2. Mezclar con la sal y el azÃºcar.
+3. Verter un cucharÃ³n de la mezcla en un budare caliente engrasado formando un cÃ­rculo.
+4. Cocinar hasta que burbujee arriba y estÃ© dorada abajo; voltear.
+5. Doblar por la mitad y rellenar con abundante queso de mano y mantequilla.
+RECETA_FIN
+
+RECETA_INICIO
+ID: VEN_065
+TITULO: Hallaca Tradicional
+CATEGORIA: Plato NavideÃ±o
+INGREDIENTES: [Masa de maÃ­z con onoto, Guiso de res/cerdo/pollo, Hojas de plÃ¡tano ahumadas, Pabilo, Aceitunas, Alcaparras, Pasas, Almendras]
+PASOS:
+1. Limpiar bien las hojas de plÃ¡tano y extender la masa sobre ellas usando aceite de onoto.
+2. Colocar una porciÃ³n del guiso de carnes en el centro.
+3. Decorar con aros de cebolla, pimentÃ³n, aceitunas, alcaparras y pasas.
+4. Envolver la hoja formando un paquete rectangular y amarrar con pabilo.
+5. Cocer en agua hirviendo con sal durante una hora.
+RECETA_FIN
+
+RECETA_INICIO
+ID: VEN_066
+TITULO: Asado Negro
+CATEGORIA: Carnes
+INGREDIENTES: [1.5kg Muchacho redondo (carne de res), 1 taza azÃºcar, Cebolla, PimentÃ³n, AjÃ­ dulce, Vino tinto, Aceite]
+PASOS:
+1. Calentar aceite con el azÃºcar hasta que se haga un caramelo muy oscuro (casi negro).
+2. Sellar la carne en el caramelo hasta que toda la superficie estÃ© negra.
+3. AÃ±adir las verduras picadas y sofreÃ­r.
+4. Cubrir con agua y vino tinto; cocinar a fuego lento durante 3-4 horas.
+5. Rebanar la carne y servir baÃ±ada en su propia salsa espesa.
+RECETA_FIN
+
+RECETA_INICIO
+ID: VEN_067
+TITULO: TequeÃ±os de Queso
+CATEGORIA: Pasapalos / Snacks
+INGREDIENTES: [500g harina de trigo, 250g mantequilla, 1 huevo, Queso blanco duro (tipo llanero), Sal, Agua]
+PASOS:
+1. Mezclar harina, mantequilla, huevo y sal; aÃ±adir agua hasta obtener una masa elÃ¡stica.
+2. Dejar reposar la masa 30 minutos y luego estirar muy finamente.
+3. Cortar el queso en barritas rectangulares.
+4. Cortar tiras de masa y enrollar el queso asegurando que no queden huecos.
+5. FreÃ­r en abundante aceite caliente hasta que doren.
+RECETA_FIN
+
+RECETA_INICIO
+ID: VEN_068
+TITULO: Chupe de Pollo
+CATEGORIA: Sopas
+INGREDIENTES: [1 pechuga de pollo, Caldo de pollo, Papas, MaÃ­z en grano, Queso blanco en cubos, Crema de leche, Cilantro]
+PASOS:
+1. Cocer el pollo en el caldo y desmechar.
+2. Cocinar las papas en cubos y el maÃ­z en el mismo caldo.
+3. AÃ±adir el pollo desmechado y la crema de leche al final.
+4. Apagar el fuego y agregar el queso blanco para que se ablande sin derretirse del todo.
+5. Decorar con cilantro fresco picado.
+RECETA_FIN
+
+RECETA_INICIO
+ID: VEN_069
+TITULO: Pastel de Pollo (Polvorosa)
+CATEGORIA: Masas
+INGREDIENTES: [Harina de trigo, Mantequilla, Yemas de huevo, AzÃºcar, Guiso de pollo con aceitunas y pasas]
+PASOS:
+1. Preparar una masa quebradiza mezclando harina y mantequilla frÃ­a (textura de arena).
+2. Unir con yemas y azÃºcar sin amasar demasiado; enfriar.
+3. Forrar un molde con la mitad de la masa y rellenar con el guiso de pollo.
+4. Tapar con el resto de la masa y pinchar con un tenedor.
+5. Hornear a 180Â°C hasta que la masa estÃ© dorada y firme.
+RECETA_FIN
+
+RECETA_INICIO
+ID: VEN_070
+TITULO: Perico Venezolano
+CATEGORIA: Desayunos
+INGREDIENTES: [4 huevos, 1 cebolla, 2 tomates, 3 ajÃ­es dulces, Sal, Aceite]
+PASOS:
+1. SofreÃ­r la cebolla picada, el ajÃ­ dulce y el tomate sin piel.
+2. Batir los huevos con un toque de sal.
+3. Verter los huevos sobre el sofrito a fuego medio.
+4. Revolver constantemente hasta que el huevo cuaje pero se mantenga jugoso.
+5. Servir caliente como relleno de arepas o pan.
+RECETA_FIN
+
+RECETA_INICIO
+ID: VEN_071
+TITULO: Torta de PlÃ¡tano
+CATEGORIA: AcompaÃ±antes
+INGREDIENTES: [4 plÃ¡tanos muy maduros, Queso blanco rallado, 2 huevos, Mantequilla, Bocadillo de guayaba (opcional)]
+PASOS:
+1. Cocer los plÃ¡tanos en agua o freÃ­rlos y hacer un purÃ©.
+2. Mezclar el purÃ© con huevos batidos, mantequilla derretida y la mitad del queso.
+3. Colocar en un molde engrasado alternando capas de purÃ© y queso (y guayaba).
+4. Terminar con una capa de queso y hornear a 190Â°C por 30 minutos.
+RECETA_FIN
+
+RECETA_INICIO
+ID: VEN_072
+TITULO: Fosforera MargariteÃ±a
+CATEGORIA: Sopas / Mariscos
+INGREDIENTES: [Cabezas de pescado para caldo, Camarones, Calamares, Mejillones, AjÃ­ dulce, Cebolla, Tomate]
+PASOS:
+1. Preparar un caldo concentrado con las cabezas de pescado y colar.
+2. Hacer un sofrito potente con ajÃ­ dulce, cebolla y ajo.
+3. AÃ±adir el sofrito al caldo y luego los mariscos en orden de dureza.
+4. Cocinar a fuego alto por 15 minutos; debe quedar una sopa roja y sustanciosa.
+RECETA_FIN
+
+RECETA_INICIO
+ID: VEN_073
+TITULO: Mandocas Zubianas
+CATEGORIA: Frituras / Regional
+INGREDIENTES: [2 tazas harina de maÃ­z, 1 plÃ¡tano muy maduro, 1/2 taza papelÃ³n (panela) rallado, Queso blanco rallado]
+PASOS:
+1. Sancochar el plÃ¡tano y hacerlo purÃ©.
+2. Mezclar con la harina de maÃ­z, el papelÃ³n y parte del queso.
+3. Formar tiras largas y unir los extremos para crear una forma de gota o lazo.
+4. FreÃ­r en abundante aceite hasta que estÃ©n oscuras y crujientes.
+5. Servir con una tajada de queso blanco salado a un lado.
+RECETA_FIN
+
+RECETA_INICIO
+ID: VEN_074
+TITULO: Pisca Andina
+CATEGORIA: Sopas / Regional
+INGREDIENTES: [Caldo de pollo, Papas, Leche, Queso ahumado, Huevos, Cilantro, CebollÃ­n]
+PASOS:
+1. Cocer las papas en el caldo hasta que estÃ©n tiernas.
+2. AÃ±adir la leche y dejar que llegue a un hervor suave.
+3. Agregar el queso ahumado en trozos y el cebollÃ­n.
+4. Escalfar los huevos directamente en la sopa con cuidado de no romperlos.
+5. Servir con cilantro fresco y pan de trigo.
+RECETA_FIN
+
+RECETA_INICIO
+ID: VEN_075
+TITULO: Pan de JamÃ³n
+CATEGORIA: PanaderÃ­a / NavideÃ±o
+INGREDIENTES: [500g harina de trigo, JamÃ³n ahumado en lonjas, Tocinetas, Aceitunas rellenas, Pasas, Mantequilla, AzÃºcar]
+PASOS:
+1. Preparar una masa de pan dulce y dejar leudar.
+2. Estirar la masa en forma de rectÃ¡ngulo y untar mantequilla.
+3. Cubrir con el jamÃ³n, las tiras de tocineta, aceitunas en fila y pasas.
+4. Enrollar apretadamente y pinchar la superficie con un tenedor.
+5. Hornear a 180Â°C durante 45 minutos hasta que estÃ© bien dorado.
+RECETA_FIN
+
+RECETA_INICIO
+ID: VEN_076
+TITULO: Carne en Vara
+CATEGORIA: Carnes / Llano
+INGREDIENTES: [Cortes de carne de res (solomo), Sal gruesa, Varas de madera de naranjo o cafÃ©]
+PASOS:
+1. Insertar los trozos de carne en las varas de madera.
+2. Sazonar solo con abundante sal gruesa.
+3. Colocar las varas de forma inclinada alrededor de un fogÃ³n de leÃ±a.
+4. Cocinar lentamente al calor de las brasas, rotando ocasionalmente.
+RECETA_FIN
+
+RECETA_INICIO
+ID: VEN_077
+TITULO: Quesillo Venezolano
+CATEGORIA: Postres
+INGREDIENTES: [5 huevos, 1 lata leche condensada, Misma medida de leche entera, Esencia de vainilla, Ron, AzÃºcar para el caramelo]
+PASOS:
+1. Hacer un caramelo con azÃºcar y agua en el molde (quesillera).
+2. Licuar los huevos, leches, vainilla y el toque de ron.
+3. Verter la mezcla en el molde caramelizado y cerrar bien.
+4. Cocinar a baÃ±o de marÃ­a (en olla o horno) durante 1 hora.
+5. Enfriar completamente antes de desmoldar.
+RECETA_FIN
+
+RECETA_INICIO
+ID: VEN_078
+TITULO: Torta de Pan
+CATEGORIA: Postres / Aprovechamiento
+INGREDIENTES: [Pan duro, Leche, AzÃºcar, Huevos, Pasas, Esencia de vainilla, Caramelo]
+PASOS:
+1. Remojar el pan troceado en leche hasta que se deshaga.
+2. AÃ±adir azÃºcar, huevos batidos y vainilla; mezclar bien.
+3. Incorporar las pasas a la masa.
+4. Verter en un molde previamente caramelizado.
+5. Hornear a 180Â°C por 45 minutos hasta que estÃ© firme.
+RECETA_FIN
+
+RECETA_INICIO
+ID: VEN_079
+TITULO: Golfeados
+CATEGORIA: PanaderÃ­a
+INGREDIENTES: [Masa de pan dulce, PapelÃ³n rallado, Queso blanco duro rallado, Semillas de anÃ­s dulce]
+PASOS:
+1. Estirar la masa de pan y cubrir con el papelÃ³n, el queso y el anÃ­s.
+2. Enrollar como un cilindro y cortar rodajas de 3cm.
+3. Colocar en una bandeja y dejar leudar.
+4. Hornear y, al salir, barnizar con almÃ­bar de papelÃ³n.
+5. Servir caliente con una rebanada de queso de mano encima.
+RECETA_FIN
+
+RECETA_INICIO
+ID: VEN_080
+TITULO: Dulce de Lechosa (Papaya)
+CATEGORIA: Postres
+INGREDIENTES: [1 lechosa verde, PapelÃ³n (panela), Canela, Clavos de olor, Bicarbonato]
+PASOS:
+1. Cortar la lechosa en lÃ¡minas y dejar al sol unas horas con bicarbonato (para que endurezcan).
+2. Lavar bien y cocinar en un almÃ­bar de papelÃ³n con las especias.
+3. Cocinar a fuego muy lento hasta que la lechosa estÃ© brillante y el almÃ­bar espese.
+RECETA_FIN
+
+RECETA_INICIO
+ID: VEN_081
+TITULO: Majarete
+CATEGORIA: Postres
+INGREDIENTES: [Harina de maÃ­z precocida, Leche de coco, PapelÃ³n, Canela en rama y polvo]
+PASOS:
+1. Mezclar la leche de coco con la harina de maÃ­z y el papelÃ³n disuelto.
+2. Cocinar a fuego medio moviendo constantemente con cuchara de madera.
+3. Cuando espese y se despegue del fondo de la olla, verter en platos llanos.
+4. Dejar cuajar a temperatura ambiente y espolvorear canela.
+RECETA_FIN
+
+RECETA_INICIO
+ID: VEN_082
+TITULO: Arroz con Coco
+CATEGORIA: Postres
+INGREDIENTES: [1 taza arroz, 2 tazas leche de coco, PapelÃ³n, Clavos, Canela]
+PASOS:
+1. Cocer el arroz en agua hasta que estÃ© muy blando.
+2. AÃ±adir la leche de coco, el papelÃ³n y las especias.
+3. Cocinar removiendo hasta que seque un poco pero mantenga una textura cremosa.
+RECETA_FIN
+
+RECETA_INICIO
+ID: VEN_083
+TITULO: Bollitos Pelones
+CATEGORIA: Platos Principales
+INGREDIENTES: [Masa de maÃ­z precocida, Guiso de carne molida, Salsa de tomate]
+PASOS:
+1. Hacer pequeÃ±as bolas de masa y rellenarlas con el guiso de carne ya cocido.
+2. Cerrar bien la bola para que no se salga el relleno.
+3. Cocinar los bollos en agua hirviendo hasta que floten.
+4. Retirar y cubrir con una salsa de tomate casera caliente.
+RECETA_FIN
+
+RECETA_INICIO
+ID: VEN_084
+TITULO: Chicha de Arroz
+CATEGORIA: Bebidas
+INGREDIENTES: [1 taza arroz cocido (muy blando), Leche condensada, Leche entera, Canela, Esencia de vainilla]
+PASOS:
+1. Licuar el arroz cocido con la leche entera y la vainilla.
+2. AÃ±adir la leche condensada y seguir licuando hasta que sea homogÃ©neo.
+3. Servir con mucho hielo picado, mÃ¡s leche condensada por encima y canela.
+RECETA_FIN
+
+RECETA_INICIO
+ID: VEN_085
+TITULO: Empanadas de CazÃ³n
+CATEGORIA: Desayunos / Costa
+INGREDIENTES: [Masa de maÃ­z precocida con azÃºcar y sal, CazÃ³n guisado (tiburÃ³n pequeÃ±o), Aceite]
+PASOS:
+1. Preparar la masa un poco mÃ¡s dulce de lo habitual.
+2. Extender un cÃ­rculo sobre plÃ¡stico, rellenar con el cazÃ³n guisado seco.
+3. Doblar y sellar con un molde circular.
+4. FreÃ­r en aceite muy caliente hasta que estÃ©n bien crujientes.
+RECETA_FIN
+
+RECETA_INICIO
+ID: VEN_086
+TITULO: Carato de MaÃ­z
+CATEGORIA: Bebidas
+INGREDIENTES: [Masa de maÃ­z, Agua, PapelÃ³n, Clavos de olor, Pimienta guayabita]
+PASOS:
+1. Disolver la masa en agua y cocinar con el papelÃ³n y las especias.
+2. Dejar enfriar y, opcionalmente, dejar fermentar ligeramente un dÃ­a.
+3. Servir bien frÃ­o.
+RECETA_FIN
+
+RECETA_INICIO
+ID: VEN_087
+TITULO: PapelÃ³n con LimÃ³n
+CATEGORIA: Bebidas
+INGREDIENTES: [1 panela de papelÃ³n, Agua, Abundante zumo de limÃ³n]
+PASOS:
+1. Disolver el papelÃ³n en agua (puede ser hirviendo y luego enfriar).
+2. Mezclar con el zumo de limÃ³n fresco.
+3. Servir con mucho hielo; es la bebida refrescante por excelencia del paÃ­s.
+RECETA_FIN
+
+RECETA_INICIO
+ID: VEN_088
+TITULO: Pollo en Brasa al Estilo Venezolano
+CATEGORIA: Carnes
+INGREDIENTES: [1 pollo entero, Ajo, Adobo, OrÃ©gano, Sal, Cerveza]
+PASOS:
+1. Marinar el pollo con ajo machacado, especias y un chorrito de cerveza.
+2. Insertar en un espiedo giratorio sobre brasas de carbÃ³n.
+3. Cocinar lentamente mientras se barniza con sus propios jugos.
+4. Servir con hallaquitas de maÃ­z y ensalada rallada.
+RECETA_FIN
+
+RECETA_INICIO
+ID: VEN_089
+TITULO: Besitos de Coco
+CATEGORIA: Galletas / Dulces
+INGREDIENTES: [Harina, PapelÃ³n, Coco rallado, Bicarbonato, Canela, Clavo]
+PASOS:
+1. Hacer un almÃ­bar espeso con el papelÃ³n y las especias.
+2. Mezclar el almÃ­bar con el coco y la harina hasta formar una pasta pegajosa.
+3. Formar montoncitos sobre una bandeja engrasada.
+4. Hornear a 180Â°C por 15-20 minutos.
+RECETA_FIN
+
+RECETA_INICIO
+ID: VEN_090
+TITULO: Carne en Vara
+CATEGORIA: Carnes
+INGREDIENTES: [Cortes de carne (Punta trasera), Sal gruesa, LeÃ±a]
+PASOS:
+1. Insertar la carne en varas de madera largas.
+2. Sazonar solo con sal gruesa.
+3. Cocinar a fuego indirecto con leÃ±a por varias horas.
+RECETA_FIN
+
+RECETA_INICIO
+ID: VEN_091
+TITULO: PatacÃ³n Zuliano (Relleno)
+CATEGORIA: Platos Regionales
+INGREDIENTES: [2 plÃ¡tanos verdes, Carne desmechada o pollo, Queso de mano, JamÃ³n, Lechuga, Tomate, Salsas (ketchup, mayonesa, mostaza)]
+PASOS:
+1. Pelar los plÃ¡tanos y cortarlos a la mitad transversalmente.
+2. FreÃ­r en aceite a temperatura media hasta que ablanden.
+3. Aplastar los plÃ¡tanos entre dos tablas hasta que queden planos y anchos.
+4. Volver a freÃ­r en aceite muy caliente hasta que estÃ©n crujientes.
+5. Usar un patacÃ³n como base, rellenar con la carne, queso y vegetales, y tapar con el otro patacÃ³n.
+RECETA_FIN
+
+RECETA_INICIO
+ID: VEN_092
+TITULO: Tumbarrancho (Arepa Frita Zuliana)
+CATEGORIA: Comida Callejera
+INGREDIENTES: [Arepas del dÃ­a anterior, Mortadela, Harina de trigo, Huevo, Mostaza, Leche, Sal]
+PASOS:
+1. Abrir la arepa y colocar una rodaja de mortadela dentro.
+2. Preparar un rebozado mezclando harina, huevo, mostaza y leche hasta que espese.
+3. Sumergir la arepa rellena en el rebozado.
+4. FreÃ­r en abundante aceite caliente hasta que estÃ© dorada y crujiente.
+5. Abrir nuevamente y rellenar con queso, repollo y salsas al gusto.
+RECETA_FIN
+
+RECETA_INICIO
+ID: VEN_093
+TITULO: Pan de Queso (Acuatado)
+CATEGORIA: PanaderÃ­a
+INGREDIENTES: [500g harina de trigo, 200g queso blanco duro rallado, 50g mantequilla, Leche, Levadura, AzÃºcar]
+PASOS:
+1. Activar la levadura en leche tibia con azÃºcar.
+2. Mezclar la harina con la mantequilla y la mitad del queso.
+3. Integrar los lÃ­quidos y amasar hasta obtener una masa lisa.
+4. Formar panes redondos y cubrir con el resto del queso rallado.
+5. Hornear a 180Â°C por 25 minutos.
+RECETA_FIN
+
+RECETA_INICIO
+ID: VEN_094
+TITULO: TalkarÃ­ de Chivo
+CATEGORIA: Platos Regionales (FalcÃ³n/Lara)
+INGREDIENTES: [1kg carne de chivo, Curry en polvo, Cebolla, AjÃ­ dulce, Vino tinto, Aceite de onoto]
+PASOS:
+1. Lavar el chivo con limÃ³n para quitar el olor fuerte.
+2. Marinar con curry, sal y ajo por 2 horas.
+3. SofreÃ­r en aceite de onoto con cebolla y ajÃ­ dulce.
+4. AÃ±adir vino tinto y un poco de agua; cocinar a fuego lento hasta que la carne se desprenda del hueso.
+RECETA_FIN
+
+RECETA_INICIO
+ID: VEN_095
+TITULO: Olleta de Gallo
+CATEGORIA: Sopas Tradicionales
+INGREDIENTES: [1 gallo troceado, PapelÃ³n, Pan duro, Comino, Vino de cocina, Cebolla, Papas]
+PASOS:
+1. Cocer el gallo en agua hasta que estÃ© muy tierno.
+2. Hacer un sofrito con cebolla y especias.
+3. Disolver papelÃ³n y pan duro en un poco de caldo para espesar.
+4. Unir todo y aÃ±adir vino de cocina; cocinar 20 minutos mÃ¡s.
+RECETA_FIN
+
+RECETA_INICIO
+ID: VEN_096
+TITULO: Huevos Chimbos
+CATEGORIA: Postres (Zulia)
+INGREDIENTES: [12 yemas de huevo, AlmÃ­bar (agua, azÃºcar, vainilla, brandy)]
+PASOS:
+1. Batir las yemas de huevo a punto de cinta (muy espumosas y claras).
+2. Verter en moldes pequeÃ±os engrasados.
+3. Cocinar a baÃ±o de marÃ­a hasta que cuajen como bizcochitos.
+4. Sumergir los bizcochitos en el almÃ­bar caliente y dejar que absorban el lÃ­quido.
+RECETA_FIN
+
+RECETA_INICIO
+ID: VEN_097
+TITULO: Catalinas (Paledonias)
+CATEGORIA: Galletas Tradicionales
+INGREDIENTES: [500g harina de trigo, 1 taza almÃ­bar de papelÃ³n espeso, Canela, Clavos, Bicarbonato]
+PASOS:
+1. Mezclar el almÃ­bar de papelÃ³n frÃ­o con la harina y las especias.
+2. AÃ±adir el bicarbonato para que la masa sea suave.
+3. Estirar la masa (debe quedar pegajosa) y cortar cÃ­rculos con bordes ondulados.
+4. Hornear a 170Â°C por 12-15 minutos (no dejar endurecer demasiado).
+RECETA_FIN
+
+RECETA_INICIO
+ID: VEN_098
+TITULO: Sopa de rabo
+CATEGORIA: Sopas
+INGREDIENTES: [1 rabo de res, Yuca, Ocumo, Ã‘ame, Mazorca de maÃ­z, Cilantro, AjÃ­ dulce]
+PASOS:
+1. Ablandar el rabo en olla de presiÃ³n con agua y sal.
+2. Trasladar a una olla grande y aÃ±adir las verduras (bastimentos) troceadas.
+3. Cocinar hasta que la verdura estÃ© blanda y el caldo espese.
+4. Agregar el sofrito de ajÃ­ dulce y mucho cilantro al final.
+RECETA_FIN
+
+RECETA_INICIO
+ID: VEN_099
+TITULO: Arroz con Pollo Venezolano
+CATEGORIA: Platos Principales
+INGREDIENTES: [500g arroz, 4 piezas de pollo, Guisantes, Zanahoria en cubos, Aceite de onoto, PimentÃ³n]
+PASOS:
+1. Sellar el pollo en aceite de onoto para darle color.
+2. AÃ±adir cebolla, pimentÃ³n y zanahoria; sofreÃ­r con el arroz.
+3. Agregar el doble de cantidad de agua que de arroz y sal.
+4. Cocinar a fuego medio hasta que seque, aÃ±adir los guisantes y tapar hasta ablandar.
+RECETA_FIN
+
+RECETA_INICIO
+ID: VEN_100
+TITULO: Empanadas de DominÃ³
+CATEGORIA: Desayunos
+INGREDIENTES: [Masa de maÃ­z, Caraotas negras refritas, Queso blanco duro rallado, Aceite]
+PASOS:
+1. Preparar la masa de maÃ­z precocida con un toque de sal y azÃºcar.
+2. Colocar una cucharada de caraotas y una de queso en el centro de la masa.
+3. Doblar, sellar y freÃ­r en aceite muy caliente.
+RECETA_FIN
+
+RECETA_INICIO
+ID: VEN_101
+TITULO: Conservas de Coco
+CATEGORIA: Dulces Criollos
+INGREDIENTES: [2 cocos rallados, 500g papelÃ³n, Ralladura de limÃ³n]
+PASOS:
+1. Cocinar el papelÃ³n con un poco de agua hasta obtener un almÃ­bar de "punto de bola".
+2. Incorporar el coco rallado y la ralladura de limÃ³n.
+3. Remover con cuchara de madera hasta que la mezcla se despegue de la olla.
+4. Extender sobre una superficie hÃºmeda, dejar enfriar y cortar en cuadrados.
+RECETA_FIN
+
+RECETA_INICIO
+ID: VEN_102
+TITULO: Lomo Negro (Variante)
+CATEGORIA: Carnes
+INGREDIENTES: [Lomo de cerdo, Melaza de papelÃ³n, Ajo, Vinagre, Sal]
+PASOS:
+1. Marinar el cerdo con ajo y vinagre.
+2. Sellar en una olla con aceite y papelÃ³n rallado hasta caramelizar.
+3. Cocinar con poco lÃ­quido hasta que la salsa reduzca y brille.
+RECETA_FIN
+
+RECETA_INICIO
+ID: VEN_103
+TITULO: Casabe de Yuca
+CATEGORIA: AcompaÃ±antes
+INGREDIENTES: [Yuca amarga o dulce]
+PASOS:
+1. Rallar la yuca y extraer todo el jugo (yare) usando un sebucÃ¡n o prensa.
+2. Tamizar la harina resultante (catibÃ­a).
+3. Extender la harina en un budare grande formando una torta delgada.
+4. Cocinar por ambos lados hasta que estÃ© deshidratada y crujiente.
+RECETA_FIN
+
+RECETA_INICIO
+ID: VEN_104
+TITULO: Juan Sabroso
+CATEGORIA: Postres
+INGREDIENTES: [500g purÃ© de batata, 1 taza leche de coco, 200g azÃºcar, Canela]
+PASOS:
+1. Mezclar el purÃ© de batata cocida con la leche de coco y el azÃºcar.
+2. Cocinar a fuego medio removiendo constantemente.
+3. Retirar cuando espese y servir frÃ­o con canela espolvoreada.
+RECETA_FIN
+
+RECETA_INICIO
+ID: VEN_105
+TITULO: Hallaquitas de ChicharrÃ³n
+CATEGORIA: AcompaÃ±antes
+INGREDIENTES: [Masa de maÃ­z precocida, ChicharrÃ³n de cerdo triturado, Sal, Hojas de maÃ­z]
+PASOS:
+1. Mezclar la masa de maÃ­z con los trozos de chicharrÃ³n y sal.
+2. Formar cilindros pequeÃ±os con la masa.
+3. Envolver en hojas de maÃ­z secas (previamente hidratadas).
+4. Hervir en agua con sal por 20 minutos.
+RECETA_FIN
+
+RECETA_INICIO
+ID: VEN_106
+TITULO: Carato de Acuyo (Variante Regional)
+CATEGORIA: Bebidas
+INGREDIENTES: [Masa de maÃ­z, Agua, Hojas de acuyo o esencia, AzÃºcar]
+PASOS:
+1. Hervir agua con las hojas aromÃ¡ticas.
+2. Disolver la masa de maÃ­z para crear una bebida espesa.
+3. Endulzar y servir muy frÃ­o.
+RECETA_FIN
+
+RECETA_INICIO
+ID: VEN_107
+TITULO: Mondongo Venezolano
+CATEGORIA: Sopas
+INGREDIENTES: [500g panza de res, 1 pata de res, Verduras variadas, Garbanzos, Aceite de onoto]
+PASOS:
+1. Cocer la panza y la pata hasta que estÃ©n muy suaves; picar en cuadritos.
+2. AÃ±adir los garbanzos remojados y las verduras (yuca, ocumo, zanahoria).
+3. Sazonar con un sofrito de ajo, cebolla y ajÃ­ dulce en aceite de onoto.
+4. Cocinar hasta que todo estÃ© integrado y el caldo tenga cuerpo.
+RECETA_FIN
+
+RECETA_INICIO
+ID: VEN_108
+TITULO: Torta de Auyama (Calabaza)
+CATEGORIA: Postres
+INGREDIENTES: [1kg auyama cocida, 3 huevos, 100g mantequilla, 200g harina, Canela, Queso blanco opcional]
+PASOS:
+1. Hacer un purÃ© con la auyama.
+2. Mezclar con el resto de los ingredientes hasta tener una crema homogÃ©nea.
+3. Verter en un molde engrasado.
+4. Hornear a 180Â°C por 45 minutos (queda con textura de pudÃ­n).
+RECETA_FIN
+
+RECETA_INICIO
+ID: VEN_109
+TITULO: Pescado Frito con Tostones
+CATEGORIA: Costa
+INGREDIENTES: [Pargo o Carite entero, Sal, Ajo, Harina, PlÃ¡tano verde, LimÃ³n]
+PASOS:
+1. Sazonar el pescado con sal, ajo y limÃ³n; pasar por harina.
+2. FreÃ­r en abundante aceite hasta que la piel estÃ© crujiente.
+3. Servir con tostones de plÃ¡tano verde y ensalada de repollo y zanahoria.
+RECETA_FIN
+
+RECETA_INICIO
+ID: VEN_110
+TITULO: Macarronada Zuliana
+CATEGORIA: Platos Regionales
+INGREDIENTES: [Pasta tipo macarrÃ³n, Guiso de carne o pollo, Papas, Queso, Huevos duros, JamÃ³n, Mostaza]
+PASOS:
+1. Cocer la pasta y mezclar con mostaza y un poco de guiso.
+2. En un molde, alternar capas de pasta, lÃ¡minas de papa cocida, queso, jamÃ³n y huevo duro.
+3. Terminar con mucho queso y hornear hasta que gratine y se compacte.
+RECETA_FIN
+
+RECETA_INICIO
+ID: VEN_111
+TITULO: Naiboa
+CATEGORIA: Dulces / Snacks
+INGREDIENTES: [Casabe, PapelÃ³n rallado, Queso blanco rallado, Semillas de anÃ­s]
+PASOS:
+1. Colocar una torta de casabe y cubrir con papelÃ³n, queso y anÃ­s.
+2. Tapar con otra torta de casabe.
+3. Hornear o calentar en budare hasta que el papelÃ³n se derrita y pegue ambas capas.
+RECETA_FIN
+
+RECETA_INICIO
+ID: VEN_112
+TITULO: Bollitos de MaÃ­z Tierno
+CATEGORIA: Masas
+INGREDIENTES: [MaÃ­z tierno molido, Sal, Un poco de azÃºcar, Hojas de la mazorca]
+PASOS:
+1. Mezclar el maÃ­z molido con sal y azÃºcar (debe quedar una masa espesa).
+2. Colocar porciones en las hojas frescas de maÃ­z.
+3. Atar los extremos y hervir en agua por 30 minutos.
+RECETA_FIN
+
+RECETA_INICIO
+ID: VEN_113
+TITULO: Dulce de Brillantina
+CATEGORIA: Postres
+INGREDIENTES: [Gelatina sin sabor, AzÃºcar, Esencias de colores, Agua]
+PASOS:
+1. Preparar una gelatina muy concentrada con azÃºcar.
+2. Dejar endurecer en bandejas planas.
+3. Cortar en cuadritos y rebozar en azÃºcar granulada.
+RECETA_FIN
+
+RECETA_INICIO
+ID: VEN_114
+TITULO: Carne en Vara (Estilo Apure)
+CATEGORIA: Carnes
+INGREDIENTES: [Corte de carne de res, Sal de grano, LeÃ±a de roble]
+PASOS:
+1. Ensartar la carne en varas de madera limpias.
+2. Colocar a 50cm del fuego de leÃ±a.
+3. Girar cada 20 minutos rociando con agua salada.
+RECETA_FIN
+
+RECETA_INICIO
+ID: VEN_115
+TITULO: Torta Melosa
+CATEGORIA: Postres Tradicionales
+INGREDIENTES: [Pan rallado, Mucho queso blanco, Leche, Huevos, AzÃºcar, Mantequilla]
+PASOS:
+1. Mezclar los huevos con el azÃºcar y la mantequilla.
+2. AÃ±adir el pan rallado alternando con la leche y el queso.
+3. Hornear hasta que dore; queda con una textura muy hÃºmeda y densa.
+RECETA_FIN
+
+RECETA_INICIO
+ID: VEN_116
+TITULO: Mojito en Coco
+CATEGORIA: Pescados (Zulia)
+INGREDIENTES: [Pescado desmechado (curvina), Leche de coco, AjÃ­ dulce, Onoto, Cebolla]
+PASOS:
+1. Hacer un sofrito con los vegetales y el onoto.
+2. AÃ±adir el pescado ya cocido y desmechado.
+3. Verter la leche de coco y dejar reducir hasta que quede un guiso seco pero cremoso.
+RECETA_FIN
+
+RECETA_INICIO
+ID: VEN_117
+TITULO: Sopa de Panes (Semana Santa)
+CATEGORIA: Tradicional
+INGREDIENTES: [Pan de leche, Leche, Huevo, Queso, AliÃ±os sofreÃ­dos]
+PASOS:
+1. SofreÃ­r cebolla y ajÃ­ dulce.
+2. Hervir leche con los aliÃ±os.
+3. AÃ±adir trozos de pan y huevo batido para espesar la sopa.
+RECETA_FIN
+
+RECETA_INICIO
+ID: VEN_118
+TITULO: Conserva de Guayaba
+CATEGORIA: Dulces
+INGREDIENTES: [Pulpa de guayaba, AzÃºcar, LimÃ³n]
+PASOS:
+1. Cocinar la pulpa de guayaba con el mismo peso en azÃºcar.
+2. Remover hasta que se vea el fondo de la paila.
+3. Verter en moldes y dejar secar al aire hasta que endurezca.
+RECETA_FIN
+
+RECETA_INICIO
+ID: VEN_119
+TITULO: Arepa Cabimera
+CATEGORIA: Comida Callejera
+INGREDIENTES: [Arepa frita, Carne mechada, Huevo duro, Queso rallado, JamÃ³n, Salsas]
+PASOS:
+1. FreÃ­r la arepa entera.
+2. Cortarla en cuadros (sin abrirla por la mitad).
+3. Colocar encima todos los ingredientes en capas abundantes.
+RECETA_FIN
+
+RECETA_INICIO
+ID: VEN_120
+TITULO: Ponche Crema Casero
+CATEGORIA: Bebidas (Navidad)
+INGREDIENTES: [6 yemas de huevo, 1 lata leche condensada, Leche entera, Ron, Vainilla, Ralladura de limÃ³n]
+PASOS:
+1. Cocinar la leche entera con las yemas a fuego muy bajo (como una natilla) sin que hierva.
+2. Dejar enfriar y licuar con la leche condensada, el ron y la vainilla.
+3. Embotellar y refrigerar.
+RECETA_FIN
+
+RECETA_INICIO
+ID: COL_121
+TITULO: Bandeja Paisa
+CATEGORIA: Platos Principales (Antioquia)
+INGREDIENTES: [Frijoles rojos, Arroz blanco, ChicharrÃ³n de cerdo, Carne molida, Huevo frito, Tajada de plÃ¡tano maduro, Chorizo, Arepa, Aguacate]
+PASOS:
+1. Cocinar los frijoles con una pezuÃ±a de cerdo para dar sabor y espesor.
+2. Preparar el chicharrÃ³n haciÃ©ndole cortes en la piel y friÃ©ndolo hasta que estÃ© crocante.
+3. Hacer un "hogao" (sofrito de tomate y cebolla) para sazonar la carne molida.
+4. Servir todos los componentes de forma abundante en una bandeja grande.
+RECETA_FIN
+
+RECETA_INICIO
+ID: COL_122
+TITULO: Ajiaco SantafereÃ±o
+CATEGORIA: Sopas (BogotÃ¡)
+INGREDIENTES: [Pollo, Tres tipos de papas (criolla, pastusa, sabanera), Guascas, Mazorca, Crema de leche, Alcaparras]
+PASOS:
+1. Cocer el pollo con la mazorca y la papa pastusa hasta que esta Ãºltima se deshaga.
+2. AÃ±adir la papa sabanera en rodajas y finalmente la papa criolla para que espese el caldo.
+3. Agregar las guascas (hierba esencial) 5 minutos antes de apagar el fuego.
+4. Servir el pollo desmechado y acompaÃ±ar con crema de leche, alcaparras y aguacate aparte.
+RECETA_FIN
+
+RECETA_INICIO
+ID: COL_123
+TITULO: Sancocho TrifÃ¡sico
+CATEGORIA: Sopas
+INGREDIENTES: [Carne de res, Pollo, Cerdo, Yuca, PlÃ¡tano verde, Papa, Mazorca, Cilantro, CimarrÃ³n]
+PASOS:
+1. Hervir las carnes en orden de dureza (res primero, luego cerdo y pollo).
+2. AÃ±adir el plÃ¡tano verde (partido con la mano para que suelte almidÃ³n) y la mazorca.
+3. Incorporar la yuca y la papa.
+4. Finalizar con un sofrito de cebolla larga y cilantro cimarrÃ³n picado.
+RECETA_FIN
+
+RECETA_INICIO
+ID: COL_124
+TITULO: Arepa e' Huevo
+CATEGORIA: Frituras (Costa Caribe)
+INGREDIENTES: [Masa de maÃ­z amarillo, Huevo, Carne molida (opcional), Aceite, Sal]
+PASOS:
+1. Formar una arepa delgada con la masa y freÃ­r en aceite muy caliente hasta que se infle.
+2. Retirar y abrir una pequeÃ±a incisura en el borde.
+3. Introducir un huevo crudo (y carne si se desea) con cuidado.
+4. Sellar la abertura con un poco de masa cruda y volver a freÃ­r hasta que el huevo cuaje.
+RECETA_FIN
+
+RECETA_INICIO
+ID: COL_125
+TITULO: Lechona Tolimense
+CATEGORIA: Carnes (Tolima/Huila)
+INGREDIENTES: [Cerdito entero (limpio), Arroz, Arveja amarilla, Carne de cerdo picada, Manteca, Especias]
+PASOS:
+1. Adobar la piel y la carne del cerdo con ajo, cebolla y comino.
+2. Mezclar el arroz cocido con la arveja y los trozos de carne sazonados.
+3. Rellenar el cerdo con la mezcla (tradicionalmente no lleva mucho arroz en el Tolima).
+4. Coser el cerdo y hornear a fuego lento durante 10 a 12 horas hasta que la piel estÃ© tostada (crocante).
+RECETA_FIN
+
+RECETA_INICIO
+ID: COL_126
+TITULO: Mote de Queso
+CATEGORIA: Sopas (Costa Caribe)
+INGREDIENTES: [Ã‘ame espino, Queso costeÃ±o (salado), Suero costeÃ±o, Cebolla, Ajo, LimÃ³n]
+PASOS:
+1. Cocer el Ã±ame en agua hasta que se deshaga parcialmente y el caldo espese.
+2. Hacer un sofrito de ajo y cebolla y aÃ±adir al caldo.
+3. Incorporar el queso costeÃ±o cortado en cubos.
+4. Apagar el fuego y aÃ±adir el suero costeÃ±o y un toque de zumo de limÃ³n antes de servir.
+RECETA_FIN
+
+RECETA_INICIO
+ID: COL_127
+TITULO: Posta Negra Cartagenera
+CATEGORIA: Carnes (BolÃ­var)
+INGREDIENTES: [Punta de anca o muchachos, Panela, Coca-cola (opcional), Cebolla, Salsa negra, Comino]
+PASOS:
+1. Sellar la carne en aceite con panela raspada hasta que quede muy oscura.
+2. AÃ±adir cebolla picada y sofreÃ­r.
+3. Cubrir con agua (o mezcla con Coca-cola) y salsa negra.
+4. Cocinar a fuego lento hasta que la carne estÃ© tierna y la salsa sea un almÃ­bar oscuro.
+RECETA_FIN
+
+RECETA_INICIO
+ID: COL_128
+TITULO: Pandebono
+CATEGORIA: PanaderÃ­a (Valle del Cauca)
+INGREDIENTES: [AlmidÃ³n de yuca, MaÃ­z trillado, Queso costeÃ±o, Queso fresco, Huevo]
+PASOS:
+1. Mezclar los quesos rallados con el almidÃ³n y la harina de maÃ­z.
+2. AÃ±adir el huevo e integrar hasta formar una masa suave.
+3. Armar bolas pequeÃ±as.
+4. Hornear a 200Â°C por 15-20 minutos hasta que inflen y doren ligeramente.
+RECETA_FIN
+
+RECETA_INICIO
+ID: COL_129
+TITULO: Tamal Tolimense
+CATEGORIA: Masas (Tolima)
+INGREDIENTES: [Masa de maÃ­z, Pollo, Cerdo, Huevo duro, Zanahoria, Arveja, Hojas de plÃ¡tano]
+PASOS:
+1. Preparar una masa de maÃ­z bien sazonada con un toque de color.
+2. Colocar sobre hojas de plÃ¡tano la masa, una presa de pollo, un trozo de tocino, huevo y verduras.
+3. Amarrar en forma de paquete redondo (moÃ±ito).
+4. Cocinar al vapor o en agua hirviendo durante 3-4 horas.
+RECETA_FIN
+
+RECETA_INICIO
+ID: COL_130
+TITULO: Lulada Valluna
+CATEGORIA: Bebidas (Valle del Cauca)
+INGREDIENTES: [Lulos maduros, Zumo de limÃ³n, AzÃºcar o panela, Hielo, Agua]
+PASOS:
+1. Pelar los lulos y macerar la pulpa con las manos o un mazo (no licuar).
+2. Mezclar con agua, azÃºcar y zumo de limÃ³n.
+3. Servir en vasos grandes con mucho hielo picado.
+4. Opcional: aÃ±adir leche condensada por encima.
+RECETA_FIN
+
+RECETA_INICIO
+ID: COL_131
+TITULO: Sobrebarriga al Horno
+CATEGORIA: Carnes
+INGREDIENTES: [Sobrebarriga (corte de res), Cerveza, Comino, Ajo, Migas de pan]
+PASOS:
+1. Cocer la carne en olla de presiÃ³n con cerveza, ajo y especias hasta que estÃ© muy suave.
+2. Retirar y espolvorear con migas de pan y un poco del caldo.
+3. Llevar al horno a fuego alto hasta que dore y cree una costra crujiente.
+4. Servir con papas chorreadas.
+RECETA_FIN
+
+RECETA_INICIO
+ID: COL_132
+TITULO: Papas Chorreadas
+CATEGORIA: AcompaÃ±antes
+INGREDIENTES: [Papas sabaneras, Tomate, Cebolla larga, Crema de leche, Queso blanco, Comino]
+PASOS:
+1. Cocer las papas enteras con cÃ¡scara en agua salada.
+2. Preparar un guiso (hogao) con tomate, cebolla, sal y comino.
+3. AÃ±adir la crema de leche y el queso rallado al guiso hasta que se funda.
+4. BaÃ±ar las papas cocidas con esta salsa caliente.
+RECETA_FIN
+
+RECETA_INICIO
+ID: COL_133
+TITULO: Arroz con Coco TitotÃ©
+CATEGORIA: Arroces (Costa)
+INGREDIENTES: [Leche de coco, AzÃºcar, Sal, Arroz, Pasas (opcional)]
+PASOS:
+1. Hervir la leche de coco con azÃºcar hasta que el agua evapore y el aceite se separe.
+2. Continuar friendo el sedimento de la leche (titotÃ©) hasta que se vuelva marrÃ³n oscuro.
+3. AÃ±adir el arroz, el agua necesaria y la sal.
+4. Cocinar como arroz blanco normal hasta que estÃ© seco y brillante.
+RECETA_FIN
+
+RECETA_INICIO
+ID: COL_134
+TITULO: Chuleta Valluna
+CATEGORIA: Carnes (Valle del Cauca)
+INGREDIENTES: [Lomo de cerdo, Huevo, Harina de trigo, Migas de pan, Comino, Ajo]
+PASOS:
+1. Aplanar los filetes de cerdo hasta que queden muy delgados.
+2. Sazonar con sal, comino y ajo.
+3. Pasar por harina, luego por huevo batido y finalmente por miga de pan.
+4. FreÃ­r en abundante aceite hasta que estÃ©n doradas y crujientes.
+RECETA_FIN
+
+RECETA_INICIO
+ID: COL_135
+TITULO: Changua
+CATEGORIA: Sopas (Andina)
+INGREDIENTES: [Leche, Agua, Huevos, Cebolla larga, Cilantro, Calao (pan tostado)]
+PASOS:
+1. Hervir la mezcla de agua y leche con cebolla y sal.
+2. Agregar los huevos con cuidado para escalfarlos sin romper la yema.
+3. Colocar el pan tostado en el plato.
+4. Verter la leche con el huevo sobre el pan y aÃ±adir cilantro fresco.
+RECETA_FIN
+
+RECETA_INICIO
+ID: COL_136
+TITULO: Hormigas Culonas (PreparaciÃ³n)
+CATEGORIA: ExÃ³tico (Santander)
+INGREDIENTES: [Hormigas culonas, Agua salada]
+PASOS:
+1. Limpiar las hormigas quitando alas y patas.
+2. Remojar en agua salada.
+3. Tostar en una paila o budare a fuego lento hasta que estÃ©n crujientes.
+4. Consumir como snack salado.
+RECETA_FIN
+
+RECETA_INICIO
+ID: COL_137
+TITULO: Viuda de Pescado
+CATEGORIA: Pescados (RÃ­o Magdalena)
+INGREDIENTES: [Bocachico, Yuca, PlÃ¡tano, Papa, Hogao]
+PASOS:
+1. Salar el pescado y dejar reposar.
+2. En una olla, hacer una cama con los tubÃ©rculos y plÃ¡tanos.
+3. Colocar el pescado encima y cubrir con hojas de plÃ¡tano.
+4. Cocinar al vapor hasta que todo estÃ© tierno. Servir con hogao por encima.
+RECETA_FIN
+
+RECETA_INICIO
+ID: COL_138
+TITULO: Caldo de Costilla (Levantamuertos)
+CATEGORIA: Desayunos
+INGREDIENTES: [Costilla de res, Papa, Cebolla larga, Ajo, Cilantro]
+PASOS:
+1. Cocer la costilla con cebolla y ajo hasta que la carne estÃ© blanda.
+2. AÃ±adir las papas peladas y tajadas.
+3. Cocinar hasta que la papa estÃ© lista.
+4. Servir con abundante cilantro picado.
+RECETA_FIN
+
+RECETA_INICIO
+ID: COL_139
+TITULO: Aborrajados
+CATEGORIA: Frituras (Valle del Cauca)
+INGREDIENTES: [PlÃ¡tanos muy maduros, Queso blanco, Harina, Huevo, Leche]
+PASOS:
+1. FreÃ­r trozos de plÃ¡tano maduro y aplastarlos.
+2. Colocar una tajada de queso entre dos trozos de plÃ¡tano y sellar los bordes.
+3. Pasar por una mezcla de harina, leche y huevo.
+4. FreÃ­r nuevamente hasta que la capa exterior estÃ© dorada.
+RECETA_FIN
+
+RECETA_INICIO
+ID: COL_140
+TITULO: Masato de Arroz
+CATEGORIA: Bebidas (Altiplano)
+INGREDIENTES: [Arroz, Agua, AzÃºcar, Canela, Clavos]
+PASOS:
+1. Cocer el arroz con mucha agua hasta que estÃ© casi deshecho.
+2. Licuar y colar.
+3. AÃ±adir azÃºcar y especias.
+4. Dejar fermentar en una vasija de barro de 2 a 3 dÃ­as.
+RECETA_FIN
+
+RECETA_INICIO
+ID: COL_141
+TITULO: Empanadas de PipiÃ¡n
+CATEGORIA: Pasabocas (Cauca)
+INGREDIENTES: [Masa de maÃ­z, Papas coloradas, ManÃ­ tostado, Huevo duro, Hogao]
+PASOS:
+1. Preparar el pipiÃ¡n (purÃ© de papas con manÃ­ molido y hogao).
+2. Rellenar cÃ­rculos de masa de maÃ­z con el pipiÃ¡n.
+3. Doblar y freÃ­r en aceite muy caliente.
+4. Servir con ajÃ­ de manÃ­.
+RECETA_FIN
+
+RECETA_INICIO
+ID: COL_142
+TITULO: SalpicÃ³n de Frutas
+CATEGORIA: Postres / Bebidas
+INGREDIENTES: [SandÃ­a (patilla), Papaya, Banano, PiÃ±a, Zumo de naranja]
+PASOS:
+1. Picar todas las frutas en cubos pequeÃ±os.
+2. Mezclar en un recipiente grande con zumo de naranja o refresco de color rojo.
+3. Servir frÃ­o, opcionalmente con una bola de helado de vainilla encima.
+RECETA_FIN
+
+RECETA_INICIO
+ID: COL_143
+TITULO: Brevas con Arequipe
+CATEGORIA: Postres
+INGREDIENTES: [Brevas (higos) en almÃ­bar, Arequipe (dulce de leche)]
+PASOS:
+1. Hacer un corte en cruz en la parte superior de las brevas.
+2. Rellenar con abundante arequipe.
+3. Servir acompaÃ±adas de una tajada de queso fresco.
+RECETA_FIN
+
+RECETA_INICIO
+ID: COL_144
+TITULO: Fritanga o Picada
+CATEGORIA: Platos Principales
+INGREDIENTES: [Rellena (morcilla), Longaniza, Papa criolla, ChicharrÃ³n, PlÃ¡tano maduro]
+PASOS:
+1. FreÃ­r todos los embutidos y carnes por separado.
+2. FreÃ­r las papas criollas enteras hasta que estÃ©n "harinosas".
+3. Picar todo en trozos de bocado.
+4. Servir en un platÃ³n compartido con ajÃ­ casero.
+RECETA_FIN
+
+RECETA_INICIO
+ID: COL_145
+TITULO: Arroz Atollado
+CATEGORIA: Arroces (Valle del Cauca)
+INGREDIENTES: [Arroz, Pollo, Cerdo, Papas, Hogao, AzafrÃ¡n de raÃ­z]
+PASOS:
+1. Cocinar las carnes en un caldo con hogao.
+2. AÃ±adir el arroz y las papas picadas.
+3. Debe quedar con una consistencia hÃºmeda, no seca como el arroz tradicional.
+4. Servir con cilantro y tajadas de plÃ¡tano.
+RECETA_FIN
+
+RECETA_INICIO
+ID: COL_146
+TITULO: Hormigas Culonas (Snack)
+CATEGORIA: Snacks
+INGREDIENTES: [Hormigas culonas, Sal]
+PASOS:
+1. Quitar alas y patas a las hormigas.
+2. Tostar en una sartÃ©n sin aceite.
+3. AÃ±adir sal al gusto.
+RECETA_FIN
+
+RECETA_INICIO
+ID: COL_147
+TITULO: Natilla Colombiana
+CATEGORIA: Postres (Navidad)
+INGREDIENTES: [FÃ©cula de maÃ­z, Leche, Panela, Canela, Mantequilla, Coco rallado]
+PASOS:
+1. Disolver la fÃ©cula en un poco de leche.
+2. Hervir el resto de la leche con panela y canela.
+3. AÃ±adir la fÃ©cula disuelta y revolver sin parar hasta que espese mucho.
+4. Verter en moldes y dejar enfriar hasta que cuaje.
+RECETA_FIN
+
+RECETA_INICIO
+ID: COL_148
+TITULO: BuÃ±uelos Colombianos
+CATEGORIA: Frituras (Navidad)
+INGREDIENTES: [Queso costeÃ±o rallado, AlmidÃ³n de maÃ­z, AlmidÃ³n de yuca, Huevo, AzÃºcar]
+PASOS:
+1. Mezclar los almidones con el queso y el huevo.
+2. Formar bolas perfectas de masa.
+3. FreÃ­r en aceite a temperatura controlada (si el aceite estÃ¡ bien, el buÃ±uelo gira solo).
+4. Deben quedar redondos, dorados y esponjosos.
+RECETA_FIN
+
+RECETA_INICIO
+ID: COL_149
+TITULO: Pan de Yuca
+CATEGORIA: PanaderÃ­a
+INGREDIENTES: [AlmidÃ³n de yuca, Queso fresco, Huevo, Polvo de hornear]
+PASOS:
+1. Mezclar el almidÃ³n con el queso rallado y el huevo.
+2. Amasar hasta tener una textura manejable.
+3. Formar medias lunas o aros.
+4. Hornear a 200Â°C hasta que doren levemente.
+RECETA_FIN
+
+RECETA_INICIO
+ID: COL_150
+TITULO: Cholado (Chuliao)
+CATEGORIA: Postres (Valle del Cauca)
+INGREDIENTES: [Hielo raspado, Frutas picadas, Jarabes de sabores, Leche condensada, Galleta barquillo]
+PASOS:
+1. Llenar un vaso con hielo raspado.
+2. AÃ±adir jarabes de colores (fresa, limÃ³n).
+3. Cubrir con una montaÃ±a de frutas (piÃ±a, papaya, banano, fresa, lulo).
+4. BaÃ±ar con mucha leche condensada y decorar con el barquillo.
+RECETA_FIN
+
+RECETA_INICIO
+ID: PER_151
+TITULO: Cebiche de Pescado
+CATEGORIA: Mariscos
+INGREDIENTES: [500g pescado blanco fresco, 10 limones, 1 cebolla roja, AjÃ­ limo, Cilantro, Sal, Camote cocido, Cancha serrana]
+PASOS:
+1. Cortar el pescado en cubos de 2cm y sazonar con sal y ajÃ­ limo picado.
+2. AÃ±adir el zumo de los limones reciÃ©n exprimidos (sin presionar mucho para no amargar).
+3. Agregar la cebolla en pluma y el cilantro picado; mezclar suavemente.
+4. Dejar marinar solo un par de minutos para mantener la frescura.
+5. Servir acompaÃ±ado de rodajas de camote (batata) y maÃ­z tostado (cancha).
+RECETA_FIN
+
+RECETA_INICIO
+ID: PER_152
+TITULO: Lomo Saltado
+CATEGORIA: Carnes (FusiÃ³n Chifa)
+INGREDIENTES: [500g lomo de res, 2 cebollas rojas, 3 tomates, AjÃ­ amarillo, Sillao (salsa de soja), Vinagre, Papas fritas, Arroz blanco]
+PASOS:
+1. Cortar la carne en tiras y sellar a fuego muy alto en un wok hasta que humee.
+2. AÃ±adir la cebolla y el ajÃ­ amarillo en tiras; saltear rÃ¡pidamente.
+3. Agregar el tomate, el sillao y el vinagre, manteniendo el fuego alto para "ahumar".
+4. Incorporar las papas fritas y el cilantro picado.
+5. Servir inmediatamente acompaÃ±ado de arroz blanco.
+RECETA_FIN
+
+RECETA_INICIO
+ID: PER_153
+TITULO: AjÃ­ de Gallina
+CATEGORIA: Platos Principales
+INGREDIENTES: [1 pechuga de pollo, 4 ajÃ­es amarillos, Pan de molde, Leche evaporada, Nueces (pecanas), Queso parmesano, Papas cocidas, Huevo duro]
+PASOS:
+1. Sancochar el pollo y desmenuzarlo; reservar el caldo.
+2. Licuar el ajÃ­ amarillo (sin venas) con el pan remojado en leche y las nueces.
+3. Cocinar la mezcla licuada en una olla hasta que espese y brille.
+4. AÃ±adir el pollo y el queso parmesano; rectificar sazÃ³n.
+5. Servir sobre rodajas de papa con arroz, medio huevo y una aceituna.
+RECETA_FIN
+
+RECETA_INICIO
+ID: PER_154
+TITULO: Causa Rellena de Pollo
+CATEGORIA: Entradas
+INGREDIENTES: [1kg papa amarilla, Pasta de ajÃ­ amarillo, LimÃ³n, Aceite, Pollo desmenuzado, Mayonesa, Aguacate, Huevo duro]
+PASOS:
+1. Prensar las papas cocidas hasta obtener un purÃ© muy fino y frÃ­o.
+2. Amasar con el aceite, el ajÃ­ amarillo y el limÃ³n hasta que sea moldeable.
+3. En un molde, colocar una capa de papa, luego una de aguacate y otra de pollo con mayonesa.
+4. Cubrir con otra capa de papa y decorar con huevo duro y aceituna.
+RECETA_FIN
+
+RECETA_INICIO
+ID: PER_155
+TITULO: Anticuchos de CorazÃ³n
+CATEGORIA: Calle / Brasas
+INGREDIENTES: [1 corazÃ³n de res, AjÃ­ panca molido, Ajo, Vinagre de tinto, Comino, Sal, Palitos de caÃ±a]
+PASOS:
+1. Limpiar el corazÃ³n y cortarlo en trozos cuadrados.
+2. Marinar la carne al menos 4 horas en una mezcla de ajÃ­ panca, ajo, vinagre y especias.
+3. Ensartar 3 o 4 trozos en cada palito.
+4. Cocinar a la parrilla con fuego fuerte, barnizando con el resto de la marinada.
+5. Servir con papa cocida y choclo (maÃ­z tierno).
+RECETA_FIN
+
+RECETA_INICIO
+ID: PER_156
+TITULO: Papa a la HuancaÃ­na
+CATEGORIA: Entradas
+INGREDIENTES: [Papas cocidas, 4 ajÃ­es amarillos, 200g queso fresco, Leche evaporada, Galletas de soda, Aceite]
+PASOS:
+1. Licuar los ajÃ­es (sin semillas) con el queso, la leche y el aceite.
+2. AÃ±adir galletas poco a poco hasta obtener una crema espesa y sedosa.
+3. Servir la salsa sobre las papas sancochadas y cortadas en rodajas.
+4. Decorar con hojas de lechuga, aceituna y huevo duro.
+RECETA_FIN
+
+RECETA_INICIO
+ID: PER_157
+TITULO: Arroz con Pollo Peruano
+CATEGORIA: Arroces
+INGREDIENTES: [Presas de pollo, Arroz, Cilantro licuado, Cerveza negra, Guisantes, Zanahoria, AjÃ­ amarillo]
+PASOS:
+1. Sellar el pollo y reservar.
+2. En el mismo aceite, sofreÃ­r ajÃ­ amarillo y el cilantro licuado hasta que seque un poco.
+3. AÃ±adir el arroz, el pollo, la cerveza negra y el caldo.
+4. Cocinar a fuego lento hasta que el arroz estÃ© graneado y verde.
+RECETA_FIN
+
+RECETA_INICIO
+ID: PER_158
+TITULO: Suspiro a la LimeÃ±a
+CATEGORIA: Postres
+INGREDIENTES: [1 lata leche condensada, 1 lata leche evaporada, 5 yemas, 3 claras, Oporto (vino), Canela]
+PASOS:
+1. Cocinar las leches en una olla hasta que espese (manjar blanco); aÃ±adir las yemas.
+2. Preparar un merengue batiendo las claras con un almÃ­bar de azÃºcar y vino Oporto.
+3. Colocar el manjar en copas y cubrir con el merengue.
+4. Espolvorear canela en polvo.
+RECETA_FIN
+
+RECETA_INICIO
+ID: PER_159
+TITULO: Rocoto Relleno
+CATEGORIA: Regional (Arequipa)
+INGREDIENTES: [4 rocotos grandes, Carne picada, Cebolla, ManÃ­ tostado, Pasas, Queso, Leche, Papas]
+PASOS:
+1. Hervir los rocotos en agua con azÃºcar y vinagre tres veces para quitar el picor extremo.
+2. Rellenar con un guiso de carne, cebolla, manÃ­ picado y pasas.
+3. Colocar una lÃ¡mina de queso encima de cada rocoto.
+4. Hornear junto con papas sancochadas y una mezcla de leche y huevo (pastel de papa).
+RECETA_FIN
+
+RECETA_INICIO
+ID: PER_160
+TITULO: Tacu Tacu
+CATEGORIA: Aprovechamiento
+INGREDIENTES: [Frijoles cocidos del dÃ­a anterior, Arroz blanco cocido, AjÃ­ amarillo, Cebolla, Lomo saltado (acompaÃ±amiento)]
+PASOS:
+1. Mezclar los frijoles y el arroz en un bol.
+2. SofreÃ­r cebolla y ajÃ­ amarillo; aÃ±adir la mezcla de arroz y frijoles.
+3. Dorar en la sartÃ©n dÃ¡ndole forma de tortilla alargada hasta que cree una costra.
+4. Servir con un huevo frito y un trozo de carne encima.
+RECETA_FIN
+
+RECETA_INICIO
+ID: ARG_161
+TITULO: Asado de Tira
+CATEGORIA: Parrilla
+INGREDIENTES: [Costillar de res cortado transversalmente, Sal parrillera, Brasas de leÃ±a o carbÃ³n]
+PASOS:
+1. Preparar el fuego hasta que las brasas estÃ©n blancas.
+2. Salar la carne con sal gruesa Ãºnicamente.
+3. Colocar en la parrilla primero del lado del hueso.
+4. Cocinar a fuego medio-lento para que el calor penetre el hueso y cocine la carne.
+5. Voltear y dorar el lado de la carne hasta el punto deseado.
+RECETA_FIN
+
+RECETA_INICIO
+ID: ARG_162
+TITULO: Empanadas Tucumanas
+CATEGORIA: Masas
+INGREDIENTES: [Harina, Grasa de pella, Carne de matambre cortada a cuchillo, Cebolla blanca, Cebolla de verdeo, Huevo duro, Comino, PimentÃ³n]
+PASOS:
+1. Preparar la masa con harina, agua y grasa de vaca (pella).
+2. Saltear la carne picada a mano con la cebolla y las especias.
+3. Dejar enfriar el relleno (carbonada) para que la grasa solidifique.
+4. Armar las empanadas con 13 repulgues tradicionales.
+5. Hornear a fuego muy fuerte o freÃ­r en grasa.
+RECETA_FIN
+
+RECETA_INICIO
+ID: ARG_163
+TITULO: Milanesa a la Napolitana
+CATEGORIA: Carnes
+INGREDIENTES: [Nalga o peceto de res, Huevo, Pan rallado, Salsa de tomate, JamÃ³n cocido, Queso mozzarella, OrÃ©gano]
+PASOS:
+1. Pasar la carne por huevo batido y pan rallado; freÃ­r.
+2. Colocar las milanesas en una placa para horno.
+3. Cubrir cada una con una cucharada de salsa de tomate, una feta de jamÃ³n y queso.
+4. Hornear hasta que el queso se gratine.
+5. Servir con papas fritas.
+RECETA_FIN
+
+RECETA_INICIO
+ID: ARG_164
+TITULO: ChoripÃ¡n con Chimichurri
+CATEGORIA: SÃ¡ndwiches / Calle
+INGREDIENTES: [Chorizo criollo, Pan francÃ©s, Aceite, Vinagre, Perejil, Ajo, AjÃ­ molido, OrÃ©gano]
+PASOS:
+1. Preparar el chimichurri mezclando las hierbas, ajo, aceite y vinagre; dejar reposar.
+2. Cocinar el chorizo a la parrilla (mariposa: abierto al medio).
+3. Tostar el pan ligeramente en la parrilla.
+4. Colocar el chorizo en el pan y baÃ±ar con abundante chimichurri.
+RECETA_FIN
+
+RECETA_INICIO
+ID: ARG_165
+TITULO: Locro Argentino
+CATEGORIA: Guisos Tradicionales
+INGREDIENTES: [MaÃ­z blanco partido, Porotos (frijoles), Zapallo (calabaza), Cerdo (patitas y cueros), Chorizo colorado, Panceta]
+PASOS:
+1. Remojar el maÃ­z y los porotos 12 horas.
+2. Cocinar el maÃ­z con las carnes de cerdo en abundante agua.
+3. AÃ±adir el zapallo cortado pequeÃ±o para que se deshaga y espese el guiso (le da el color amarillo).
+4. Cocinar 3 horas a fuego lento removiendo con cuchara de madera.
+5. Servir con una salsa picante de aceite, pimentÃ³n y cebolla de verdeo (quiquirimichi).
+RECETA_FIN
+
+RECETA_INICIO
+ID: ARG_166
+TITULO: Alfajores de Maicena
+CATEGORIA: Dulces
+INGREDIENTES: [AlmidÃ³n de maÃ­z, Harina, Mantequilla, AzÃºcar, Yemas, Dulce de leche, Coco rallado]
+PASOS:
+1. Batir mantequilla con azÃºcar; aÃ±adir yemas y secos hasta formar una masa suave.
+2. Estirar y cortar cÃ­rculos; hornear a fuego medio (deben quedar blancos).
+3. Unir dos tapas con abundante dulce de leche repostero.
+4. Rodar los bordes por coco rallado para que se pegue al dulce de leche.
+RECETA_FIN
+
+RECETA_INICIO
+ID: ARG_167
+TITULO: Matambre a la Pizza
+CATEGORIA: Carnes
+INGREDIENTES: [Matambre de res, Leche, Salsa de tomate, Queso mozzarella, Aceitunas]
+PASOS:
+1. Hervir el matambre en leche con sal durante 1 hora para tiernizarlo.
+2. Escurrir y colocar en una parrilla o placa de horno del lado de la grasa.
+3. Cubrir el lado de la carne con salsa y queso.
+4. Cocinar hasta que la base estÃ© dorada y el queso derretido.
+RECETA_FIN
+
+RECETA_INICIO
+ID: ARG_168
+TITULO: Humita en Chala
+CATEGORIA: Regional (Norte)
+INGREDIENTES: [MaÃ­z (choclo) rallado, Cebolla, Albahaca, Queso de cabra, Hojas de maÃ­z (chalas)]
+PASOS:
+1. Rallar los choclos frescos.
+2. Hacer un sofrito de cebolla y pimentÃ³n; mezclar con el maÃ­z y albahaca.
+3. Colocar una porciÃ³n en dos hojas de maÃ­z cruzadas, aÃ±adir un trozo de queso.
+4. Atar con tiras de la misma hoja formando un paquete.
+5. Hervir en agua con sal por 40 minutos.
+RECETA_FIN
+
+RECETA_INICIO
+ID: ARG_169
+TITULO: Pastafrola
+CATEGORIA: Postres / Merienda
+INGREDIENTES: [Harina, Mantequilla, Huevo, Dulce de membrillo o de batata]
+PASOS:
+1. Hacer una masa dulce (frola) y forrar un molde de tarta.
+2. Derretir el dulce de membrillo con un chorrito de agua caliente.
+3. Rellenar la tarta y decorar con un enrejado de tiras de masa por encima.
+4. Hornear hasta que la masa estÃ© dorada.
+RECETA_FIN
+
+RECETA_INICIO
+ID: ARG_170
+TITULO: Panqueques con Dulce de Leche
+CATEGORIA: Postres
+INGREDIENTES: [Harina, Leche, Huevos, Dulce de leche, AzÃºcar para espolvorear]
+PASOS:
+1. Batir los ingredientes hasta tener una mezcla lÃ­quida y sin grumos.
+2. Cocinar discos finos en una sartÃ©n con mantequilla.
+3. Untar cada disco con una generosa capa de dulce de leche.
+4. Enrollar y espolvorear con azÃºcar glass o quemar con un hierro caliente.
+RECETA_FIN
+
+RECETA_INICIO
+ID: ARG_171
+TITULO: VacÃ­o a la Parrilla
+CATEGORIA: Carnes
+INGREDIENTES: [1 corte de vacÃ­o de res (aprox. 2kg), Sal gruesa, Brasas de leÃ±a]
+PASOS:
+1. Limpiar el exceso de grasa exterior pero dejar la "telita" (membrana).
+2. Salar generosamente por ambos lados.
+3. Colocar en la parrilla a fuego medio, primero del lado de la membrana/grasa.
+4. Cocinar unos 45-50 minutos de ese lado hasta que estÃ© bien dorado.
+5. Voltear y cocinar 20-30 minutos mÃ¡s del otro lado.
+RECETA_FIN
+
+RECETA_INICIO
+ID: ARG_172
+TITULO: Sorrentinos de JamÃ³n y Queso
+CATEGORIA: Pastas
+INGREDIENTES: [Masa de pasta al huevo, 200g jamÃ³n cocido, 300g queso mozzarella, Ricota, Nuez moscada]
+PASOS:
+1. Picar el jamÃ³n y mezclar con la mozzarella rallada, la ricota y nuez moscada.
+2. Estirar la masa de pasta muy fina.
+3. Colocar montoncitos de relleno sobre la masa con espacio entre ellos.
+4. Cubrir con otra lÃ¡mina de masa y sellar con el molde circular tÃ­pico de sorrentino.
+5. Hervir en abundante agua salada hasta que floten y servir con salsa roja o blanca.
+RECETA_FIN
+
+RECETA_INICIO
+ID: ARG_173
+TITULO: Provoleta a la Parrilla
+CATEGORIA: Quesos / Entradas
+INGREDIENTES: [1 rodaja de queso Provolone de 2cm, OrÃ©gano, AjÃ­ molido, Aceite de oliva]
+PASOS:
+1. Dejar el queso al aire unas horas antes para que se seque un poco (haga corteza).
+2. Calentar la plancha o parrilla a fuego fuerte.
+3. Colocar el queso y dejar que dore hasta que estÃ© crocante por fuera y fundido por dentro.
+4. Voltear con espÃ¡tula, aÃ±adir orÃ©gano y ajÃ­ molido.
+5. Servir inmediatamente con un chorrito de aceite de oliva.
+RECETA_FIN
+
+RECETA_INICIO
+ID: ARG_174
+TITULO: Empanadas SalteÃ±as
+CATEGORIA: Masas / Regional
+INGREDIENTES: [Carne de res picada a cuchillo, Papa hervida en cubitos, Grasa de pella, Cebolla, Huevo duro, Comino, PimentÃ³n, Cebolla de verdeo]
+PASOS:
+1. SofreÃ­r la cebolla en grasa de pella; aÃ±adir la carne y las especias.
+2. Fuera del fuego, incorporar los cubitos de papa y el huevo duro picado.
+3. Dejar enfriar el relleno (es clave para que sea jugosa).
+4. Armar las empanadas pequeÃ±as y cerrar con el repulgue.
+5. Hornear en horno de barro o muy fuerte hasta que doren.
+RECETA_FIN
+
+RECETA_INICIO
+ID: ARG_175
+TITULO: Pollo al Disco
+CATEGORIA: Aves / Campo
+INGREDIENTES: [1 pollo troceado, Cebolla, Pimiento, Zanahoria, Cerveza blanca, Crema de leche, Arvejas, Papas en rodajas]
+PASOS:
+1. Calentar el disco de arado con un poco de aceite.
+2. Sellar las presas de pollo hasta que estÃ©n doradas; retirar.
+3. SofreÃ­r las verduras en el mismo aceite.
+4. Reincorporar el pollo, aÃ±adir las papas y cubrir con la cerveza.
+5. Cocinar hasta que el pollo estÃ© tierno y terminar con crema de leche y arvejas.
+RECETA_FIN
+
+RECETA_INICIO
+ID: ARG_176
+TITULO: Mollejas al Verdeo
+CATEGORIA: Achuras
+INGREDIENTES: [500g mollejas de corazÃ³n, Cebolla de verdeo, Vino blanco, Crema de leche, LimÃ³n]
+PASOS:
+1. Hervir las mollejas 10 min en agua con sal y limÃ³n; enfriar y cortar en lÃ¡minas.
+2. Dorar las lÃ¡minas en una sartÃ©n hasta que estÃ©n muy crocantes.
+3. AÃ±adir la parte blanca de la cebolla de verdeo y desglasar con vino blanco.
+4. Incorporar la crema de leche y cocinar hasta que espese.
+5. Decorar con la parte verde de la cebolla picada.
+RECETA_FIN
+
+RECETA_INICIO
+ID: ARG_177
+TITULO: Carbonada Criolla
+CATEGORIA: Guisos
+INGREDIENTES: [Carne de res en cubos, Zapallo, MaÃ­z (choclo), Duraznos en almÃ­bar, Papas, Tomate, Cebolla]
+PASOS:
+1. SofreÃ­r la carne con cebolla y tomate.
+2. AÃ±adir caldo, el zapallo y las papas troceadas.
+3. Incorporar el maÃ­z en rodajas y, al final, los duraznos picados (el toque agridulce).
+4. Cocinar hasta que el zapallo se deshaga y espese el caldo.
+RECETA_FIN
+
+RECETA_INICIO
+ID: ARG_178
+TITULO: Vitel TonÃ©
+CATEGORIA: Entradas / Navidad
+INGREDIENTES: [1 peceto de res, AtÃºn de lata, Anchoas, Alcaparras, Mayonesa, Crema de leche, Mostaza]
+PASOS:
+1. Hervir el peceto en un caldo de verduras hasta que estÃ© tierno; dejar enfriar en el caldo.
+2. Licuar el atÃºn, las anchoas, mayonesa, crema y mostaza para la salsa.
+3. Cortar la carne en lÃ¡minas muy finas.
+4. Disponer en una fuente y cubrir completamente con la salsa.
+5. Decorar con alcaparras y huevo duro picado.
+RECETA_FIN
+
+RECETA_INICIO
+ID: ARG_179
+TITULO: Rogel
+CATEGORIA: Postres
+INGREDIENTES: [Discos de masa de yema crocante, Dulce de leche repostero, Claras, AzÃºcar (merengue italiano)]
+PASOS:
+1. Hornear varios discos de masa fina hasta que estÃ©n secos.
+2. Apilar los discos untando cada capa con abundante dulce de leche.
+3. Preparar un merengue italiano batiendo claras con almÃ­bar a 118Â°C.
+4. Cubrir la parte superior con picos de merengue.
+RECETA_FIN
+
+RECETA_INICIO
+ID: ARG_180
+TITULO: Flan Mixto
+CATEGORIA: Postres
+INGREDIENTES: [8 huevos, 1L leche, 250g azÃºcar, Vainilla, Dulce de leche, Crema batida]
+PASOS:
+1. Mezclar huevos, leche, azÃºcar y vainilla sin batir demasiado.
+2. Verter en un molde caramelizado.
+3. Cocinar a baÃ±o de marÃ­a en el horno a 160Â°C por 1 hora.
+4. Enfriar y desmoldar.
+5. Servir una porciÃ³n con una cucharada de dulce de leche y otra de crema (por eso es "mixto").
+RECETA_FIN
+
+RECETA_INICIO
+ID: ARG_181
+TITULO: Chimichurri Casero
+CATEGORIA: Salsas / Aderezos
+INGREDIENTES: [Perejil picado, Ajo picado, AjÃ­ molido, OrÃ©gano, Vinagre de vino, Aceite de girasol, Sal]
+PASOS:
+1. Mezclar los ingredientes secos en un frasco.
+2. Hidratar con un chorrito de agua caliente.
+3. AÃ±adir el vinagre y finalmente el aceite.
+4. Dejar reposar al menos 24 horas para que los sabores se integren.
+RECETA_FIN
+
+RECETA_INICIO
+ID: ARG_182
+TITULO: Salsa Criolla
+CATEGORIA: Salsas / Aderezos
+INGREDIENTES: [Cebolla blanca, Pimiento rojo, Pimiento verde, Tomate, Vinagre, Aceite, Sal]
+PASOS:
+1. Cortar todos los vegetales en cubitos muy pequeÃ±os (brunoise).
+2. Mezclar en un bol con sal, vinagre y aceite en proporciÃ³n 1 de vinagre por 3 de aceite.
+3. Dejar macerar una hora antes de servir sobre la carne asada.
+RECETA_FIN
+
+RECETA_INICIO
+ID: ARG_183
+TITULO: Fugazzetta Rellena
+CATEGORIA: Pizza
+INGREDIENTES: [Masa de pizza de molde, Queso mozzarella, Queso cuartirolo, Mucha cebolla blanca, OrÃ©gano, Parmesano]
+PASOS:
+1. Dividir la masa en dos partes: una base y una tapa mÃ¡s fina.
+2. Colocar la base en la fuente y cubrir con abundante queso mozzarella y cuartirolo.
+3. Tapar con la otra masa y sellar los bordes.
+4. Cubrir la parte superior con mucha cebolla cortada en pluma (previamente macerada en sal).
+5. Hornear hasta que la masa estÃ© cocida y el queso se desborde por los lados.
+RECETA_FIN
+
+RECETA_INICIO
+ID: ARG_184
+TITULO: Ã‘oquis del 29
+CATEGORIA: Pastas
+INGREDIENTES: [1kg papas, 300g harina, 1 huevo, Sal, Nuez moscada, Queso rallado]
+PASOS:
+1. Hacer un purÃ© con papas hervidas con cÃ¡scara (para que no absorban agua).
+2. Mezclar el purÃ© tibio con harina, huevo y condimentos sin amasar de mÃ¡s.
+3. Formar tiras largas, cortar cubitos y pasarlos por la tablita de madera para dar forma.
+4. Hervir en agua salada; retirar apenas floten.
+5. Servir con estofado y poner un billete bajo el plato (tradiciÃ³n de buena suerte).
+RECETA_FIN
+
+RECETA_INICIO
+ID: ARG_185
+TITULO: Tarta de JamÃ³n y Queso
+CATEGORIA: Masas
+INGREDIENTES: [2 tapas de masa para tarta, 200g jamÃ³n cocido, 300g queso mozzarella, 3 huevos, Pimienta]
+PASOS:
+1. Forrar un molde con una tapa de masa.
+2. Colocar una capa de jamÃ³n y luego una de queso.
+3. Batir los huevos y verter sobre el relleno para ligar.
+4. Tapar con la otra masa, hacer el repulgue y pinchar con tenedor.
+5. Hornear a 200Â°C hasta que dore.
+RECETA_FIN
+
+RECETA_INICIO
+ID: ARG_186
+TITULO: Revuelto Gramajo
+CATEGORIA: Platos Principales / BodegÃ³n
+INGREDIENTES: [Papas cortadas en hilo (pay), Huevos, JamÃ³n cocido en tiras, Arvejas, Cebolla]
+PASOS:
+1. FreÃ­r las papas hilo hasta que estÃ©n crocantes y reservar.
+2. SofreÃ­r el jamÃ³n y la cebolla.
+3. AÃ±adir los huevos apenas batidos y las papas fritas.
+4. Revolver rÃ¡pidamente para que el huevo cuaje pero quede hÃºmedo.
+5. Servir con arvejas por encima.
+RECETA_FIN
+
+RECETA_INICIO
+ID: ARG_187
+TITULO: Berenjenas en Escabeche
+CATEGORIA: Conservas
+INGREDIENTES: [1kg berenjenas, Vinagre, Agua, Laurel, Pimienta en grano, Ajo, OrÃ©gano, Aceite]
+PASOS:
+1. Pelar y cortar las berenjenas en tiras.
+2. Hervir en partes iguales de agua y vinagre con sal por 7 minutos.
+3. Escurrir bien y dejar secar.
+4. Envasar en frascos esterilizados alternando con ajo, laurel y especias.
+5. Cubrir completamente con aceite.
+RECETA_FIN
+
+RECETA_INICIO
+ID: ARG_188
+TITULO: BudÃ­n de Pan Argentino
+CATEGORIA: Postres
+INGREDIENTES: [Pan del dÃ­a anterior, Leche, AzÃºcar, Huevos, Ralladura de limÃ³n, Pasas de uva]
+PASOS:
+1. Remojar el pan sin corteza en leche tibia y deshacer.
+2. Agregar los huevos, el azÃºcar y la ralladura.
+3. Verter en un molde acaramelado.
+4. Hornear a baÃ±o de marÃ­a durante 50 minutos.
+5. Desmoldar frÃ­o y servir con dulce de leche.
+RECETA_FIN
+
+RECETA_INICIO
+ID: ARG_189
+TITULO: Postre Vigilante (Fresco y Batata)
+CATEGORIA: Postres
+INGREDIENTES: [Queso fresco (tipo cuartirolo o pategrÃ¡s), Dulce de batata o de membrillo]
+PASOS:
+1. Cortar una rebanada de queso de 1cm.
+2. Cortar una rebanada de dulce del mismo tamaÃ±o.
+3. Colocar el dulce sobre el queso y servir (es el postre de bodegÃ³n mÃ¡s rÃ¡pido).
+RECETA_FIN
+
+RECETA_INICIO
+ID: ARG_190
+TITULO: Chinchulines Trenzados
+CATEGORIA: Achuras
+INGREDIENTES: [Chinchulines de res, LimÃ³n, Sal, Pimienta]
+PASOS:
+1. Lavar bien los chinchulines.
+2. Formar trenzas y asegurar los extremos.
+3. Cocinar a la parrilla con fuego fuerte hasta que estÃ©n muy crocantes por fuera.
+4. Rociar con abundante jugo de limÃ³n al servir.
+RECETA_FIN
+
+RECETA_INICIO
+ID: ARG_191
+TITULO: Estofado de Carne (para pastas)
+CATEGORIA: Guisos
+INGREDIENTES: [Trozos de carne de res (rosbif), Tomate triturado, Cebolla, Zanahoria, Vino tinto, Laurel]
+PASOS:
+1. Sellar la carne en una olla profunda.
+2. AÃ±adir las verduras picadas y sofreÃ­r.
+3. Agregar el vino y dejar evaporar el alcohol.
+4. Incorporar el tomate y cocinar a fuego mÃ­nimo por 2 horas hasta que la carne se deshaga.
+RECETA_FIN
+
+RECETA_INICIO
+ID: ARG_192
+TITULO: Pizza de Cancha (Senza Mozzarella)
+CATEGORIA: Pizza
+INGREDIENTES: [Masa de pizza, Mucha salsa de tomate, Ajo, OrÃ©gano, Aceite de oliva]
+PASOS:
+1. Extender la masa en una fuente redonda.
+2. Cubrir con una capa gruesa de salsa de tomate bien condimentada con ajo.
+3. Hornear hasta que la masa estÃ© crujiente.
+4. Se sirve frÃ­a o a temperatura ambiente, sin queso (tradicional de las afueras de los estadios).
+RECETA_FIN
+
+RECETA_INICIO
+ID: ARG_193
+TITULO: Bolas de Fraile (Berlinesas)
+CATEGORIA: PanaderÃ­a / Merienda
+INGREDIENTES: [Masa de levadura dulce, Aceite para freÃ­r, AzÃºcar, Dulce de leche o crema pastelera]
+PASOS:
+1. Formar bollos redondos de masa y dejar leudar.
+2. FreÃ­r en aceite a temperatura media para que se cocinen por dentro.
+3. Pasar por azÃºcar mientras estÃ¡n calientes.
+4. Hacer un tajo lateral y rellenar con dulce de leche.
+RECETA_FIN
+
+RECETA_INICIO
+ID: ARG_194
+TITULO: Lengua a la Vinagreta
+CATEGORIA: Entradas
+INGREDIENTES: [1 lengua de res, Ajo, Perejil, Huevo duro, Aceite, Vinagre]
+PASOS:
+1. Hervir la lengua con verduras por 2 horas; pelar mientras estÃ¡ caliente.
+2. Una vez frÃ­a, cortar en lÃ¡minas muy finas.
+3. Preparar una mezcla de aceite, vinagre, mucho ajo y perejil picado.
+4. Marinar las lÃ¡minas de lengua en la mezcla durante un dÃ­a.
+RECETA_FIN
+
+RECETA_INICIO
+ID: ARG_195
+TITULO: Canelones de Espinaca
+CATEGORIA: Pastas
+INGREDIENTES: [Panqueques, Espinaca cocida, Ricota, Queso rallado, Salsa roja, Salsa blanca]
+PASOS:
+1. Picar la espinaca y mezclar con ricota y queso.
+2. Rellenar los panqueques y enrollar.
+3. Disponer en una fuente, cubrir con ambas salsas (mixta).
+4. Hornear 15 minutos hasta gratinar.
+RECETA_FIN
+
+RECETA_INICIO
+ID: ARG_196
+TITULO: Tarta de Zapallitos
+CATEGORIA: Masas
+INGREDIENTES: [1kg zapallitos verdes (calabacines redondos), Cebolla, Huevos, Queso, Masa de tarta]
+PASOS:
+1. Cortar los zapallitos en cubos y saltear con cebolla (escurrir bien el lÃ­quido).
+2. Mezclar con huevos y queso rallado.
+3. Colocar en la masa y hornear hasta que el relleno cuaje.
+RECETA_FIN
+
+RECETA_INICIO
+ID: ARG_197
+TITULO: Balcarce (Postre)
+CATEGORIA: Postres / Regional
+INGREDIENTES: [Bizcochuelo, Merengue seco, Dulce de leche, Crema chantilly, CastaÃ±as, Coco]
+PASOS:
+1. Cortar el bizcochuelo en capas.
+2. Rellenar con dulce de leche, trozos de merengue y castaÃ±as.
+3. Cubrir con crema y espolvorear con coco rallado y azÃºcar quemada arriba.
+RECETA_FIN
+
+RECETA_INICIO
+ID: ARG_198
+TITULO: Arroz con Leche Argentino
+CATEGORIA: Postres
+INGREDIENTES: [1 taza arroz, 1L leche, AzÃºcar, Canela, CÃ¡scara de limÃ³n, Dulce de leche]
+PASOS:
+1. Cocinar el arroz en la leche con canela y limÃ³n a fuego muy bajo.
+2. Revolver constantemente para lograr cremosidad.
+3. Servir frÃ­o con una generosa cucharada de dulce de leche en el centro.
+RECETA_FIN
+
+RECETA_INICIO
+ID: ARG_199
+TITULO: Empanadas de Humita
+CATEGORIA: Masas / Regional
+INGREDIENTES: [Choclo (maÃ­z) rallado, Salsa blanca espesa, Cebolla, PimentÃ³n, Queso mozzarella]
+PASOS:
+1. Mezclar el choclo salteado con cebolla y la salsa blanca.
+2. AÃ±adir cubitos de queso.
+3. Rellenar las tapas de empanada y cerrar.
+4. Hornear o freÃ­r.
+RECETA_FIN
+
+RECETA_INICIO
+ID: ARG_200
+TITULO: Mate (PreparaciÃ³n Tradicional)
+CATEGORIA: Infusiones
+INGREDIENTES: [Yerba mate, Agua caliente (80Â°C), AzÃºcar opcional]
+PASOS:
+1. Llenar el mate 3/4 partes con yerba.
+2. Sacudir para que el polvillo quede arriba.
+3. Humedecer la yerba con un poco de agua tibia.
+4. Insertar la bombilla y cebar con agua caliente (nunca hirviendo) sobre el hueco de la bombilla.
+RECETA_FIN
+
+RECETA_INICIO
+ID: JPN_201
+TITULO: Ramen Tonkotsu
+CATEGORIA: Sopas / Fideos
+INGREDIENTES: [Huesos de cerdo, Fideos de trigo, Chashu (cerdo marinado), Huevo ajitama, Cebollino, Alga nori, Jengibre]
+PASOS:
+1. Hervir los huesos de cerdo a fuego fuerte durante 12 horas hasta obtener un caldo blanco lechoso y denso.
+2. Preparar el "Tare" (base de sabor) con salsa de soja, mirin y sake.
+3. Cocer los fideos al dente.
+4. Servir el caldo caliente sobre el tare en un bol, aÃ±adir los fideos.
+5. Decorar con lÃ¡minas de cerdo chashu, el huevo marinado, nori y cebollino picado.
+RECETA_FIN
+
+RECETA_INICIO
+ID: JPN_202
+TITULO: Sushi Nigiri de SalmÃ³n
+CATEGORIA: Sushi
+INGREDIENTES: [Arroz para sushi (shari), Vinagre de arroz, AzÃºcar, Sal, SalmÃ³n fresco grado sushi, Wasabi]
+PASOS:
+1. Lavar el arroz hasta que el agua salga clara y cocer.
+2. AliÃ±ar el arroz con la mezcla de vinagre, azÃºcar y sal (Sushi-zu).
+3. Formar pequeÃ±os cilindros ovalados de arroz con las manos hÃºmedas.
+4. Colocar una pizca de wasabi sobre una lÃ¡mina de salmÃ³n cortada a contra veta.
+5. Presionar el salmÃ³n sobre el arroz hasta que queden integrados.
+RECETA_FIN
+
+RECETA_INICIO
+ID: JPN_203
+TITULO: Tempura Mixta
+CATEGORIA: Frituras
+INGREDIENTES: [Langostinos, Verduras (pimiento, berenjena, calabaza), Harina de trigo, Huevo, Agua helada, Aceite vegetal]
+PASOS:
+1. Mezclar la harina con el agua helada y el huevo muy ligeramente (no batir en exceso, los grumos son normales).
+2. Limpiar los langostinos y hacer pequeÃ±os cortes para que no se curven.
+3. Pasar los ingredientes por harina seca y luego por la masa de tempura.
+4. FreÃ­r en aceite a 180Â°C durante solo 2-3 minutos hasta que estÃ© apenas dorado y muy crujiente.
+5. Servir con salsa Tentsuyu (dashi, soja y mirin).
+RECETA_FIN
+
+RECETA_INICIO
+ID: JPN_204
+TITULO: Pollo Teriyaki
+CATEGORIA: Carnes
+INGREDIENTES: [Contramuslos de pollo, Salsa de soja, Mirin, Sake, AzÃºcar, Jengibre]
+PASOS:
+1. Mezclar soja, mirin, sake y azÃºcar en una sartÃ©n y reducir hasta que espese.
+2. Dorar el pollo en una sartÃ©n por el lado de la piel hasta que estÃ© crujiente.
+3. Verter la salsa sobre el pollo y cocinar a fuego medio para que caramelice.
+4. Cortar en tiras y servir con semillas de sÃ©samo por encima y arroz blanco.
+RECETA_FIN
+
+RECETA_INICIO
+ID: JPN_205
+TITULO: Sopa de Miso (Miso-shiru)
+CATEGORIA: Sopas
+INGREDIENTES: [Caldo Dashi, Pasta de Miso (rojo o blanco), Tofu firme, Algas Wakame, Cebollino]
+PASOS:
+1. Calentar el caldo dashi hasta que casi hierva.
+2. Hidratar las algas wakame en un poco de agua.
+3. Disolver la pasta de miso en un poco de caldo caliente aparte y luego aÃ±adir a la olla (no dejar que hierva el miso para no perder aroma).
+4. AÃ±adir cubos pequeÃ±os de tofu y las algas.
+5. Servir inmediatamente con cebollino picado.
+RECETA_FIN
+
+RECETA_INICIO
+ID: JPN_206
+TITULO: Okonomiyaki (Pizza Japonesa)
+CATEGORIA: Platos Ãšnicos
+INGREDIENTES: [Harina, Huevo, Caldo dashi, Col (repollo) picada, Panceta de cerdo, Salsa okonomiyaki, Katsuobushi (bonito seco), Mayonesa japonesa]
+PASOS:
+1. Mezclar la harina, el huevo y el dashi con la col picada para formar una masa.
+2. Verter en una plancha caliente formando un cÃ­rculo grueso.
+3. Colocar lÃ¡minas de panceta encima y dar la vuelta cuando la base estÃ© dorada.
+4. Cocinar hasta que el cerdo estÃ© crujiente.
+5. Decorar con salsa oscura, mayonesa, algas aonori y los copos de bonito que se mueven con el calor.
+RECETA_FIN
+
+RECETA_INICIO
+ID: JPN_207
+TITULO: Gyoza (Empanadillas)
+CATEGORIA: Entrantes
+INGREDIENTES: [Masas para gyoza, Carne de cerdo picada, Col china, Ajo, Jengibre, Aceite de sÃ©samo, Salsa de soja]
+PASOS:
+1. Picar la col muy fina, salar y escurrir el exceso de agua.
+2. Mezclar la col con el cerdo, ajo, jengibre y soja.
+3. Rellenar las masas y sellar haciendo pliegues solo en un lado.
+4. Dorar la base en una sartÃ©n con aceite, aÃ±adir un poco de agua y tapar para cocinar al vapor.
+5. Cuando el agua se evapore, dejar que la base vuelva a quedar crujiente.
+RECETA_FIN
+
+RECETA_INICIO
+ID: JPN_208
+TITULO: Takoyaki (Bolas de Pulpo)
+CATEGORIA: Calle / Snack
+INGREDIENTES: [Harina para takoyaki, Pulpo cocido, Jengibre encurtido (beni shoga), Tenkasu (bolitas de tempura), Salsa takoyaki]
+PASOS:
+1. Preparar una masa lÃ­quida con harina, huevo y caldo dashi.
+2. Verter la masa en los huecos de una plancha especial para takoyaki.
+3. AÃ±adir un trozo de pulpo en cada hueco junto con jengibre y tenkasu.
+4. Girar las bolas constantemente con un palillo hasta que queden perfectamente redondas y doradas.
+5. Servir con salsa, mayonesa y alga aonori.
+RECETA_FIN
+
+RECETA_INICIO
+ID: JPN_209
+TITULO: Katsudon
+CATEGORIA: Donburi (Cuencos)
+INGREDIENTES: [Tonkatsu (cerdo empanado), 1 Huevo, Cebolla, Caldo dashi, Salsa de soja, Mirin, Arroz blanco]
+PASOS:
+1. Cocinar cebolla en una mezcla de dashi, soja y mirin en una sartÃ©n pequeÃ±a.
+2. Colocar el tonkatsu ya frito y cortado sobre la cebolla.
+3. Batir ligeramente un huevo y verter sobre el cerdo.
+4. Tapar unos segundos hasta que el huevo estÃ© semicocido.
+5. Deslizar todo el contenido sobre un bol de arroz blanco caliente.
+RECETA_FIN
+
+RECETA_INICIO
+ID: JPN_210
+TITULO: Onigiri
+CATEGORIA: Snack / Almuerzo
+INGREDIENTES: [Arroz japonÃ©s, Alga nori, Relleno (atÃºn con mayonesa o salmÃ³n), Sal]
+PASOS:
+1. Poner sal en las manos hÃºmedas.
+2. Tomar una porciÃ³n de arroz caliente y hacer un hueco en el centro.
+3. Colocar el relleno y cubrir con mÃ¡s arroz.
+4. Presionar suavemente para dar forma triangular o redonda.
+5. Envolver la base con una tira de alga nori.
+RECETA_FIN
+
+RECETA_INICIO
+ID: JPN_211
+TITULO: Yakisoba
+CATEGORIA: Fideos Salteados
+INGREDIENTES: [Fideos soba (trigo), Cerdo, Col, Zanahoria, Cebolla, Salsa yakisoba (agridulce), Benishoga]
+PASOS:
+1. Saltear la carne de cerdo con las verduras troceadas en un wok o plancha.
+2. AÃ±adir los fideos y un poco de agua para soltarlos.
+3. Verter la salsa yakisoba y remover bien a fuego fuerte para que se integre.
+4. Servir con jengibre rojo encurtido encima.
+RECETA_FIN
+
+RECETA_INICIO
+ID: JPN_212
+TITULO: Agedashi Tofu
+CATEGORIA: Entrantes
+INGREDIENTES: [Tofu firme, FÃ©cula de patata (katakuriko), Caldo dashi, Soja, Mirin, RÃ¡bano daikon rallado]
+PASOS:
+1. Cortar el tofu en cubos grandes y secar bien con papel.
+2. Rebozar cada cubo en fÃ©cula de patata.
+3. FreÃ­r en aceite caliente hasta que la capa exterior estÃ© ligeramente crujiente pero transparente.
+4. Servir en un bol con un poco de salsa caliente de dashi, soja y mirin.
+5. Decorar con rÃ¡bano daikon rallado y jengibre.
+RECETA_FIN
+
+RECETA_INICIO
+ID: JPN_213
+TITULO: Tataki de AtÃºn
+CATEGORIA: Pescados
+INGREDIENTES: [Lomo de atÃºn rojo, SÃ©samo, Aceite, Salsa ponzu (cÃ­trica), Jengibre]
+PASOS:
+1. Rebozar el lomo de atÃºn en semillas de sÃ©samo.
+2. Sellar en una sartÃ©n muy caliente con poco aceite durante solo 30 segundos por lado.
+3. El interior debe quedar crudo (rojo) y el exterior apenas cocido.
+4. Cortar en lÃ¡minas de 1cm.
+5. Servir con salsa ponzu frÃ­a.
+RECETA_FIN
+
+RECETA_INICIO
+ID: JPN_214
+TITULO: Unadon (Anguila)
+CATEGORIA: Donburi
+INGREDIENTES: [Anguila (Unagi), Salsa kabayaki (soja y azÃºcar), Arroz blanco, Pimienta sansho]
+PASOS:
+1. Asar la anguila a la parrilla o al horno pincelÃ¡ndola repetidamente con salsa kabayaki hasta que brille.
+2. Colocar el arroz en un bol y verter un poco de salsa.
+3. Poner los trozos de anguila encima.
+4. Espolvorear un poco de pimienta japonesa (sansho) para equilibrar la grasa.
+RECETA_FIN
+
+RECETA_INICIO
+ID: JPN_215
+TITULO: Tamagoyaki (Tortilla Enrollada)
+CATEGORIA: Desayuno / Bento
+INGREDIENTES: [4 Huevos, Dashi, AzÃºcar, Salsa de soja, Sal]
+PASOS:
+1. Batir los huevos con los condimentos.
+2. Verter una capa fina en una sartÃ©n cuadrada (makiyakinabe).
+3. Cuando cuaje un poco, enrollar la tortilla hacia un lado.
+4. Verter otra capa de huevo que se una al rollo anterior y volver a enrollar.
+5. Repetir hasta acabar la mezcla y cortar en rodajas gruesas.
+RECETA_FIN
+
+RECETA_INICIO
+ID: JPN_216
+TITULO: Karaage (Pollo Frito JaponÃ©s)
+CATEGORIA: Frituras
+INGREDIENTES: [Pollo (muslo), Jengibre, Ajo, Soja, Sake, FÃ©cula de patata]
+PASOS:
+1. Marinar trozos de pollo en soja, jengibre, sake y ajo por 30 min.
+2. Pasar los trozos por fÃ©cula de patata eliminando el exceso.
+3. FreÃ­r una vez a 160Â°C, dejar reposar y volver a freÃ­r a 180Â°C (doble fritura para mÃ¡xima crocancia).
+RECETA_FIN
+
+RECETA_INICIO
+ID: JPN_217
+TITULO: Oden
+CATEGORIA: Guisos de Invierno
+INGREDIENTES: [Daikon, Huevos duros, Konnyaku, Pasteles de pescado (chikuwa), Caldo dashi, Mostaza karashi]
+PASOS:
+1. Cocer el rÃ¡bano daikon en agua para suavizar.
+2. En una olla grande con dashi, soja y azÃºcar, aÃ±adir todos los ingredientes.
+3. Cocinar a fuego muy lento durante horas para que absorban el sabor del caldo.
+4. Servir caliente con un toque de mostaza japonesa picante.
+RECETA_FIN
+
+RECETA_INICIO
+ID: JPN_218
+TITULO: Zaru Soba
+CATEGORIA: Fideos FrÃ­os
+INGREDIENTES: [Fideos soba de trigo sarraceno, Salsa Tsuyu frÃ­a, Alga nori, Wasabi, Cebollino]
+PASOS:
+1. Cocer los fideos soba y enfriar inmediatamente en agua con hielo.
+2. Colocarlos sobre una esterilla de bambÃº (zaru) y decorar con nori.
+3. Servir con un cuenco pequeÃ±o de salsa tsuyu aparte.
+4. El comensal mezcla wasabi y cebollino en la salsa y moja los fideos antes de comer.
+RECETA_FIN
+
+RECETA_INICIO
+ID: JPN_219
+TITULO: Nikujaga
+CATEGORIA: Guisos Caseros
+INGREDIENTES: [Carne de res en lÃ¡minas, Patatas, Cebolla, Zanahoria, Guisantes, Dashi, Soja, Mirin]
+PASOS:
+1. SofreÃ­r la carne y las verduras.
+2. AÃ±adir caldo dashi y los condimentos lÃ­quidos.
+3. Cocinar tapado hasta que las patatas estÃ©n tiernas y el lÃ­quido se haya reducido a la mitad.
+RECETA_FIN
+
+RECETA_INICIO
+ID: JPN_220
+TITULO: Dorayaki
+CATEGORIA: Postres
+INGREDIENTES: [Harina, Huevo, Miel, AzÃºcar, Levadura, Pasta de judÃ­a roja (Anko)]
+PASOS:
+1. Preparar una masa similar a la de las tortitas pero con miel.
+2. Cocinar pequeÃ±os discos en una sartÃ©n antiadherente.
+3. Untar una generosa cantidad de pasta de judÃ­a dulce (anko) entre dos discos.
+4. Sellar los bordes presionando con los dedos.
+RECETA_FIN
+
+RECETA_INICIO
+ID: JPN_221
+TITULO: Chirashi Sushi
+CATEGORIA: Sushi
+INGREDIENTES: [Arroz de sushi, Variedad de pescados crudos, Tortilla tamagoyaki, Pepino, Huevas de salmÃ³n (Ikura)]
+PASOS:
+1. Colocar el arroz aliÃ±ado en un bol grande.
+2. Disponer de forma estÃ©tica lÃ¡minas de pescado, tortilla y verduras sobre el arroz.
+3. Decorar con huevas y jengibre.
+RECETA_FIN
+
+RECETA_INICIO
+ID: JPN_222
+TITULO: Curry JaponÃ©s (Kare Raisu)
+CATEGORIA: Guisos
+INGREDIENTES: [Carne de res o pollo, Patata, Zanahoria, Cebolla, Cubos de roux de curry japonÃ©s, Arroz]
+PASOS:
+1. Saltear carne y verduras; cocer en agua hasta que ablanden.
+2. AÃ±adir los cubos de curry (comprados o hechos con harina, mantequilla y especias).
+3. Cocinar hasta que la salsa sea espesa y oscura.
+4. Servir al lado de una porciÃ³n de arroz blanco.
+RECETA_FIN
+
+RECETA_INICIO
+ID: JPN_223
+TITULO: Mochi de TÃ© Verde
+CATEGORIA: Postres
+INGREDIENTES: [Harina de arroz glutinoso (Mochiko), Agua, AzÃºcar, TÃ© matcha en polvo, Relleno de judÃ­a dulce]
+PASOS:
+1. Mezclar harina de arroz, azÃºcar, matcha y agua.
+2. Cocinar al vapor o en microondas hasta que se vuelva una masa elÃ¡stica y pegajosa.
+3. Amasar con fÃ©cula de maÃ­z para que no se pegue.
+4. Rellenar con la pasta de judÃ­a y formar bolas.
+RECETA_FIN
+
+RECETA_INICIO
+ID: JPN_224
+TITULO: Shabu Shabu
+CATEGORIA: Hot Pot
+INGREDIENTES: [Carne de res muy fina (Wagyu), Tofu, Setas Shiitake, Col china, Caldo de alga Kombu, Salsa SÃ©samo]
+PASOS:
+1. Poner el caldo de kombu en una olla al centro de la mesa.
+2. Cada comensal sumerge la carne unos segundos en el caldo hirviendo ("shabu shabu" es el sonido del movimiento).
+3. Mojar la carne cocida en salsa de sÃ©samo o ponzu antes de comer.
+RECETA_FIN
+
+RECETA_INICIO
+ID: JPN_225
+TITULO: Sukiyaki
+CATEGORIA: Hot Pot
+INGREDIENTES: [LÃ¡minas de res, Tofu, Fideos shirataki, Cebolleta, Salsa de soja, AzÃºcar, Sake, Huevo crudo]
+PASOS:
+1. Cocinar los ingredientes en una olla poco profunda con la mezcla de soja y azÃºcar.
+2. Batir un huevo crudo en un bol aparte.
+3. Mojar los ingredientes calientes en el huevo crudo antes de ingerirlos (esto suaviza el sabor).
+RECETA_FIN
+
+RECETA_INICIO
+ID: JPN_226
+TITULO: Hiyashi Chuka
+CATEGORIA: Fideos de Verano
+INGREDIENTES: [Fideos ramen frÃ­os, JamÃ³n, Pepino, Tortilla, Tomate, Salsa de soja y sÃ©samo]
+PASOS:
+1. Enfriar los fideos cocidos.
+2. Cortar todos los ingredientes en tiras muy finas.
+3. Colocarlos sobre los fideos en forma radial.
+4. BaÃ±ar con una salsa frÃ­a de soja, vinagre y aceite de sÃ©samo.
+RECETA_FIN
+
+RECETA_INICIO
+ID: JPN_227
+TITULO: Ebi Furai
+CATEGORIA: Frituras
+INGREDIENTES: [Langostinos grandes, Pan rallado japonÃ©s (Panko), Harina, Huevo, Salsa tÃ¡rtara]
+PASOS:
+1. Estirar los langostinos.
+2. Pasar por harina, huevo y abundante panko.
+3. FreÃ­r hasta que estÃ©n muy dorados y rectos.
+RECETA_FIN
+
+RECETA_INICIO
+ID: JPN_228
+TITULO: Misoshiru de Almejas
+CATEGORIA: Sopas
+INGREDIENTES: [Almejas frescas, Caldo dashi, Pasta de miso, Cebollino]
+PASOS:
+1. Cocinar las almejas en el caldo dashi hasta que se abran.
+2. Apagar el fuego y disolver el miso.
+3. El sabor de la almeja potencia profundamente el umami de la sopa.
+RECETA_FIN
+
+RECETA_INICIO
+ID: JPN_229
+TITULO: Nasu Dengaku
+CATEGORIA: Vegetales
+INGREDIENTES: [Berenjenas largas, Pasta de miso, Mirin, AzÃºcar, SÃ©samo]
+PASOS:
+1. Cortar las berenjenas por la mitad y hacer cortes en la carne.
+2. FreÃ­r o asar hasta que estÃ©n tiernas.
+3. Cubrir con una pasta de miso, mirin y azÃºcar.
+4. Gratinar unos minutos hasta que la salsa burbujee.
+RECETA_FIN
+
+RECETA_INICIO
+ID: JPN_230
+TITULO: Matcha Latte
+CATEGORIA: Bebidas
+INGREDIENTES: [TÃ© matcha de grado ceremonial, Agua caliente, Leche, Miel o azÃºcar]
+PASOS:
+1. Batir el matcha con un poco de agua caliente usando un batidor de bambÃº (chasen) hasta que salga espuma.
+2. Calentar y espumar la leche.
+3. Verter la leche sobre el tÃ© concentrado.
+RECETA_FIN
+
+RECETA_INICIO
+ID: KOR_231
+TITULO: Baechu Kimchi (Kimchi de Col China)
+CATEGORIA: Fermentados / AcompaÃ±ante
+INGREDIENTES: [Col china, Sal gruesa, Harina de arroz, Gochugaru (chile en polvo), Salsa de pescado, Ajo, Jengibre, Cebollino]
+PASOS:
+1. Cortar la col y salar por 2-4 horas hasta que ablande; lavar y escurrir.
+2. Hacer una papilla con agua y harina de arroz; mezclar con gochugaru, ajo, jengibre y salsa de pescado.
+3. Untar cada hoja de la col con esta pasta roja.
+4. Presionar en un frasco hermÃ©tico y dejar fermentar a temperatura ambiente 1-2 dÃ­as, luego refrigerar.
+RECETA_FIN
+
+RECETA_INICIO
+ID: KOR_232
+TITULO: Bibimbap
+CATEGORIA: Platos Ãšnicos
+INGREDIENTES: [Arroz blanco, Carne de res, Espinacas, Zanahoria, Brotes de soja, Setas shiitake, Huevo frito, Pasta Gochujang]
+PASOS:
+1. Saltear cada vegetal por separado con un toque de aceite de sÃ©samo y sal.
+2. Saltear la carne picada con soja y ajo.
+3. Colocar el arroz en el fondo de un bol y disponer los vegetales y la carne por secciones arriba.
+4. Coronar con un huevo frito y una cucharada generosa de pasta gochujang.
+5. Mezclar todo vigorosamente antes de comer.
+RECETA_FIN
+
+RECETA_INICIO
+ID: KOR_233
+TITULO: Bulgogi (Ternera Marinada)
+CATEGORIA: Carnes / Parrilla
+INGREDIENTES: [500g ternera cortada muy fina, Salsa de soja, AzÃºcar, Aceite de sÃ©samo, Ajo, Pera coreana (o manzana) rallada]
+PASOS:
+1. Marinar la carne con la pera rallada (la enzima ablanda la carne), soja, azÃºcar y ajo por 1 hora.
+2. Calentar una sartÃ©n o parrilla a fuego muy alto.
+3. Saltear la carne rÃ¡pidamente para que se caramelice sin soltar mucho jugo.
+4. Servir con hojas de lechuga para envolver la carne como un "taco".
+RECETA_FIN
+
+RECETA_INICIO
+ID: KOR_234
+TITULO: Tteokbokki (Pasteles de Arroz Picantes)
+CATEGORIA: Comida Callejera
+INGREDIENTES: [Pasteles de arroz cilÃ­ndricos (Tteok), Caldo dashi o agua, Gochujang, AzÃºcar, Pasteles de pescado (Eomuk), Cebollino]
+PASOS:
+1. Hervir el caldo con la pasta gochujang y azÃºcar hasta que se disuelva.
+2. AÃ±adir los pasteles de arroz y cocinar a fuego medio hasta que la salsa espese y el arroz estÃ© tierno.
+3. Incorporar los pasteles de pescado troceados.
+4. Servir con cebollino picado y semillas de sÃ©samo.
+RECETA_FIN
+
+RECETA_INICIO
+ID: KOR_235
+TITULO: Japchae (Fideos de Cristal)
+CATEGORIA: Fideos
+INGREDIENTES: [Fideos de fÃ©cula de batata (Dangmyeon), Ternera, Espinacas, Pimiento, Cebolla, Salsa de soja, Aceite de sÃ©samo, AzÃºcar]
+PASOS:
+1. Cocer los fideos hasta que estÃ©n elÃ¡sticos y enjuagar con agua frÃ­a.
+2. Saltear vegetales y carne con ajo y aceite de sÃ©samo.
+3. Mezclar los fideos con los ingredientes salteados.
+4. AliÃ±ar con abundante salsa de soja, azÃºcar y aceite de sÃ©samo hasta que brillen.
+RECETA_FIN
+
+RECETA_INICIO
+ID: KOR_236
+TITULO: Kimchi Jjigae (Estofado de Kimchi)
+CATEGORIA: Sopas / Estofados
+INGREDIENTES: [Kimchi maduro (Ã¡cido), Panceta de cerdo, Tofu, Cebolla, Gochugaru, Caldo de anchoas]
+PASOS:
+1. SofreÃ­r la panceta con el kimchi picado en una olla.
+2. AÃ±adir el caldo de anchoas y el gochugaru.
+3. Cocinar a fuego lento por 20 minutos hasta que el kimchi estÃ© blando.
+4. AÃ±adir cubos de tofu al final y cocinar 5 minutos mÃ¡s.
+RECETA_FIN
+
+RECETA_INICIO
+ID: KOR_237
+TITULO: Korean Fried Chicken (Yangnyeom Chicken)
+CATEGORIA: Aves / Frituras
+INGREDIENTES: [Alitas de pollo, FÃ©cula de patata, Harina, Salsa (Gochujang, Ketchup, Miel, Ajo)]
+PASOS:
+1. Rebozar el pollo en una mezcla de harina y fÃ©cula.
+2. FreÃ­r dos veces (doble fritura) para lograr una piel extremadamente crujiente.
+3. Calentar los ingredientes de la salsa en una sartÃ©n hasta que burbujeen.
+4. BaÃ±ar el pollo frito en la salsa hasta cubrirlo por completo.
+RECETA_FIN
+
+RECETA_INICIO
+ID: KOR_238
+TITULO: Gimbap (Rollos de Alga)
+CATEGORIA: Snack / Picnic
+INGREDIENTES: [Alga Nori, Arroz con aceite de sÃ©samo, Danmuji (rÃ¡bano amarillo), Espinacas, Zanahoria, Tortilla, Salchicha o Surimi]
+PASOS:
+1. Extender el arroz sobre el alga nori.
+2. Colocar todos los ingredientes cortados en tiras largas en un extremo.
+3. Enrollar firmemente usando una esterilla de bambÃº.
+4. Pintar el rollo con aceite de sÃ©samo y cortar en rodajas.
+RECETA_FIN
+
+RECETA_INICIO
+ID: KOR_239
+TITULO: Samgyeopsal (Panceta a la Parrilla)
+CATEGORIA: Carnes / Parrilla
+INGREDIENTES: [Panceta de cerdo gruesa, Ajo, Aceite de sÃ©samo, Sal, Hojas de lechuga, Pasta Ssamjang]
+PASOS:
+1. Cocinar las tiras de panceta en una parrilla de mesa hasta que estÃ©n crujientes.
+2. Cortar en trozos de bocado con tijeras.
+3. Mojar la carne en una mezcla de aceite de sÃ©samo y sal.
+4. Envolver en una hoja de lechuga con un poco de ajo asado y pasta ssamjang.
+RECETA_FIN
+
+RECETA_INICIO
+ID: KOR_240
+TITULO: Doenjang Jjigae (Estofado de Pasta de Soja)
+CATEGORIA: Sopas
+INGREDIENTES: [Pasta de soja fermentada (Doenjang), CalabacÃ­n, Patata, Tofu, Almejas o gambas, Chile verde]
+PASOS:
+1. Hervir agua con pasta doenjang.
+2. AÃ±adir las verduras troceadas y el marisco.
+3. Cocinar hasta que las verduras estÃ©n tiernas.
+4. AÃ±adir el tofu y el chile verde al final. Es el sabor "hogareÃ±o" por excelencia en Corea.
+RECETA_FIN
+
+RECETA_INICIO
+ID: KOR_241
+TITULO: Sundubu Jjigae (Estofado de Tofu Blando)
+CATEGORIA: Sopas
+INGREDIENTES: [Tofu suave (sedoso), Marisco, Gochugaru, Aceite, Huevo crudo]
+PASOS:
+1. Hacer un aceite picante sofriendo gochugaru en aceite.
+2. AÃ±adir caldo y mariscos.
+3. Colocar el tofu suave en trozos grandes.
+4. Romper un huevo crudo en el estofado hirviendo justo antes de servir.
+RECETA_FIN
+
+RECETA_INICIO
+ID: KOR_242
+TITULO: Pajeon (Tortilla de Cebolleta)
+CATEGORIA: Masas / Snack
+INGREDIENTES: [Cebolletas largas, Harina, Huevo, Agua frÃ­a, Mariscos (opcional)]
+PASOS:
+1. Preparar una masa lÃ­quida con harina, huevo y agua.
+2. Colocar las cebolletas enteras en una sartÃ©n con aceite.
+3. Verter la masa sobre las cebolletas y aÃ±adir mariscos encima.
+4. Dar la vuelta y dorar por ambos lados hasta que estÃ© crujiente.
+RECETA_FIN
+
+RECETA_INICIO
+ID: KOR_243
+TITULO: Samgyetang (Sopa de Pollo y Ginseng)
+CATEGORIA: Sopas Saludables
+INGREDIENTES: [Pollo joven entero, Ginseng, Arroz glutinoso, Azufaifas (jujubes), Ajo]
+PASOS:
+1. Rellenar el pollo con el arroz glutinoso remojado, ajo y azufaifas.
+2. Cocer en agua con el ginseng a fuego lento durante 2 horas.
+3. Servir el pollo entero en un cuenco con el caldo claro. Se consume en los dÃ­as mÃ¡s calurosos del verano.
+RECETA_FIN
+
+RECETA_INICIO
+ID: KOR_244
+TITULO: Galbi (Costillas de Res)
+CATEGORIA: Carnes / Parrilla
+INGREDIENTES: [Costillas de res cortadas estilo LA, Soja, Pera rallada, Ajo, Miel]
+PASOS:
+1. Marinar las costillas durante 12 horas.
+2. Asar a la parrilla con carbÃ³n hasta que la grasa estÃ© caramelizada.
+3. Se sirve tradicionalmente con muchos platillos banchan alrededor.
+RECETA_FIN
+
+RECETA_INICIO
+ID: KOR_245
+TITULO: Jajangmyeon (Fideos con Salsa Negra)
+CATEGORIA: FusiÃ³n China-Coreana
+INGREDIENTES: [Fideos de trigo, Pasta de judÃ­a negra (Chunjang), Cerdo, Cebolla, Patata]
+PASOS:
+1. FreÃ­r la pasta negra en un poco de aceite para quitar el amargor.
+2. Saltear cerdo y muchas cebollas; mezclar con la pasta y un poco de agua.
+3. Espesar con fÃ©cula.
+4. Verter la salsa espesa y oscura sobre los fideos cocidos.
+RECETA_FIN
+
+RECETA_INICIO
+ID: KOR_246
+TITULO: Mandu (Dumping Coreano)
+CATEGORIA: Masas
+INGREDIENTES: [Masa de mandu, Cerdo, Kimchi picado, Tofu prensado, Cebollino]
+PASOS:
+1. Mezclar los ingredientes del relleno (el tofu ayuda a dar textura).
+2. Rellenar las masas formando semicÃ­rculos.
+3. Se pueden cocinar al vapor, hervidos o fritos (Gun-mandu).
+RECETA_FIN
+
+RECETA_INICIO
+ID: KOR_247
+TITULO: Miyeok-guk (Sopa de Algas)
+CATEGORIA: Sopas
+INGREDIENTES: [Algas secas (Miyeok), Ternera, Aceite de sÃ©samo, Salsa de soja para sopa]
+PASOS:
+1. Hidratar las algas y saltear con la carne en aceite de sÃ©samo.
+2. AÃ±adir agua y cocinar hasta que el caldo estÃ© sabroso.
+3. Se sirve tradicionalmente en cumpleaÃ±os y postparto.
+RECETA_FIN
+
+RECETA_INICIO
+ID: KOR_248
+TITULO: Bossam (Cerdo Hervido)
+CATEGORIA: Carnes
+INGREDIENTES: [Panceta de cerdo, CafÃ© instantÃ¡neo (para el color), Jengibre, Ajo, Canela]
+PASOS:
+1. Hervir el cerdo con las especias hasta que estÃ© muy tierno.
+2. Cortar en lonchas finas.
+3. Servir con hojas de col saladas y kimchi fresco de rÃ¡bano.
+RECETA_FIN
+
+RECETA_INICIO
+ID: KOR_249
+TITULO: Gamjatang (Sopa de Espinazo)
+CATEGORIA: Sopas
+INGREDIENTES: [Espinazo de cerdo, Patatas, Hojas de col, Semillas de perilla molidas, Gochugaru]
+PASOS:
+1. Cocer los huesos de cerdo hasta que la carne se caiga sola.
+2. AÃ±adir las patatas y las hojas de col.
+3. Sazonar con las semillas de perilla para un sabor terroso y picante.
+RECETA_FIN
+
+RECETA_INICIO
+ID: KOR_250
+TITULO: Hotteok (Panqueque Dulce)
+CATEGORIA: Postre / Calle
+INGREDIENTES: [Masa de levadura, AzÃºcar moreno, Canela, Nueces picadas]
+PASOS:
+1. Hacer una bola de masa y rellenar con la mezcla de azÃºcar y nueces.
+2. Colocar en una plancha con aceite y aplastar con una prensa redonda.
+3. Cocinar hasta que el azÃºcar interior se convierta en un sirope caliente.
+RECETA_FIN
+
+RECETA_INICIO
+ID: KOR_251
+TITULO: Yukhoe (Tartar Coreano)
+CATEGORIA: Carnes Crudas
+INGREDIENTES: [Ternera de alta calidad, Pera coreana, Yema de huevo, Aceite de sÃ©samo, Soja]
+PASOS:
+1. Cortar la carne en tiras muy finas.
+2. AliÃ±ar con aceite de sÃ©samo, soja y piÃ±ones.
+3. Servir sobre tiras de pera coreana frÃ­a y coronar con una yema de huevo cruda.
+RECETA_FIN
+
+RECETA_INICIO
+ID: KOR_252
+TITULO: Mul-Naengmyeon (Fideos FrÃ­os en Caldo)
+CATEGORIA: Fideos
+INGREDIENTES: [Fideos de trigo sarraceno, Caldo de res frÃ­o, Pepino, Pera, Huevo duro, Vinagre, Mostaza]
+PASOS:
+1. Servir los fideos en un caldo casi congelado (con escarcha).
+2. AÃ±adir rodajas de pepino y pera.
+3. El comensal aÃ±ade vinagre y mostaza al gusto para un sabor Ã¡cido y refrescante.
+RECETA_FIN
+
+RECETA_INICIO
+ID: KOR_253
+TITULO: Dakgalbi (Pollo Picante)
+CATEGORIA: Carnes
+INGREDIENTES: [Pollo, Gochujang, Repollo, Boniato, Pasteles de arroz]
+PASOS:
+1. Marinar el pollo en una pasta muy picante.
+2. Cocinar en una plancha grande en la mesa junto con los vegetales y el boniato.
+3. Al final, se suele aÃ±adir arroz al resto de la salsa para hacer arroz frito.
+RECETA_FIN
+
+RECETA_INICIO
+ID: KOR_254
+TITULO: Gamja-jeon (Tortilla de Patata)
+CATEGORIA: Snacks
+INGREDIENTES: [Patatas ralladas, Sal, Aceite]
+PASOS:
+1. Rallar las patatas y quitar el exceso de agua.
+2. Mezclar con la fÃ©cula que queda en el fondo del agua.
+3. FreÃ­r en la sartÃ©n como tortitas finas hasta que los bordes estÃ©n muy crujientes.
+RECETA_FIN
+
+RECETA_INICIO
+ID: KOR_255
+TITULO: Soju (Modo de Servicio)
+CATEGORIA: Bebidas
+INGREDIENTES: [Soju (destilado de arroz/patata)]
+PASOS:
+1. Enfriar bien la botella.
+2. Servir en vasos pequeÃ±os.
+3. TradiciÃ³n: Nunca te sirvas a ti mismo, siempre sirve a los demÃ¡s y recibe con las dos manos.
+RECETA_FIN
+
+RECETA_INICIO
+ID: KOR_256
+TITULO: Oi Sobagi (Kimchi de Pepino)
+CATEGORIA: Fermentados
+
+INGREDIENTES: [Pepinos, Gochugaru, Ajo, Cebollino, Zanahoria]
+
+PASOS:
+
+1. Cortar los pepinos en cruz sin llegar al final.
+
+2. Salar y luego rellenar con la pasta de kimchi y cebollino.
+
+3. Se puede comer casi de inmediato o dejar fermentar un dÃ­a.
+
+RECETA_FIN
+
+
+
+RECETA_INICIO
+
+ID: KOR_257
+
+TITULO: Sikhye (Bebida de Arroz Dulce)
+
+CATEGORIA: Bebidas / Postre
+
+INGREDIENTES: [Malta de cebada, Arroz cocido, AzÃºcar, PiÃ±ones]
+
+PASOS:
+
+1. Remojar la malta y usar el lÃ­quido para fermentar el arroz cocido a baja temperatura por 5 horas.
+
+2. Hervir el lÃ­quido resultante con azÃºcar.
+
+3. Servir frÃ­o con granos de arroz flotando y piÃ±ones
+.
+RECETA_FIN
+
+
+
+RECETA_INICIO
+
+ID: KOR_258
+
+TITULO: Yukgaejang (Sopa de Ternera Picante)
+
+CATEGORIA: Sopas
+
+INGREDIENTES: [Ternera desmechada, Brotes de helecho (Gosari), Brotes de soja, Mucho ajo, Gochugaru]
+
+PASOS:
+
+1. Hervir la carne hasta que estÃ© tierna y desmechar.
+
+2. Cocinar las verduras y la carne en un caldo muy rojo y picante.
+
+3. Es una sopa robusta que se sirve con arroz.
+
+RECETA_FIN
+
+
+
+RECETA_INICIO
+
+ID: KOR_259
+
+TITULO: Hobak-juk (Gachas de Calabaza)
+
+CATEGORIA: Postres / Desayuno
+
+INGREDIENTES: [Calabaza dulce, Harina de arroz glutinoso, AzÃºcar, Alubias rojas cocidas]
+
+PASOS:
+
+1. Hervir la calabaza y hacer un purÃ© fino.
+
+2. AÃ±adir la harina de arroz disuelta para espesar.
+
+3. Agregar bolitas de arroz (Ongsimi) y alubias al final.
+
+RECETA_FIN
+
+
+
+RECETA_INICIO
+
+ID: KOR_260
+
+TITULO: Boricha (TÃ© de Cebada)
+
+CATEGORIA: Bebidas
+
+INGREDIENTES: [Granos de cebada tostados, Agua]
+
+PASOS:
+
+1. Hervir los granos de cebada tostados en agua por 10 minutos.
+
+2. Dejar enfriar.
+
+3. Se sirve en lugar del agua en casi todos los hogares coreanos.
+
+RECETA_FIN
+
+RECETA_INICIO
+ID: VEN_261
+TITULO: Arepa de Coco
+CATEGORIA: Regional (Zulia/Costa)
+INGREDIENTES: [Harina de maÃ­z, Leche de coco, PapelÃ³n, Sal, Hojas de uva de playa o plÃ¡tano]
+PASOS:
+1. Mezclar la harina con la leche de coco y el papelÃ³n rallado.
+2. Formar las arepas y colocarlas sobre una hoja de uva de playa.
+3. Cocinar en el budare; la hoja le transfiere un aroma ahumado y dulce Ãºnico.
+RECETA_FIN
+
+RECETA_INICIO
+ID: VEN_262
+TITULO: Bollos Pelones de Pescado
+CATEGORIA: Platos Principales
+INGREDIENTES: [Masa de maÃ­z, Guiso de pescado (cazÃ³n o atÃºn), Salsa de tomate casera]
+PASOS:
+1. Hacer bolitas de masa y rellenar con el guiso de pescado seco.
+2. Hervir en agua con sal.
+3. BaÃ±ar con salsa de tomate y servir con arroz blanco.
+RECETA_FIN
+
+RECETA_INICIO
+ID: VEN_263
+TITULO: Pan de Tunja
+CATEGORIA: PanaderÃ­a
+INGREDIENTES: [Harina de trigo, Huevos, Mantequilla, AzÃºcar, Esencia de vainilla, Canela]
+PASOS:
+1. Preparar una masa de pan dulce muy enriquecida con huevos y mantequilla.
+2. Formar una corona o espiral grande.
+3. Hornear hasta que estÃ© dorado y espolvorear azÃºcar por encima.
+RECETA_FIN
+
+RECETA_INICIO
+ID: VEN_264
+TITULO: Torta de Jojoto
+CATEGORIA: Postres / AcompaÃ±antes
+INGREDIENTES: [MaÃ­z tierno (jojoto) desgranado, Queso blanco duro, Huevos, Leche, AzÃºcar]
+PASOS:
+1. Licuar los granos de maÃ­z con la leche y el queso.
+2. AÃ±adir los huevos y el azÃºcar.
+3. Hornear hasta que cuaje. Tiene una textura entre pudÃ­n y pastel de maÃ­z.
+RECETA_FIN
+
+RECETA_INICIO
+ID: VEN_265
+TITULO: Mojito en Coco
+CATEGORIA: Pescados (Zulia)
+INGREDIENTES: [Pescado blanco (Curvina), Leche de coco, Onoto, AjÃ­ dulce, Cebolla]
+PASOS:
+1. Cocinar el pescado y desmecharlo.
+2. Hacer un sofrito con onoto y vegetales; aÃ±adir el pescado.
+3. Agregar leche de coco y dejar reducir hasta que sea una pasta cremosa.
+RECETA_FIN
+
+RECETA_INICIO
+ID: COL_276
+TITULO: Pasteles de Garbanzo
+CATEGORIA: Pasabocas (Norte de Santander)
+INGREDIENTES: [Harina de trigo, Garbanzos cocidos, Carne picada, Especias]
+PASOS:
+1. Hacer un purÃ© con los garbanzos y mezclar con la carne guisada.
+2. Estirar la masa de trigo, rellenar y formar medias lunas.
+3. FreÃ­r en aceite caliente hasta que estÃ©n muy crujientes.
+RECETA_FIN
+
+RECETA_INICIO
+ID: COL_277
+TITULO: Arroz de Lisa
+CATEGORIA: Arroces (Barranquilla)
+INGREDIENTES: [Pescado Lisa (curado/seco), Arroz, CebollÃ­n, AjÃ­ dulce, Comino]
+PASOS:
+1. Desmenuzar la lisa previamente cocida.
+2. SofreÃ­r vegetales y el pescado; aÃ±adir el arroz y el agua del pescado.
+3. Servir tradicionalmente en hoja de bijao con un poco de suero costeÃ±o.
+RECETA_FIN
+
+RECETA_INICIO
+ID: COL_278
+TITULO: Cucas (Galletas de Panela)
+CATEGORIA: Dulces (Valle/Cauca)
+INGREDIENTES: [Harina, Panela (papelÃ³n), Canela, Clavos, Bicarbonato]
+PASOS:
+1. Hacer un melao espeso de panela con especias.
+2. Mezclar con harina hasta obtener una masa oscura.
+3. Formar galletas redondas y delgadas. Hornear hasta que estÃ©n firmes pero flexibles.
+RECETA_FIN
+
+RECETA_INICIO
+ID: COL_279
+TITULO: Mazamorra AntioqueÃ±a
+CATEGORIA: Postres / Bebidas
+INGREDIENTES: [MaÃ­z blanco trillado, Leche, Bocadillo de guayaba o Panela]
+PASOS:
+1. Cocinar el maÃ­z en agua por horas hasta que los granos estÃ©n muy blandos.
+2. Servir los granos con el lÃ­quido de cocciÃ³n y abundante leche frÃ­a.
+3. AcompaÃ±ar con trozos de panela o bocadillo de guayaba aparte.
+RECETA_FIN
+
+RECETA_INICIO
+ID: COL_280
+TITULO: Carne Desmechada (Ropa Vieja Colombiana)
+CATEGORIA: Carnes
+INGREDIENTES: [Carne para desmechar (falda), Hogao, Ajo, Comino]
+PASOS:
+1. Cocer la carne hasta que se separe fÃ¡cilmente.
+2. Desmechar y sofreÃ­r con un hogao potente (tomate y cebolla larga).
+3. Dejar que los sabores se concentren hasta que la carne estÃ© jugosa.
+RECETA_FIN
+
+RECETA_INICIO
+ID: MEX_291
+TITULO: Chiles en Nogada
+CATEGORIA: Platos Festivos (Puebla)
+INGREDIENTES: [Chiles poblanos, Carne picada, Fruta (pera, manzana), Nuez de Castilla, Granada, Crema]
+PASOS:
+1. Rellenar los chiles tatemados con un picadillo de carne y frutas.
+2. Preparar la nogada licuando nueces de Castilla frescas, queso y crema.
+3. Cubrir el chile con la salsa blanca, decorar con granos de granada roja y perejil verde (colores de la bandera).
+RECETA_FIN
+
+RECETA_INICIO
+ID: MEX_292
+TITULO: Pozole Rojo
+CATEGORIA: Sopas
+INGREDIENTES: [MaÃ­z cacahuazintle, Carne de cerdo, Chile ancho, Chile guajillo, RÃ¡bano, Lechuga]
+PASOS:
+1. Cocer el maÃ­z hasta que "florezca" (se abra).
+2. AÃ±adir la carne de cerdo y el caldo.
+3. Incorporar una pasta de chiles secos hidratados y colados.
+4. Servir con guarniciones frescas: rÃ¡bano, lechuga, orÃ©gano y limÃ³n.
+RECETA_FIN
+
+RECETA_INICIO
+ID: MEX_293
+TITULO: Cochinita Pibil
+CATEGORIA: Regional (YucatÃ¡n)
+INGREDIENTES: [Cerdo, Achiote, Naranja agria, Hojas de plÃ¡tano, Cebolla morada, Chile habanero]
+PASOS:
+1. Marinar la carne con pasta de achiote y jugo de naranja agria.
+2. Envolver en hojas de plÃ¡tano y cocinar lentamente (tradicionalmente bajo tierra).
+3. Desmenuzar y servir con cebollas encurtidas con habanero.
+RECETA_FIN
+
+RECETA_INICIO
+ID: MEX_294
+TITULO: Aguachile de CamarÃ³n
+CATEGORIA: Mariscos (Sinaloa)
+INGREDIENTES: [Camarones limpios, LimÃ³n, Chile serrano, Pepino, Cebolla morada, Cilantro]
+PASOS:
+1. Abrir los camarones en mariposa.
+2. Licuar jugo de limÃ³n con cilantro y chile serrano.
+3. Verter la mezcla sobre los camarones justo antes de servir para que se "curtan" al momento.
+4. AcompaÃ±ar con rodajas de pepino y cebolla.
+RECETA_FIN
+
+RECETA_INICIO
+ID: MEX_295
+TITULO: Sopes de Chorizo
+CATEGORIA: Antojitos
+INGREDIENTES: [Masa de maÃ­z, Frijoles refritos, Chorizo, Lechuga, Queso fresco, Crema]
+PASOS:
+1. Formar tortillas gruesas y pellizcar los bordes para crear un reborde.
+2. Pasar por el comal y luego freÃ­r ligeramente.
+3. Rellenar con frijoles, chorizo frito, lechuga y queso.
+RECETA_FIN
+
+RECETA_INICIO
+ID: VEN_301
+TITULO: Pisca Andina
+CATEGORIA: Sopas (Los Andes)
+INGREDIENTES: [Caldo de pollo, Papas, Leche, Queso ahumado, Huevo, Cilantro, CebollÃ­n]
+PASOS:
+1. Cocinar las papas en el caldo de pollo hasta que estÃ©n blandas.
+2. AÃ±adir la leche y el queso ahumado cortado en cubos.
+3. Agregar el cilantro y cebollÃ­n picados.
+4. Escalfar un huevo directamente en la sopa caliente antes de servir. Se acompaÃ±a con arepa de trigo.
+RECETA_FIN
+
+RECETA_INICIO
+ID: VEN_302
+TITULO: Arepa de Trigo
+CATEGORIA: Desayunos (Los Andes)
+INGREDIENTES: [Harina de trigo, Huevo, Leche, Mantequilla, Sal, Un toque de azÃºcar]
+PASOS:
+1. Mezclar la harina con la mantequilla, el huevo y la leche hasta formar una masa suave.
+2. Dejar reposar la masa por 15 minutos.
+3. Formar discos delgados y cocinar en el budare hasta que doren por ambos lados.
+RECETA_FIN
+
+RECETA_INICIO
+ID: VEN_303
+TITULO: Pan de JamÃ³n (Tradicional)
+CATEGORIA: Navidad
+INGREDIENTES: [Masa de harina de trigo, JamÃ³n ahumado, Tocinetas, Pasas, Aceitunas rellenas]
+PASOS:
+1. Estirar la masa en forma rectangular.
+2. Cubrir con las lonjas de jamÃ³n, la tocineta, las aceitunas en fila y las pasas.
+3. Enrollar la masa apretando bien los extremos.
+4. Barnizar con papelÃ³n o huevo y hornear hasta que estÃ© dorado.
+RECETA_FIN
+
+RECETA_INICIO
+ID: VEN_304
+TITULO: Majarete
+CATEGORIA: Postres
+INGREDIENTES: [Harina de maÃ­z, Leche de coco, PapelÃ³n, Canela en rama y polvo]
+PASOS:
+1. Mezclar la leche de coco con la harina de maÃ­z y el papelÃ³n rallado.
+2. Cocinar a fuego lento con la canela en rama, revolviendo constantemente hasta que espese.
+3. Verter en moldes individuales y dejar enfriar hasta que cuaje.
+4. Espolvorear canela en polvo por encima.
+RECETA_FIN
+
+RECETA_INICIO
+ID: VEN_305
+TITULO: Frijoles Negros con AzÃºcar (Caraotas)
+CATEGORIA: Granos
+INGREDIENTES: [Caraotas negras, AzÃºcar o papelÃ³n, Queso blanco duro, Comino]
+PASOS:
+1. Cocinar las caraotas hasta que estÃ©n muy blandas.
+2. Sazonar con un sofrito de ajo y comino.
+3. AÃ±adir azÃºcar o papelÃ³n al final (costumbre tÃ­pica del centro y oriente).
+4. Servir con abundante queso blanco rallado encima.
+RECETA_FIN
+
+RECETA_INICIO
+ID: VEN_306
+TITULO: Chicha de Arroz
+CATEGORIA: Bebidas
+INGREDIENTES: [Arroz cocido (muy blando), Leche completa, Leche condensada, Canela, Esencia de vainilla]
+PASOS:
+1. Licuar el arroz cocido con la leche y el azÃºcar.
+2. AÃ±adir vainilla y seguir licuando hasta obtener una textura espesa y cremosa.
+3. Servir en un vaso con mucho hielo, canela en polvo y un chorro de leche condensada.
+RECETA_FIN
+
+RECETA_INICIO
+ID: VEN_307
+TITULO: Acemita Tocuyana
+CATEGORIA: PanaderÃ­a (Lara)
+INGREDIENTES: [Harina, PapelÃ³n, Queso de cabra o vaca, AnÃ­s dulce, Canela]
+PASOS:
+1. Preparar una masa oscura con el melao de papelÃ³n y las especias.
+2. Integrar el queso rallado a la masa.
+3. Hornear hasta que el pan sea denso y aromÃ¡tico.
+RECETA_FIN
+
+RECETA_INICIO
+ID: VEN_308
+TITULO: Escabeche de Pescado
+CATEGORIA: Pescados (Costa)
+INGREDIENTES: [Pescado frito (Carite), Vinagre, Cebolla, PimentÃ³n, Laurel, Granos de pimienta]
+PASOS:
+1. Preparar una salsa hirviendo vinagre con los vegetales y las especias.
+2. Colocar el pescado ya frito en un recipiente hondo.
+3. BaÃ±ar con la salsa caliente y dejar macerar al menos 24 horas en frÃ­o.
+RECETA_FIN
+
+RECETA_INICIO
+ID: VEN_309
+TITULO: Torta de Pan
+CATEGORIA: Postres
+INGREDIENTES: [Pan viejo, Leche, Huevos, AzÃºcar, Pasas, Queso blanco]
+PASOS:
+1. Remojar el pan en leche y desmenuzar.
+2. Mezclar con huevos, azÃºcar, queso rallado y pasas.
+3. Verter en un molde acaramelado y hornear a baÃ±o de marÃ­a.
+RECETA_FIN
+
+RECETA_INICIO
+ID: VEN_310
+TITULO: Hervido de Pescado
+CATEGORIA: Sopas (Oriente)
+INGREDIENTES: [Pescado fresco, Yuca, Ocumo, PlÃ¡tano verde, AjÃ­ dulce, Cilantro]
+PASOS:
+1. Hervir las verduras (verduras) hasta que estÃ©n tiernas.
+2. AÃ±adir el pescado al final para que no se deshaga.
+3. Sazonar con mucho ajÃ­ dulce y cilantro de monte.
+RECETA_FIN
+
+RECETA_INICIO
+ID: VEN_311
+TITULO: Conserva de Guayaba (Bocadillo)
+CATEGORIA: Dulces
+INGREDIENTES: [Pulpa de guayaba, AzÃºcar, LimÃ³n]
+PASOS:
+1. Cocinar la pulpa con el azÃºcar a fuego lento removiendo con paleta de madera.
+2. Cuando se vea el fondo de la olla, extender en una bandeja con azÃºcar.
+3. Dejar endurecer y cortar en cuadros.
+RECETA_FIN
+
+RECETA_INICIO
+ID: VEN_312
+TITULO: Lomo Prensado (Carora)
+CATEGORIA: Carnes
+INGREDIENTES: [Cinta de lomo de cerdo, Sal, Pimienta, Especias de la zona, Prensa manual]
+PASOS:
+1. Adobar la carne y dejar curar.
+2. Cocinar y luego someter a presiÃ³n en una prensa especial durante horas para compactar los jugos.
+3. Se sirve en lonjas muy finas.
+RECETA_FIN
+
+RECETA_INICIO
+ID: VEN_313
+TITULO: Mandocas
+CATEGORIA: Desayunos (Zulia)
+INGREDIENTES: [Harina de maÃ­z, PlÃ¡tano muy maduro, Queso blanco, PapelÃ³n]
+PASOS:
+1. Hacer un purÃ© con el plÃ¡tano cocido y mezclar con la harina, queso y papelÃ³n.
+2. Formar lazos o "rosquitas" alargadas.
+3. FreÃ­r en aceite caliente hasta que estÃ©n oscuras y crujientes.
+RECETA_FIN
+
+RECETA_INICIO
+ID: VEN_314
+TITULO: Polvorosas
+CATEGORIA: Dulces
+INGREDIENTES: [Harina de trigo, Manteca, AzÃºcar, Canela]
+PASOS:
+1. Mezclar los ingredientes hasta obtener una masa que se deshace al tacto.
+2. Formar discos gruesos y hacer una cruz con un cuchillo arriba.
+3. Hornear hasta que doren ligeramente (se deshacen en la boca).
+RECETA_FIN
+
+RECETA_INICIO
+ID: VEN_315
+TITULO: Guapitos
+CATEGORIA: Masas (Barlovento)
+INGREDIENTES: [Masa de maÃ­z tierno, Sal, Hojas de plÃ¡tano]
+PASOS:
+1. Preparar bollitos con masa de maÃ­z fresco.
+2. Envolver en hojas de plÃ¡tano y hervir.
+3. Se consumen calientes como acompaÃ±ante de carnes.
+RECETA_FIN
+
+RECETA_INICIO
+ID: USA_316
+TITULO: Mac and Cheese (Macarrones con Queso)
+CATEGORIA: Comfort Food
+INGREDIENTES: [Pasta de coditos, Queso Cheddar, Leche, Mantequilla, Harina, Mostaza en polvo]
+PASOS:
+1. Cocer la pasta al dente.
+2. Hacer una salsa Bechamel (mantequilla + harina + leche) y aÃ±adir el queso Cheddar rallado hasta fundir.
+3. Mezclar la salsa con los macarrones.
+4. Opcional: Colocar en un molde, cubrir con pan rallado y hornear hasta gratinar.
+RECETA_FIN
+
+RECETA_INICIO
+ID: USA_317
+TITULO: Apple Pie (Tarta de Manzana)
+CATEGORIA: Postres
+INGREDIENTES: [Masa quebrada, Manzanas Granny Smith, AzÃºcar, Canela, Mantequilla]
+PASOS:
+1. Pelar y tajar las manzanas; mezclar con azÃºcar y canela.
+2. Forrar un molde con masa, rellenar con las manzanas.
+3. Cubrir con otra capa de masa (enrejado o completa).
+4. Hornear hasta que la costra estÃ© dorada y el relleno burbujee.
+RECETA_FIN
+
+RECETA_INICIO
+ID: USA_318
+TITULO: Buffalo Wings (Alitas de Pollo)
+CATEGORIA: Snacks
+INGREDIENTES: [Alitas de pollo, Mantequilla, Salsa picante (Frank's RedHot), Polvo de ajo]
+PASOS:
+1. FreÃ­r las alitas (sin harina) hasta que la piel estÃ© muy crujiente.
+2. Mezclar la mantequilla derretida con la salsa picante.
+3. BaÃ±ar las alitas calientes en la salsa y servir con apio y aderezo Blue Cheese.
+RECETA_FIN
+
+RECETA_INICIO
+ID: USA_319
+TITULO: Clam Chowder (Sopa de Almejas de Nueva Inglaterra)
+CATEGORIA: Sopas
+INGREDIENTES: [Almejas, Patatas, Panceta (Bacon), Cebolla, Crema de leche (Nata)]
+PASOS:
+1. SofreÃ­r la panceta y la cebolla.
+2. AÃ±adir patatas en cubos y el jugo de las almejas. Cocer hasta que ablanden.
+3. Agregar las almejas picadas y la crema.
+4. Calentar sin dejar que hierva fuerte para que no se corte.
+RECETA_FIN
+
+RECETA_INICIO
+ID: USA_320
+TITULO: Pulled Pork Sandwich
+CATEGORIA: BBQ (Barbacoa)
+INGREDIENTES: [Espaldilla de cerdo (Pork Butt), Salsa Barbacoa, Vinagre de manzana, Especias (Rub)]
+PASOS:
+1. Cubrir el cerdo con especias y cocinar a baja temperatura (horno o ahumador) por 8-10 horas.
+2. Desmenuzar la carne con dos tenedores cuando estÃ© muy tierna.
+3. Mezclar con salsa BBQ y servir en pan de brioche con ensalada de col (Coleslaw).
+RECETA_FIN
+
+RECETA_INICIO
+ID: USA_321
+TITULO: Eggs Benedict (Huevos Benedictinos)
+CATEGORIA: Brunch
+INGREDIENTES: [Muffin inglÃ©s, JamÃ³n o bacon canadiense, Huevos escalfados, Salsa Holandesa]
+PASOS:
+1. Tostar el muffin inglÃ©s.
+2. Colocar una rodaja de jamÃ³n y un huevo escalfado encima.
+3. BaÃ±ar con salsa Holandesa (yemas, mantequilla clarificada y limÃ³n).
+RECETA_FIN
+
+RECETA_INICIO
+ID: USA_322
+TITULO: Cornbread (Pan de MaÃ­z)
+CATEGORIA: AcompaÃ±antes (Sur)
+INGREDIENTES: [Harina de maÃ­z, Harina de trigo, Suero de leche (Buttermilk), Mantequilla, Miel]
+PASOS:
+1. Mezclar ingredientes secos y hÃºmedos sin batir de mÃ¡s.
+2. Verter en una sartÃ©n de hierro fundido caliente con mantequilla.
+3. Hornear hasta que los bordes estÃ©n crujientes y el centro firme.
+RECETA_FIN
+
+RECETA_INICIO
+ID: USA_323
+TITULO: Jambalaya
+CATEGORIA: Louisiana (CajÃºn)
+INGREDIENTES: [Arroz, Salchicha Andouille, Pollo, Gambas, Apio, Pimiento, Cebolla]
+PASOS:
+1. SofreÃ­r las carnes y la "trinidad" vegetal (apio, pimiento, cebolla).
+2. AÃ±adir arroz, especias cajÃºn y caldo.
+3. Cocinar hasta que el arroz estÃ© listo y aÃ±adir las gambas al final.
+RECETA_FIN
+
+RECETA_INICIO
+ID: USA_324
+TITULO: Meatloaf (Pastel de Carne)
+CATEGORIA: Cena Familiar
+INGREDIENTES: [Carne de res molida, Pan rallado, Huevo, Cebolla, Ketchup, Glaseado de mostaza y azÃºcar]
+PASOS:
+1. Mezclar la carne con pan, huevo y cebolla picada.
+2. Formar un bloque en un molde de pan.
+3. Cubrir con una capa de ketchup y azÃºcar moreno.
+4. Hornear hasta que estÃ© cocido y el glaseado caramelice.
+RECETA_FIN
+
+RECETA_INICIO
+ID: USA_325
+TITULO: New York Cheesecake
+CATEGORIA: Postres
+INGREDIENTES: [Queso crema, AzÃºcar, Huevos, Galletas Graham, Mantequilla, Sour Cream]
+PASOS:
+1. Hacer la base con galletas trituradas y mantequilla.
+2. Batir el queso crema con azÃºcar e incorporar huevos uno a uno.
+3. Hornear a baja temperatura y dejar enfriar dentro del horno para evitar grietas.
+RECETA_FIN
+
+RECETA_INICIO
+ID: USA_326
+TITULO: Gumbo
+CATEGORIA: Louisiana (Creole)
+INGREDIENTES: [Roux oscuro (harina y aceite), Okra, Pollo, Marisco, Caldo]
+PASOS:
+1. Cocinar harina y aceite hasta que el roux sea de color chocolate oscuro.
+2. AÃ±adir vegetales y caldo.
+3. Cocinar lentamente para que la okra espese el guiso. Servir sobre arroz.
+RECETA_FIN
+
+RECETA_INICIO
+ID: USA_327
+TITULO: Chocolate Chip Cookies
+CATEGORIA: Dulces
+INGREDIENTES: [Mantequilla, AzÃºcar moreno, AzÃºcar blanco, Harina, Chispas de chocolate, Vainilla]
+PASOS:
+1. Batir mantequillas con azÃºcares.
+2. AÃ±adir huevo, vainilla y secos.
+3. Mezclar con chispas de chocolate.
+4. Hornear en bolitas por 10 minutos (deben quedar suaves en el centro).
+RECETA_FIN
+
+RECETA_INICIO
+ID: USA_328
+TITULO: Reuben Sandwich
+CATEGORIA: Deli
+INGREDIENTES: [Pan de centeno, Corned Beef, Queso Suizo, Chucrut (Sauerkraut), Aderezo Ruso]
+PASOS:
+1. Untar el pan con aderezo ruso.
+2. Armar capas de carne, chucrut y queso.
+3. Tostar en la plancha con mantequilla hasta que el queso se funda.
+RECETA_FIN
+
+RECETA_INICIO
+ID: USA_329
+TITULO: Fried Catfish (Bagre Frito)
+CATEGORIA: Sur
+INGREDIENTES: [Filetes de bagre, Harina de maÃ­z sazonada, Suero de leche, Aceite]
+PASOS:
+1. Pasar el pescado por suero de leche y luego por la harina de maÃ­z con pimienta cayena.
+2. FreÃ­r hasta que estÃ© dorado oscuro y crujiente.
+RECETA_FIN
+
+RECETA_INICIO
+ID: USA_330
+TITULO: Cobb Salad
+CATEGORIA: Ensaladas
+INGREDIENTES: [Lechuga, Pechuga de pollo, Bacon, Huevo duro, Aguacate, Queso Roquefort, Tomate]
+PASOS:
+1. Disponer la lechuga como base.
+2. Colocar el resto de ingredientes picados en filas ordenadas por colores.
+3. Servir con vinagreta de vino tinto.
+RECETA_FIN
+
+RECETA_INICIO
+ID: USA_341
+TITULO: New York Hot Dog
+CATEGORIA: Street Food
+INGREDIENTES: [Pan de perro, Salchicha de res, Cebollas rojas en salsa Ã¡cida, Mostaza marrÃ³n, Sauerkraut]
+PASOS:
+1. Hervir o asar la salchicha de res.
+2. Colocar en el pan.
+3. AÃ±adir la famosa "red onion sauce" (cebollas cocidas en tomate y vinagre).
+4. Terminar con mostaza picante y chucrut. Sin mayonesa (estilo NY autÃ©ntico).
+RECETA_FIN
+
+RECETA_INICIO
+ID: USA_342
+TITULO: Corn Dog (Bandarilla)
+CATEGORIA: Comida de Feria
+INGREDIENTES: [Salchichas, Harina de maÃ­z, Harina de trigo, Huevo, Leche, Palitos de madera]
+PASOS:
+1. Insertar la salchicha en el palito de madera.
+2. Preparar un rebozado espeso con las harinas, leche y huevo.
+3. Sumergir la salchicha en la mezcla.
+4. FreÃ­r en abundante aceite hasta que el rebozado estÃ© dorado y esponjoso.
+RECETA_FIN
+
+RECETA_INICIO
+ID: USA_343
+TITULO: Funnel Cake
+CATEGORIA: Comida de Feria
+INGREDIENTES: [Harina, Huevos, Leche, AzÃºcar glass, Aceite]
+PASOS:
+1. Hacer una masa lÃ­quida ligera.
+2. Verter la masa a travÃ©s de un embudo sobre aceite caliente moviÃ©ndolo en cÃ­rculos para crear un patrÃ³n de red o nido.
+3. FreÃ­r por ambos lados.
+4. Espolvorear generosamente con azÃºcar glass mientras estÃ© caliente.
+RECETA_FIN
+
+RECETA_INICIO
+ID: USA_344
+TITULO: S'mores
+CATEGORIA: Dulce (Campamento)
+INGREDIENTES: [Galletas Graham, Malvaviscos (Marshmallows), Chocolate con leche]
+PASOS:
+1. Tostar el malvavisco al fuego hasta que estÃ© dorado y fundido por dentro.
+2. Colocar un trozo de chocolate sobre una galleta Graham.
+3. Poner el malvavisco caliente encima y cerrar con otra galleta.
+4. Presionar para que el calor del malvavisco derrita el chocolate.
+RECETA_FIN
+
+RECETA_INICIO
+ID: USA_345
+TITULO: Philly Cheesesteak
+CATEGORIA: Street Food / SÃ¡ndwich
+INGREDIENTES: [Pan largo de bota, Rib-eye en lÃ¡minas muy finas, Cebolla, Queso Provolone o Cheez Whiz]
+PASOS:
+1. Picar la carne en la plancha mientras se cocina con cebollas.
+2. Formar una fila con la carne y cubrir con el queso hasta que funda.
+3. Colocar el pan abierto encima de la carne y luego voltear con la espÃ¡tula.
+RECETA_FIN
+
+RECETA_INICIO
+ID: USA_346
+TITULO: Glazed Donuts (Donas Glaseadas)
+CATEGORIA: Dulces / Desayuno
+INGREDIENTES: [Masa de levadura, AzÃºcar glass, Leche, Extracto de vainilla]
+PASOS:
+1. Cortar cÃ­rculos con un agujero en el centro y dejar leudar.
+2. FreÃ­r en aceite hasta que floten y doren.
+3. Sumergir calientes en un glaseado de azÃºcar glass, leche y vainilla.
+RECETA_FIN
+
+RECETA_INICIO
+ID: USA_347
+TITULO: Brownies de Chocolate
+CATEGORIA: Postres
+INGREDIENTES: [Chocolate amargo, Mantequilla, AzÃºcar, Huevos, Harina, Nueces (opcional)]
+PASOS:
+1. Derretir chocolate con mantequilla.
+2. Mezclar con azÃºcar y huevos (no batir demasiado para que no sea un bizcocho).
+3. AÃ±adir harina y nueces.
+4. Hornear hasta que se forme una costra arriba pero el centro siga hÃºmedo ("fudgy").
+RECETA_FIN
+
+RECETA_INICIO
+ID: USA_348
+TITULO: Banana Split
+CATEGORIA: Postres / HeladerÃ­as
+INGREDIENTES: [1 Banano, Helado (Vainilla, Chocolate, Fresa), Sirope, Crema batida, Cereza]
+PASOS:
+1. Cortar el banano por la mitad a lo largo.
+2. Colocar tres bolas de helado en el centro.
+3. Decorar con sirope de chocolate, crema batida, nueces picadas y una cereza marrasquino arriba.
+RECETA_FIN
+
+RECETA_INICIO
+ID: USA_349
+TITULO: Soft Pretzel (Pretzel Suave)
+CATEGORIA: Street Food
+INGREDIENTES: [Masa de pan, Bicarbonato de sodio (para el agua), Sal gruesa]
+PASOS:
+1. Formar lazos con la masa.
+2. Escaldar brevemente en agua hirviendo con bicarbonato (esto da el color marrÃ³n y sabor tÃ­pico).
+3. Espolvorear con sal gruesa y hornear.
+4. Servir con mostaza o queso fundido.
+RECETA_FIN
+
+RECETA_INICIO
+ID: USA_350
+TITULO: Pecan Pie (Tarta de Nueces)
+CATEGORIA: Postres (Sur)
+INGREDIENTES: [Masa quebrada, Nueces pecÃ¡n, Jarabe de maÃ­z (Karo), Huevos, Mantequilla]
+PASOS:
+1. Mezclar las nueces con el jarabe, huevos y mantequilla derretida.
+2. Verter sobre la base de masa.
+3. Hornear hasta que el relleno estÃ© firme pero con un ligero movimiento tipo gelatina.
+RECETA_FIN
+
+RECETA_INICIO
+ID: USA_351
+TITULO: Southern Fried Chicken (Pollo Frito del Sur)
+CATEGORIA: Aves / Comfort Food
+INGREDIENTES: [Presas de pollo, Suero de leche (Buttermilk), Harina, Pimienta cayena, Polvo de ajo, PimentÃ³n, Aceite]
+PASOS:
+1. Marinar el pollo en buttermilk durante al menos 4 horas para que la carne sea tierna.
+2. Mezclar la harina con todas las especias.
+3. Pasar el pollo del suero a la harina, presionando bien para crear una costra gruesa.
+4. FreÃ­r en aceite a temperatura media-alta hasta que estÃ© dorado oscuro y crujiente.
+RECETA_FIN
+
+RECETA_INICIO
+ID: USA_352
+TITULO: Texas Style Brisket (Pecho de Res)
+CATEGORIA: BBQ
+INGREDIENTES: [Corte de Brisket entero, Sal gruesa, Pimienta negra reciÃ©n molida (Dalmatian Rub), LeÃ±a de roble]
+PASOS:
+1. Limpiar el exceso de grasa dejando una capa de 1/2 cm.
+2. Sazonar solo con sal y pimienta.
+3. Ahumar a baja temperatura ($110^{\circ}\text{C}$ a $120^{\circ}\text{C}$) durante 12 a 16 horas.
+4. Envolver en papel de carnicero (Butcher paper) a mitad de cocciÃ³n.
+5. Dejar reposar 2 horas antes de rebanar contra la fibra.
+RECETA_FIN
+
+RECETA_INICIO
+ID: USA_353
+TITULO: Biscuits and Gravy
+CATEGORIA: Desayuno (Sur)
+INGREDIENTES: [Biscuits (panes de soda), Salchicha de desayuno, Harina, Leche, Pimienta negra]
+PASOS:
+1. Desmenuzar y cocinar la salchicha en una sartÃ©n hasta que suelte su grasa.
+2. AÃ±adir harina a la grasa para hacer un roux.
+3. Verter leche poco a poco removiendo hasta crear una salsa blanca espesa (Sausage Gravy).
+4. Servir la salsa caliente sobre los biscuits abiertos por la mitad.
+RECETA_FIN
+
+RECETA_INICIO
+ID: USA_354
+TITULO: Lobster Roll (Rollo de Langosta)
+CATEGORIA: Mariscos (Maine)
+INGREDIENTES: [Carne de langosta cocida, Mayonesa (o mantequilla), Apio, Pan de hot dog estilo brioche, LimÃ³n]
+PASOS:
+1. Mezclar la langosta con un poco de mayonesa, apio picado y zumo de limÃ³n (estilo Maine).
+2. Tostar el pan con abundante mantequilla en los laterales.
+3. Rellenar generosamente el pan con la mezcla de langosta frÃ­a.
+RECETA_FIN
+
+RECETA_INICIO
+ID: USA_355
+TITULO: Chili con Carne
+CATEGORIA: Tex-Mex
+INGREDIENTES: [Carne de res molida, Frijoles rojos, Tomate, Chiles secos, Comino, Cebolla, Queso rallado]
+PASOS:
+1. SofreÃ­r la carne con cebolla y ajo.
+2. AÃ±adir el tomate, los frijoles y una mezcla potente de chiles y comino.
+3. Cocinar a fuego lento durante 1 hora hasta que los sabores se integren y espese.
+4. Servir con crema agria, queso y cebollino.
+RECETA_FIN
+
+RECETA_INICIO
+ID: USA_356
+TITULO: Shrimp and Grits
+CATEGORIA: Mariscos / Desayuno (Carolina/Georgia)
+INGREDIENTES: [SÃ©mola de maÃ­z (Grits), Camarones, Bacon, Queso Cheddar, Caldo de pollo, LimÃ³n]
+PASOS:
+1. Cocinar los grits en caldo y leche hasta que estÃ©n cremosos; aÃ±adir queso.
+2. Saltear el bacon y luego los camarones en la misma grasa.
+3. Desglasar la sartÃ©n con limÃ³n y un poco de caldo para hacer una salsa.
+4. Servir los camarones sobre la cama de grits.
+RECETA_FIN
+
+RECETA_INICIO
+ID: USA_357
+TITULO: Mississippi Mud Pie
+CATEGORIA: Postres
+INGREDIENTES: [Base de galleta de chocolate, PudÃ­n de chocolate, Ganache de chocolate, Crema batida]
+PASOS:
+1. Hornear la base de galletas trituradas.
+2. Rellenar con una capa densa de pudÃ­n de chocolate oscuro.
+3. Cubrir con ganache de chocolate y terminar con una capa de crema batida frÃ­a.
+RECETA_FIN
+
+RECETA_INICIO
+ID: USA_358
+TITULO: Sloppy Joe
+CATEGORIA: SÃ¡ndwiches
+INGREDIENTES: [Carne molida, Ketchup, Salsa Worcestershire, Mostaza, Cebolla, Pan de hamburguesa]
+PASOS:
+1. Cocinar la carne con cebolla.
+2. AÃ±adir ketchup, mostaza y salsa inglesa para crear un guiso dulce y Ã¡cido.
+3. Servir el guiso caliente dentro del pan de hamburguesa (debe "chorrear", de ahÃ­ su nombre).
+RECETA_FIN
+
+RECETA_INICIO
+ID: USA_359
+TITULO: Key Lime Pie
+CATEGORIA: Postres (Florida)
+INGREDIENTES: [Zumo de limas Key, Leche condensada, Yemas de huevo, Base de galleta Graham]
+PASOS:
+1. Mezclar la leche condensada con el zumo de lima y las yemas.
+2. Verter sobre la base de galleta.
+3. Hornear brevemente para cuajar y refrigerar por varias horas.
+RECETA_FIN
+
+RECETA_INICIO
+ID: USA_360
+TITULO: Chicago Deep Dish Pizza
+CATEGORIA: Pizza
+INGREDIENTES: [Masa con harina de maÃ­z, Mucha Mozzarella, Salchicha italiana, Salsa de tomate espesa]
+PASOS:
+1. Forrar un molde alto con la masa.
+2. Colocar una capa masiva de queso mozzarella en el fondo.
+3. AÃ±adir la carne (salchicha).
+4. Cubrir con una capa gruesa de salsa de tomate arriba (orden inverso a la pizza normal).
+5. Hornear por 30-40 minutos.
+RECETA_FIN
+
+RECETA_INICIO
+ID: USA_361
+TITULO: Meatball Sub (SÃ¡ndwich de AlbÃ³ndigas)
+CATEGORIA: Italo-Americano
+INGREDIENTES: [Pan largo, AlbÃ³ndigas en salsa marinara, Queso Provolone o Mozzarella]
+PASOS:
+1. Calentar las albÃ³ndigas en abundante salsa de tomate.
+2. Colocarlas en el pan y cubrir con queso.
+3. Hornear hasta que el queso burbujee y el pan estÃ© tostado.
+RECETA_FIN
+
+RECETA_INICIO
+ID: USA_362
+TITULO: Tater Tots (Croquetas de Patata)
+CATEGORIA: AcompaÃ±antes
+INGREDIENTES: [Patatas ralladas, Harina, Sal, Aceite para freÃ­r]
+PASOS:
+1. Escaldar brevemente las patatas ralladas.
+2. Mezclar con harina y formar pequeÃ±os cilindros.
+3. FreÃ­r hasta que estÃ©n muy crujientes por fuera y suaves por dentro.
+RECETA_FIN
+
+RECETA_INICIO
+ID: USA_363
+TITULO: Red Velvet Cake
+CATEGORIA: Postres
+INGREDIENTES: [Harina, Cacao, Suero de leche, Vinagre, Colorante rojo, Frosting de queso crema]
+PASOS:
+1. Preparar la masa aÃ±adiendo el vinagre al suero de leche para activar el color del cacao.
+2. Hornear los bizcochos.
+3. Rellenar y cubrir con un glaseado denso de queso crema, mantequilla y azÃºcar glass.
+RECETA_FIN
+
+RECETA_INICIO
+ID: USA_364
+TITULO: Fried Green Tomatoes (Tomates Verdes Fritos)
+CATEGORIA: AcompaÃ±antes (Sur)
+INGREDIENTES: [Tomates verdes (no maduros), Harina de maÃ­z, Huevo, Especias]
+PASOS:
+1. Cortar los tomates en rodajas gruesas.
+2. Pasar por huevo y luego por una mezcla de harina de maÃ­z sazonada.
+3. FreÃ­r hasta que el rebozado estÃ© firme y crujiente.
+RECETA_FIN
+
+RECETA_INICIO
+ID: USA_365
+TITULO: Cobb Salad
+CATEGORIA: Ensaladas
+INGREDIENTES: [Lechuga, Pechuga de pollo asada, Bacon, Huevo duro, Aguacate, Queso Roquefort, Tomate]
+PASOS:
+1. Picar todos los ingredientes en cubos pequeÃ±os.
+2. Disponer sobre la lechuga en filas paralelas separadas por colores.
+3. AcompaÃ±ar con una vinagreta de vino tinto.
+RECETA_FIN
+
+RECETA_INICIO
+ID: ITA_366
+TITULO: Spaghetti alla Carbonara (AutÃ©ntica)
+CATEGORIA: Pasta
+INGREDIENTES: [Spaghetti, Guanciale, Yemas de huevo, Queso Pecorino Romano, Pimienta negra]
+PASOS:
+1. Cocinar la pasta al dente.
+2. Saltear el guanciale (careta de cerdo) hasta que estÃ© crujiente.
+3. Batir las yemas con el queso y mucha pimienta.
+4. Mezclar la pasta caliente con el guanciale y, fuera del fuego, aÃ±adir la crema de huevo.
+5. El calor residual debe cocinar el huevo sin cuajarlo.
+RECETA_FIN
+
+RECETA_INICIO
+ID: ITA_367
+TITULO: TiramisÃº Classico
+CATEGORIA: Postre
+INGREDIENTES: [Bizcochos Savoiardi, Queso Mascarpone, Huevos, CafÃ© fuerte, Cacao en polvo, AzÃºcar]
+PASOS:
+1. Batir las yemas con azÃºcar y mezclar con el mascarpone.
+2. Incorporar las claras a punto de nieve.
+3. Mojar los bizcochos en cafÃ© (sin que se deshagan).
+4. Alternar capas de bizcocho y crema.
+5. Refrigerar 4 horas y espolvorear cacao antes de servir.
+RECETA_FIN
+
+RECETA_INICIO
+ID: ITA_368
+TITULO: Lasagna alla Bolognese
+CATEGORIA: Pasta al Horno
+INGREDIENTES: [LÃ¡minas de pasta, RagÃº de carne, Salsa Bechamel, Queso Parmigiano Reggiano]
+PASOS:
+1. Preparar un ragÃº de cocciÃ³n larga (3 horas).
+2. Hacer una bechamel fluida.
+3. En un molde, alternar capas de pasta, ragÃº, bechamel y parmesano.
+4. Repetir hasta completar 5 o 6 capas.
+5. Hornear hasta que la superficie estÃ© gratinada y crujiente.
+RECETA_FIN
+
+RECETA_INICIO
+ID: ITA_369
+TITULO: Risotto ai Funghi Porcini
+CATEGORIA: Arroz
+INGREDIENTES: [Arroz Carnaroli o Arborio, Setas Porcini, Caldo de verduras, Cebolla, Vino blanco, Mantequilla, Parmesano]
+PASOS:
+1. Tostar el arroz con la cebolla.
+2. Desglasar con vino blanco.
+3. AÃ±adir caldo caliente cazo a cazo, removiendo constantemente para soltar el almidÃ³n.
+4. Agregar las setas salteadas a mitad de cocciÃ³n.
+5. Mantecar al final con mantequilla frÃ­a y parmesano.
+RECETA_FIN
+
+RECETA_INICIO
+ID: ITA_370
+TITULO: Ossobuco alla Milanese
+CATEGORIA: Carnes
+INGREDIENTES: [Jarret de ternera con hueso, Vino blanco, Caldo, Harina, Gremolata (limÃ³n, ajo, perejil)]
+PASOS:
+1. Enharinar la carne y sellar en aceite.
+2. Cocinar a fuego lento con vino y caldo hasta que la carne se separe del hueso.
+3. AÃ±adir la gremolata al final para dar frescura.
+4. Tradicionalmente se sirve con Risotto Amarillo.
+RECETA_FIN
+
+RECETA_INICIO
+ID: ITA_371
+TITULO: Panna Cotta
+CATEGORIA: Postre
+INGREDIENTES: [Nata (crema de leche), AzÃºcar, Gelatina, Vainilla, Frutos rojos]
+PASOS:
+1. Calentar la nata con el azÃºcar y la vainilla sin que hierva.
+2. Disolver la gelatina hidratada en la nata.
+3. Verter en moldes y refrigerar hasta que cuaje.
+4. Servir con un coulis de frutos rojos.
+RECETA_FIN
+
+RECETA_INICIO
+ID: ITA_372
+TITULO: Saltimbocca alla Romana
+CATEGORIA: Carnes
+INGREDIENTES: [Escalopes de ternera, JamÃ³n de Parma, Salvia, Vino blanco, Mantequilla]
+PASOS:
+1. Colocar una loncha de jamÃ³n y una hoja de salvia sobre la carne; sujetar con un palillo.
+2. Sellar en mantequilla primero por el lado de la carne.
+3. AÃ±adir vino blanco y reducir.
+RECETA_FIN
+
+RECETA_INICIO
+ID: ITA_373
+TITULO: Cannoli Siciliani
+CATEGORIA: Postre (Sicilia)
+INGREDIENTES: [Masa frita en tubo, Queso Ricotta de oveja, AzÃºcar, Fruta confitada, Pistachos]
+PASOS:
+1. Preparar la masa con vino Marsala, freÃ­r en moldes tubulares.
+2. Rellenar con una crema de ricotta dulce y gotas de chocolate.
+3. Decorar los extremos con pistacho picado o naranja confitada.
+RECETA_FIN
+
+RECETA_INICIO
+ID: ITA_374
+TITULO: Gnocchi alla Sorrentina
+CATEGORIA: Pasta
+INGREDIENTES: [Gnocchi de patata, Salsa de tomate, Mozzarella de bÃºfala, Albahaca, Parmesano]
+PASOS:
+1. Cocinar los gnocchi en agua hirviendo hasta que floten.
+2. Mezclar con salsa de tomate y albahaca.
+3. Colocar en una cazuela de barro con mozzarella y parmesano.
+4. Gratinar al horno hasta que el queso se funda.
+RECETA_FIN
+
+RECETA_INICIO
+ID: ITA_375
+TITULO: Focaccia Genovese
+CATEGORIA: PanaderÃ­a
+INGREDIENTES: [Harina de fuerza, Agua, Levadura, Aceite de oliva virgen extra, Sal gruesa, Romero]
+PASOS:
+1. Amasar y dejar leudar.
+2. Extender en bandeja y presionar con los dedos para crear hoyos.
+3. Emulsionar agua y aceite y verter sobre la masa.
+4. Espolvorear sal y romero; hornear a alta temperatura.
+RECETA_FIN
+
+RECETA_INICIO
+ID: ITA_376
+TITULO: Pollo alla Cacciatora
+CATEGORIA: Aves
+INGREDIENTES: [Pollo troceado, Tomate, Vino tinto, Aceitunas, Romero, Ajo]
+PASOS:
+1. Dorar el pollo en aceite.
+2. AÃ±adir ajo, romero y desglasar con vino.
+3. Incorporar el tomate y las aceitunas; guisar tapado 45 minutos.
+RECETA_FIN
+
+RECETA_INICIO
+ID: ITA_377
+TITULO: Bistecca alla Fiorentina
+CATEGORIA: Carne (Toscana)
+INGREDIENTES: [ChuletÃ³n de ternera (Porterhouse) de 1kg+, Sal, Pimienta, Aceite de oliva]
+PASOS:
+1. La carne debe estar a temperatura ambiente.
+2. Cocinar a la brasa muy caliente, 3-5 minutos por lado (debe quedar "al sangue").
+3. Salar solo despuÃ©s de cocinar.
+RECETA_FIN
+
+RECETA_INICIO
+ID: ITA_378
+TITULO: Arancini di Riso
+CATEGORIA: Street Food
+INGREDIENTES: [Arroz de risotto frÃ­o, RagÃº, Guisantes, Mozzarella, Pan rallado]
+PASOS:
+1. Formar una bola de arroz en la palma de la mano.
+2. Rellenar el centro con ragÃº y mozzarella.
+3. Cerrar, pasar por harina, huevo y pan rallado.
+4. FreÃ­r hasta que estÃ©n dorados y crujientes.
+RECETA_FIN
+
+RECETA_INICIO
+ID: ITA_379
+TITULO: Minestrone
+CATEGORIA: Sopas
+INGREDIENTES: [Verduras de temporada, Alubias, Pasta corta, Corteza de parmesano]
+PASOS:
+1. Picar todas las verduras y sofreÃ­r.
+2. Cubrir con agua o caldo y aÃ±adir la corteza de queso (da sabor).
+3. AÃ±adir la pasta al final. Servir con un chorro de aceite crudo.
+RECETA_FIN
+
+RECETA_INICIO
+ID: ITA_380
+TITULO: Penne all'Arrabbiata
+CATEGORIA: Pasta
+INGREDIENTES: [Penne, Ajo, Guindilla (peperoncino), Tomate, Perejil]
+PASOS:
+1. SofreÃ­r ajo y mucha guindilla en aceite.
+2. AÃ±adir el tomate y reducir hasta que sea una salsa potente.
+3. Mezclar con la pasta y terminar con perejil fresco.
+RECETA_FIN
+
+RECETA_INICIO
+ID: ITA_381
+TITULO: Vitello Tonnato
+CATEGORIA: Carnes / Entrante
+INGREDIENTES: [Redondo de ternera, AtÃºn en conserva, Alcaparras, Anchoas, Mayonesa]
+PASOS:
+1. Hervir la carne con verduras y dejar enfriar; cortar en lÃ¡minas finÃ­simas.
+2. Licuar el atÃºn con alcaparras, anchoas y mayonesa para hacer la salsa.
+3. Cubrir la carne con la salsa y decorar con alcaparras.
+RECETA_FIN
+
+RECETA_INICIO
+ID: ITA_382
+TITULO: Melanzane alla Parmigiana
+CATEGORIA: Verduras
+INGREDIENTES: [Berenjenas, Salsa de tomate, Mozzarella, Parmesano, Albahaca]
+PASOS:
+1. Cortar berenjenas en lÃ¡minas y freÃ­r o asar.
+2. Capas: tomate, berenjena, mozzarella, parmesano.
+3. Hornear hasta que el conjunto estÃ© compacto y dorado.
+RECETA_FIN
+
+RECETA_INICIO
+ID: ITA_383
+TITULO: Spaghetti alle Vongole
+CATEGORIA: Pasta / Mariscos
+INGREDIENTES: [Spaghetti, Almejas frescas, Ajo, Vino blanco, Perejil]
+PASOS:
+1. Abrir las almejas en una sartÃ©n con ajo y vino blanco.
+2. Cocinar la pasta y terminar de cocerla en el jugo de las almejas.
+3. Emulsionar con aceite de oliva y mucho perejil.
+RECETA_FIN
+
+RECETA_INICIO
+ID: ITA_384
+TITULO: Caponata Siciliana
+CATEGORIA: Verduras
+INGREDIENTES: [Berenjena, Apio, Tomate, Alcaparras, Aceitunas, Vinagre, AzÃºcar]
+PASOS:
+1. FreÃ­r cubos de berenjena.
+2. Guisar el resto de ingredientes para crear una salsa agridulce.
+3. Mezclar todo y dejar reposar; se sirve frÃ­a o a temperatura ambiente.
+RECETA_FIN
+
+RECETA_INICIO
+ID: ITA_385
+TITULO: Zuppa Inglese
+CATEGORIA: Postre
+INGREDIENTES: [Bizcochos, Crema pastelera de vainilla, Crema de chocolate, Licor Alchermes]
+PASOS:
+1. Empapar los bizcochos en el licor rojo (Alchermes).
+2. Alternar capas de bizcocho rojo con las dos cremas.
+3. Servir en copa, bien frÃ­o.
+RECETA_FIN
+
+RECETA_INICIO
+ID: ITA_386
+TITULO: Trofie al Pesto
+CATEGORIA: Pasta (Liguria)
+INGREDIENTES: [Pasta Trofie, Albahaca, PiÃ±ones, Queso Parmesano, Queso Pecorino, Ajo, Aceite de Oliva]
+PASOS:
+1. Machacar la albahaca con piÃ±ones, ajo y quesos en un mortero (o procesador suave).
+2. AÃ±adir aceite hasta formar una pasta verde intensa.
+3. Mezclar con la pasta cocida y un poco de agua de cocciÃ³n.
+RECETA_FIN
+
+RECETA_INICIO
+ID: ITA_387
+TITULO: Cotoletta alla Milanese
+CATEGORIA: Carne
+INGREDIENTES: [Chuleta de ternera con hueso, Huevo, Pan rallado, Mantequilla clarificada]
+PASOS:
+1. Empanar la carne solo con huevo y pan rallado (sin harina).
+2. FreÃ­r en mantequilla hasta que estÃ© dorada.
+3. Debe quedar jugosa por dentro y crujiente por fuera.
+RECETA_FIN
+
+RECETA_INICIO
+ID: ITA_388
+TITULO: Amaretti
+CATEGORIA: Galletas
+INGREDIENTES: [Almendras molidas, Claras de huevo, AzÃºcar, Esencia de almendra amarga]
+PASOS:
+1. Mezclar los ingredientes hasta tener una pasta firme.
+2. Formar bolitas y rebozar en azÃºcar.
+3. Hornear hasta que se agrieten y estÃ©n crujientes.
+RECETA_FIN
+
+RECETA_INICIO
+ID: ITA_389
+TITULO: Bucatini all'Amatriciana
+CATEGORIA: Pasta
+INGREDIENTES: [Bucatini, Guanciale, Tomate pelado, Peperoncino, Pecorino]
+PASOS:
+1. Dorar el guanciale; retirar una parte para el final.
+2. AÃ±adir el tomate y el picante a la grasa restante.
+3. Cocinar la pasta y saltar en la salsa con el queso.
+RECETA_FIN
+
+RECETA_INICIO
+ID: ITA_390
+TITULO: Cassata Siciliana
+CATEGORIA: Postre
+INGREDIENTES: [Bizcocho, Ricotta dulce, MazapÃ¡n, Glaseado, Fruta confitada]
+PASOS:
+1. Forrar un molde con mazapÃ¡n verde y bizcocho.
+2. Rellenar con ricotta dulce y trozos de chocolate.
+3. Cubrir con mÃ¡s bizcocho, desmoldar y glasear.
+4. Decorar con frutas confitadas barrocas.
+RECETA_FIN
+
+RECETA_INICIO
+ID: ITA_391
+TITULO: Calzone al Forno
+CATEGORIA: Pizza
+INGREDIENTES: [Masa de pizza, Ricotta, Salami, Mozzarella, Tomate]
+PASOS:
+1. Extender la masa de pizza.
+2. Rellenar una mitad con los ingredientes.
+3. Doblar y cerrar bien los bordes.
+4. Hornear hasta que estÃ© hinchado y dorado.
+RECETA_FIN
+
+RECETA_INICIO
+ID: ITA_392
+TITULO: Cacio e Pepe
+CATEGORIA: Pasta
+INGREDIENTES: [Tonnarelli o Spaghetti, Queso Pecorino Romano, Pimienta negra entera]
+PASOS:
+1. Tostar la pimienta molida en la sartÃ©n.
+2. Crear una crema de pecorino con un poco de agua de la pasta.
+3. Mantecar la pasta con la crema y la pimienta hasta que sea sedosa.
+RECETA_FIN
+
+RECETA_INICIO
+ID: ITA_393
+TITULO: Semifreddo al Torrone
+CATEGORIA: Postre
+INGREDIENTES: [Nata montada, TurrÃ³n duro picado, Huevos, AzÃºcar]
+PASOS:
+1. Hacer un merengue italiano con las claras.
+2. Mezclar con la nata y el turrÃ³n picado.
+3. Congelar en molde alargado.
+RECETA_FIN
+
+RECETA_INICIO
+ID: ITA_394
+TITULO: Spezzatino di Manzo
+CATEGORIA: Carnes / Estofado
+INGREDIENTES: [Carne de res en cubos, Patatas, Vino tinto, Cebolla, Zanahoria]
+PASOS:
+1. Enharinar y sellar la carne.
+2. Guisar con las verduras y el vino a fuego muy lento por 2 horas.
+3. AÃ±adir patatas a mitad de cocciÃ³n.
+RECETA_FIN
+
+RECETA_INICIO
+ID: ITA_395
+TITULO: Cantucci (Biscotti di Prato)
+CATEGORIA: Galletas
+INGREDIENTES: [Harina, AzÃºcar, Almendras enteras, Huevos, Ralladura de naranja]
+PASOS:
+1. Formar cilindros con la masa y hornear.
+2. Cortar en rodajas diagonales mientras siguen calientes.
+3. Hornear de nuevo para que se sequen del todo.
+RECETA_FIN
+
+RECETA_INICIO
+ID: ITA_396
+TITULO: Pasta alla Norma
+CATEGORIA: Pasta (Sicilia)
+INGREDIENTES: [Pasta corta, Berenjenas fritas, Salsa de tomate, Ricotta Salata, Albahaca]
+PASOS:
+1. Preparar una salsa de tomate espesa.
+2. FreÃ­r cubos de berenjena.
+3. Mezclar con la pasta y rallar abundante ricotta salada (seca) encima.
+RECETA_FIN
+
+RECETA_INICIO
+ID: ITA_397
+TITULO: Scaloppine al Limone
+CATEGORIA: Carne
+INGREDIENTES: [Escalopes de ternera finos, Harina, LimÃ³n, Mantequilla, Vino blanco]
+PASOS:
+1. Enharinar la carne y freÃ­r en mantequilla.
+2. AÃ±adir zumo de limÃ³n y un chorrito de vino para crear una salsa ligada.
+RECETA_FIN
+
+RECETA_INICIO
+ID: ITA_398
+TITULO: Ravioli di Zucca (Calabaza)
+CATEGORIA: Pasta Rellena
+INGREDIENTES: [Pasta fresca, Calabaza asada, Amaretti triturados, Parmesano, Mantequilla de salvia]
+PASOS:
+1. Rellenar la pasta con la mezcla de calabaza dulce y galletas.
+2. Hervir y servir solo con mantequilla fundida y hojas de salvia crujientes.
+RECETA_FIN
+
+RECETA_INICIO
+ID: ITA_399
+TITULO: Affogato al CaffÃ¨
+CATEGORIA: Postre / Bebida
+INGREDIENTES: [Helado de vainilla, CafÃ© Espresso caliente]
+PASOS:
+1. Colocar una bola de helado de alta calidad en una copa.
+2. Verter un shot de cafÃ© espresso reciÃ©n hecho encima.
+3. Servir inmediatamente.
+RECETA_FIN
+
+RECETA_INICIO
+ID: ITA_400
+TITULO: Pizza Margherita (STG)
+CATEGORIA: Pizza
+INGREDIENTES: [Masa de larga fermentaciÃ³n, Tomate San Marzano, Mozzarella de bÃºfala, Albahaca, Aceite de oliva]
+PASOS:
+1. Estender la masa a mano (borde alto).
+2. Poner tomate, mozzarella y un hilo de aceite.
+3. Hornear a 450Â°C por 90 segundos.
+4. AÃ±adir la albahaca fresca al salir del horno.
+RECETA_FIN
