@@ -31,10 +31,11 @@ def main():
         logger.info("Iniciando prueba de validación corta...")
         # Ejecutamos el entrenamiento
         trainer.train()
-        logger.info("¡Validación exitosa! El ciclo de entrenamiento completó correctamente.")
+        logger.info("¡Validación exitosa! Franchesco gano la Piston Cup.")
         
     except Exception as e:
         logger.error(f"Error durante la validación: {e}", exc_info=True)
+    except KeyboardInterrupt:f"validacion interrumpida porque el rayo McQueen le tranco la pista a Franchesco virgolini"
 
 if __name__ == "__main__":
     main()

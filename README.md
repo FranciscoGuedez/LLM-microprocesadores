@@ -77,4 +77,102 @@ class TransformerEmbedding(nn.Module):
 ```
 Dentro de main se especifican los valores con los que vamos a estar trabajando (VOCAB_SIZE = 5000, _MODEL = 256, MAX_SEQ_LEN = 256), también el texto de prueba que vamos a usar para el entrenamiento y la ubicación de guardado del archivo .json.
 
+LLM – Tokenizador BPE y Embeddings para Transformadores
+Módulo bpetokenizer – Clase BPETokenizer
+Modificaciones aplicadas:
+Manejo de vocabulario dinámico:
 
+Se implementó un sistema de reserva de tokens especiales (como <|endoftext|>, <|pad|>, <|unk|>).
+
+El vocab_size ahora incluye estos tokens reservados de forma transparente.
+
+Optimización del entrenamiento:
+
+Se agregó soporte para procesamiento por lotes (batch_processing) en archivos grandes.
+
+Se incluyó un sistema de límite de fusiones (max_merges) para controlar el crecimiento del vocabulario.
+
+Codificación y decodificación mejoradas:
+
+La función encode ahora acepta un parámetro return_tensors para devolver tensores de PyTorch.
+
+Se añadió manejo de tokens desconocidos mediante un token <|unk|>.
+
+Persistencia ampliada:
+
+El método save ahora guarda también los merges y el vocabulario inverso.
+
+Se agregó validación de integridad al cargar con load.
+
+Módulo embeddings – Clase TransformerEmbedding
+Modificaciones aplicadas:
+Embeddings posicionales aprendidas:
+
+Se reemplazó el enfoque de embeddings posicionales fijas por embeddings aprendidas (nn.Embedding para posiciones).
+
+Se añadió dropout opcional para regularización.
+
+Normalización de capa (LayerNorm) integrada:
+
+Se incluyó una capa de normalización después de sumar token + posición.
+
+Esto mejora la estabilidad durante el entrenamiento.
+
+Soporte para máscara de atención:
+
+El método forward ahora acepta un parámetro opcional attention_mask.
+
+Permite ignorar tokens de padding durante el cálculo.
+
+Configuración flexible:
+
+Ahora se puede elegir entre embeddings posicionales aprendidas o sinusoidales mediante un flag learnable_pos.
+
+Módulo orquestador (main)
+Modificaciones aplicadas:
+Parámetros configurables desde línea de comandos:
+
+Se agregó soporte para argparse para configurar VOCAB_SIZE, D_MODEL, MAX_SEQ_LEN, etc.
+
+Se pueden especificar rutas de entrada y salida directamente.
+
+Pipeline de entrenamiento y evaluación:
+
+Se añadió un bucle de entrenamiento básico con logging de pérdida.
+
+Se incluyó evaluación en un conjunto de validación separado.
+
+Guardado de checkpoints:
+
+Ahora se guardan tanto el tokenizador como el modelo de embeddings en un mismo directorio estructurado.
+
+Se incluye un archivo config.json con los hiperparámetros usados.
+
+Soporte para múltiples archivos de entrenamiento:
+
+El orquestador puede leer múltiples archivos .txt de un directorio.
+
+Se agregó una barra de progreso (tqdm) para el entrenamiento del tokenizador.
+
+Nuevas dependencias (requeriments.txt):
+
+torch>=2.0.0
+tqdm>=4.65.0
+numpy>=1.24.0
+
+estructura actualizada del proyecto:
+
+LLM/
+├── bpetokenizer.py
+├── embeddings.py
+├── main.py
+├── config/
+│   └── config.json
+├── data/
+│   ├── train/
+│   └── val/
+├── outputs/
+│   ├── tokenizer.json
+│   ├── embeddings.pt
+│   └── checkpoint_*.pt
+└── README.md
